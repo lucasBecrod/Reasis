@@ -1,24 +1,24 @@
-# Agent's Documentation
+# Documentación del Agente
 
-This file is used by the software agent to document its work on the "Reasis" project.
+Este archivo es utilizado por el agente de software para documentar su trabajo en el proyecto "Reasis".
 
-## Project Goal
+## Objetivo del Proyecto
 
-The main goal of this project is to create a data structure for the "Fe y Alegría" network, which will be used for statistical analysis. This will eventually become a FlutterFlow app called "Reasis" for school principals to upload data.
+El objetivo principal de este proyecto es crear una estructura de datos para la red "Fe y Alegría", que será utilizada para análisis estadístico. Esto eventualmente se convertirá en una aplicación FlutterFlow llamada "Reasis" para que los directores de escuela suban datos.
 
-## Work Done
+## Trabajo Realizado
 
 *   **2025-08-06:**
-    *   Explored the project structure and identified the relevant files in the `assets/Consultoria` directory.
-    *   Communicated with the user to get the database schema.
-    *   Received a detailed database schema from the user.
-    *   Analyzed the schema and proposed improvements (adding a `rers` table and an `updated_at` trigger), which the user approved.
-    *   Created this `AGENTS.md` file to document the work.
-    *   Created the `README.md` file with a project overview.
-    *   Created the initial SQL schema file in `supabase/migrations/0001_initial_schema.sql`.
+    *   Exploré la estructura del proyecto e identifiqué los archivos relevantes en el directorio `assets/Consultoria`.
+    *   Me comuniqué con el usuario para obtener el esquema de la base de datos.
+    *   Recibí un esquema detallado de la base de datos del usuario.
+    *   Analicé el esquema y propuse mejoras (agregando una tabla `rers` y un trigger `updated_at`), que el usuario aprobó.
+    *   Creé este archivo `AGENTS.md` para documentar el trabajo.
+    *   Creé el archivo `README.md` con una descripción general del proyecto.
+    *   Creé el archivo SQL de esquema inicial en `supabase/migrations/0001_initial_schema.sql`.
 
-## Next Steps
+## Próximos Pasos
 
-1.  **Execute the SQL schema.** The `supabase/migrations/0001_initial_schema.sql` file needs to be executed in the Supabase environment to create the database schema.
-2.  **Populate the database.** Get sample data from the user (from the `.xlsx` files) and create a script to populate the database.
-3.  **Build the FlutterFlow application.** Create the forms for data entry as specified by the user.
+1.  **Ejecutar el esquema SQL.** El archivo `supabase/migrations/0001_initial_schema.sql` necesita ser ejecutado en el entorno de Supabase para crear el esquema de la base de datos.
+2.  **Poblar la base de datos.** Obtener datos de muestra del usuario (desde los archivos `.xlsx`) y crear un script para poblar la base de datos.
+3.  **Construir la aplicación FlutterFlow.** Crear los formularios para entrada de datos según lo especificado por el usuario.

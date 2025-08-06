@@ -1,30 +1,30 @@
-# Reasis Project
+# Proyecto Reasis
 
-## About this project
+## Acerca de este proyecto
 
-"Reasis" is a data collection and analysis platform for the "Fe y Alegría" network of schools. The project aims to provide a tool for school principals to upload data about their schools, which will then be used by the "Fe y Alegría" team for statistical analysis and to better plan their interventions.
+"Reasis" es una plataforma de recolección y análisis de datos para la red de escuelas "Fe y Alegría". El proyecto tiene como objetivo proporcionar una herramienta para que los directores de escuela suban datos sobre sus instituciones, que luego serán utilizados por el equipo de "Fe y Alegría" para análisis estadístico y para planificar mejor sus intervenciones.
 
-This project is in its early stages of development.
+Este proyecto se encuentra en sus primeras etapas de desarrollo.
 
-## Technology Stack
+## Stack Tecnológico
 
 *   **Frontend:** FlutterFlow
 *   **Backend:** Supabase (PostgreSQL)
 
-## Database Structure
+## Estructura de la Base de Datos
 
-The database is designed to separate raw data (base indicators) from calculated data (composite variables).
+La base de datos está diseñada para separar los datos crudos (indicadores base) de los datos calculados (variables compuestas).
 
-*   **Base Indicators:** These are the primary data points collected through the app's forms. They are stored in four main tables:
-    *   `instituciones_educativas`: Basic information about the schools.
-    *   `indicadores_academicos_base`: Academic performance indicators.
-    *   `indicadores_docentes_base`: Teacher-related indicators.
-    *   `indicadores_infraestructura_base`: Infrastructure and resource indicators.
+*   **Indicadores Base:** Estos son los puntos de datos primarios recolectados a través de los formularios de la aplicación. Se almacenan en cuatro tablas principales:
+    *   `instituciones_educativas`: Información básica sobre las escuelas.
+    *   `indicadores_academicos_base`: Indicadores de rendimiento académico.
+    *   `indicadores_docentes_base`: Indicadores relacionados con los docentes.
+    *   `indicadores_infraestructura_base`: Indicadores de infraestructura y recursos.
 
-*   **Composite Variables:** These are calculated automatically from the base indicators using SQL views. This ensures that the data is always consistent and up-to-date. The views are:
+*   **Variables Compuestas:** Estas se calculan automáticamente a partir de los indicadores base usando vistas SQL. Esto asegura que los datos siempre sean consistentes y estén actualizados. Las vistas son:
     *   `variables_dependientes`
     *   `variables_independientes_contexto`
     *   `variables_independientes_docentes`
     *   `variables_independientes_recursos`
 
-The complete database schema can be found in the `supabase/migrations` directory.
+El esquema completo de la base de datos se puede encontrar en el directorio `supabase/migrations`.
