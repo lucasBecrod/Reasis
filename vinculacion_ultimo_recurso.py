@@ -214,16 +214,16 @@ def generar_reporte_final():
     print(f"Objetivo 63 IIEE: {objetivo_63_iiee} -> Logrado: {instituciones_ila}")
     
     if porcentaje >= 95.8:
-        print("✅ OBJETIVO PORCENTAJE ALCANZADO!")
+        print("OBJETIVO PORCENTAJE ALCANZADO!")
     else:
         faltante = objetivo_958 - vinculados
-        print(f"❌ Faltan: {faltante:,} registros ({faltante/total*100:.1f}%)")
+        print(f"Faltan: {faltante:,} registros ({faltante/total*100:.1f}%)")
     
     if instituciones_ila >= 63:
-        print("✅ OBJETIVO INSTITUCIONES ALCANZADO!")
+        print("OBJETIVO INSTITUCIONES ALCANZADO!")
     else:
         faltante_iiee = 63 - instituciones_ila
-        print(f"❌ Faltan: {faltante_iiee} instituciones")
+        print(f"Faltan: {faltante_iiee} instituciones")
     
     conn.close()
     
@@ -231,7 +231,7 @@ def generar_reporte_final():
 
 def vinculacion_ultimo_recurso():
     """Función principal - Vinculación de último recurso"""
-    print("🎯 VINCULACIÓN DE ÚLTIMO RECURSO - METODOLOGÍA FINAL")
+    print("VINCULACION DE ULTIMO RECURSO - METODOLOGIA FINAL")
     print("=" * 70)
     
     # Paso 1: Extraer códigos y nombres sin vincular
@@ -255,4 +255,4 @@ def vinculacion_ultimo_recurso():
 
 if __name__ == "__main__":
     porcentaje_final, iiee_final = vinculacion_ultimo_recurso()
-    print(f"\n🏆 RESULTADO FINAL: {porcentaje_final:.1f}% vinculación, {iiee_final} IIEE con ILA")
+    print(f"\nRESULTADO FINAL: {porcentaje_final:.1f}% vinculacion, {iiee_final} IIEE con ILA")
