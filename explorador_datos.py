@@ -102,7 +102,9 @@ class ExploradorDatos:
                 for hoja, info_hoja in info.get('hojas', {}).items():
                     if 'error' not in info_hoja:
                         total_columnas += info_hoja.get('total_columnas', 0)
-                        todas_las_columnas.update(info_hoja.get('columnas', []))
+                        # Convertir todas las columnas a string para evitar errores de comparación
+                        columnas_hoja = [str(col) for col in info_hoja.get('columnas', [])]
+                        todas_las_columnas.update(columnas_hoja)
         
         reporte['resumen'] = {
             'total_hojas': total_hojas,

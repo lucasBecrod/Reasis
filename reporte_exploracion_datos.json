@@ -1,0 +1,19 @@
+{
+  "fecha_analisis": "2025-08-06T18:43:57.056437",
+  "total_archivos": 24,
+  "archivos": {
+    "BD Clusterizacion (2).xlsx": {
+      "ruta": "assets\\Consultoria\\BD Clusterizacion (2).xlsx",
+      "hojas": {
+        "Factores asociados": {
+          "columnas": [
+            "Unnamed: 0",
+            "Unnamed: 1",
+            "Unnamed: 2",
+            "Unnamed: 3",
+            "Unnamed: 4",
+            "Unnamed: 5"
+          ],
+          "total_columnas": 6,
+          "tipos_datos": {
+            "Unnamed: 0": 
