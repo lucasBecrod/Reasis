@@ -530,7 +530,8 @@ El objetivo principal de este proyecto es crear una estructura de datos para la 
         5.  **ESTRATEGIA EXITOSA (PUENTE)**: Se reutilizó la tabla `mapeo_codigos_ie` (creada para los resultados académicos). La clave fue cruzar el `codigo_local` del estudiante (ej: "86769 ABRAHAM VALDELOMAR") con la columna `nombre_ie_encontrado` de la tabla de mapeo.
             - **Herramienta**: `20_simular_vinculacion_con_mapeo.py`.
             - **Resultado Parcial**: Se logró vincular a **348 estudiantes**, alcanzando una tasa de éxito del **74.7%** sobre los registros que tenían código. La tasa de vinculación general fue del **25.2%**.
-        6.  **ESTRATEGIA DE ÚLTIMO RECURSO (INNOVACIÓN)**: Para maximizar la cobertura, se aplicó la misma estrategia de puente pero **eliminando el filtro de `nivel` educativo**. Esto permitió encontrar coincidencias que antes se descartaban.
+        6.  **Intento 3 (Fuzzy Matching)**: Para los registros sin código, se propuso una vinculación por similitud de nombres (Fuzzy Matching) usando el script `22_vincular_estudiantes_fuzzy_match.py`. La idea era comparar el nombre de la IE en los datos del estudiante con la lista oficial. Este intento se descartó por un problema técnico (`no such column: id`) y se reemplazó por una estrategia superior propuesta por el usuario.
+        7.  **ESTRATEGIA DE ÚLTIMO RECURSO (INNOVACIÓN)**: Para maximizar la cobertura, se aplicó la misma estrategia de puente pero **eliminando el filtro de `nivel` educativo**. Esto permitió encontrar coincidencias que antes se descartaban.
             - **Herramienta**: `22_vincular_estudiantes_ultimo_recurso.py`.
             - **Resultado Final**: Se logró vincular a **348 estudiantes** en total. La estrategia de último recurso no añadió nuevos vínculos en este caso, pero validó que el método anterior era el más efectivo posible con los datos disponibles.
 
