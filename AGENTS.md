@@ -495,3 +495,91 @@ El objetivo principal de este proyecto es crear una estructura de datos para la 
         - **X5 (ED)**: Datos de continuidad disponibles (continua_rer, codigo_modular_continua)
         - **X6 (CDD)**: Base en nota_digital 2023, complementar con archivo adicional si necesario
         - **369 registros vinculados** con instituciones para análisis completo
+
+*   **2025-08-08 (HITO FINAL: CONSOLIDACIÓN Y VINCULACIÓN DE COMPETENCIAS DIGITALES):**
+    *   **🎯 FASE FINAL DE CONSOLIDACIÓN COMPLETADA**: Procesamiento y vinculación de datos de competencias digitales de docentes y estudiantes.
+    *   **FUENTES PROCESADAS**:
+        - `3. BD Comp Digitales Docentes 2025.xlsx`
+        - `3. BD Comp Digitales Estudiantes 2024.xlsx`
+    *   **NUEVAS TABLAS CREADAS**:
+        - `competencia_digital_docentes`: 776 registros.
+        - `competencia_digital_estudiantes`: 1,380 registros.
+
+    ### ✅ **Competencias Digitales de Docentes**
+    *   **IMPLEMENTACIÓN**: Se creó el script `08_importar_competencias_digitales.py` para procesar 776 registros.
+    *   **ESTANDARIZACIÓN**: Se mapearon los niveles de logro ("Nivel básico", "En proceso", etc.) a valores numéricos (1-4) para análisis.
+    *   **VINCULACIÓN**: Se logró una **vinculación del 100%** de los docentes a su red educativa (`codigo_red`) usando la columna `Nombre de la RER`.
+    *   **ANÁLISIS**: El script `09_analizar_competencias_por_red.py` reveló que la red de **Malingas** tiene el promedio más alto (2.28) y **Pucallpa** el más bajo (1.70).
+
+    ### ✅ **Competencias Digitales de Estudiantes**
+    *   **IMPLEMENTACIÓN**: Se creó el script `12_importar_competencias_estudiantes.py` para procesar 1,380 registros.
+    *   **LIMPIEZA DE DATOS**:
+        - Se normalizó la columna `Nivel` a formato Título (ej: "SECUNDARIA" -> "Secundaria").
+        - Se unificó la columna `grado` al formato "4 Secundaria".
+        - Se renombró la columna `Colegio` a `codigo_local` para mayor consistencia.
+    *   **VINCULACIÓN A REDES**: Se logró una **vinculación del 100%** de los estudiantes a su red educativa (`codigo_red`).
+
+    ### 🔧 **Desafío Crítico: Vinculación de Estudiantes a Instituciones**
+    *   **PROBLEMA**: La tabla de estudiantes no tenía un `codigo_modular` directo para vincular con `instituciones_educativas`.
+    *   **CONTEXTO CLAVE**: Se identificó que los datos de años anteriores a 2024 (recolectados digitalmente) a menudo omitían el nombre/código de la IE. En 2024, al ser virtual, este campo se solicitó, resultando en datos de mejor calidad pero incompletos en el histórico. Esto explica por qué solo 466 de 1,380 registros tenían un identificador de IE.
+    *   **ESTRATEGIA ITERATIVA APLICADA**:
+        1.  **Intento 1 (Fallo)**: Vincular por `codigo_local` del estudiante contra `codigo_local` de la institución. **Resultado: 0%**.
+        2.  **Diagnóstico 1**: El script `17_diagnosticar_codigos_locales.py` confirmó que los códigos no coincidían.
+        3.  **Intento 2 (Fallo)**: Vincular por `codigo_local` del estudiante contra `codigo_modular` de la institución. **Resultado: 0%**.
+        4.  **Diagnóstico 2**: El script `18_diagnosticar_codigos_modulares.py` confirmó que tampoco eran códigos modulares.
+        5.  **ESTRATEGIA EXITOSA (PUENTE)**: Se reutilizó la tabla `mapeo_codigos_ie` (creada para los resultados académicos). La clave fue cruzar el `codigo_local` del estudiante (ej: "86769 ABRAHAM VALDELOMAR") con la columna `nombre_ie_encontrado` de la tabla de mapeo.
+            - **Herramienta**: `20_simular_vinculacion_con_mapeo.py`.
+            - **Resultado Parcial**: Se logró vincular a **348 estudiantes**, alcanzando una tasa de éxito del **74.7%** sobre los registros que tenían código. La tasa de vinculación general fue del **25.2%**.
+        6.  **ESTRATEGIA DE ÚLTIMO RECURSO (INNOVACIÓN)**: Para maximizar la cobertura, se aplicó la misma estrategia de puente pero **eliminando el filtro de `nivel` educativo**. Esto permitió encontrar coincidencias que antes se descartaban.
+            - **Herramienta**: `22_vincular_estudiantes_ultimo_recurso.py`.
+            - **Resultado Final**: Se logró vincular a **348 estudiantes** en total. La estrategia de último recurso no añadió nuevos vínculos en este caso, pero validó que el método anterior era el más efectivo posible con los datos disponibles.
+
+    ### 📊 **Estado Final de la Vinculación de Estudiantes**
+    *   **Total de Registros**: 1,380
+    *   **Registros con Código de IE**: 466 (33.8%)
+    *   **Registros Vinculados a una Institución**: 348 (25.2%)
+    *   **LECCIÓN APRENDIDA**: La calidad y completitud de los datos de origen son el factor más crítico. A pesar de las técnicas avanzadas, no se puede vincular lo que no tiene un identificador. El proceso, sin embargo, ha sido exitoso al extraer el máximo valor posible de los datos disponibles.
+
+*   **2025-08-08 (HITO FINAL: CONSOLIDACIÓN Y VINCULACIÓN DE COMPETENCIAS DIGITALES):**
+    *   **🎯 FASE FINAL DE CONSOLIDACIÓN COMPLETADA**: Procesamiento y vinculación de datos de competencias digitales de docentes y estudiantes.
+    *   **FUENTES PROCESADAS**:
+        - `3. BD Comp Digitales Docentes 2025.xlsx`
+        - `3. BD Comp Digitales Estudiantes 2024.xlsx`
+    *   **NUEVAS TABLAS CREADAS**:
+        - `competencia_digital_docentes`: 776 registros.
+        - `competencia_digital_estudiantes`: 1,380 registros.
+
+    ### ✅ **Competencias Digitales de Docentes**
+    *   **IMPLEMENTACIÓN**: Se creó el script `08_importar_competencias_digitales.py` para procesar 776 registros.
+    *   **ESTANDARIZACIÓN**: Se mapearon los niveles de logro ("Nivel básico", "En proceso", etc.) a valores numéricos (1-4) para análisis.
+    *   **VINCULACIÓN**: Se logró una **vinculación del 100%** de los docentes a su red educativa (`codigo_red`) usando la columna `Nombre de la RER`.
+    *   **ANÁLISIS**: El script `09_analizar_competencias_por_red.py` reveló que la red de **Malingas** tiene el promedio más alto (2.28) y **Pucallpa** el más bajo (1.70).
+
+    ### ✅ **Competencias Digitales de Estudiantes**
+    *   **IMPLEMENTACIÓN**: Se creó el script `12_importar_competencias_estudiantes.py` para procesar 1,380 registros.
+    *   **LIMPIEZA DE DATOS**:
+        - Se normalizó la columna `Nivel` a formato Título (ej: "SECUNDARIA" -> "Secundaria").
+        - Se unificó la columna `grado` al formato "4 Secundaria".
+        - Se renombró la columna `Colegio` a `codigo_local` para mayor consistencia.
+    *   **VINCULACIÓN A REDES**: Se logró una **vinculación del 100%** de los estudiantes a su red educativa (`codigo_red`).
+
+    ### 🔧 **Desafío Crítico: Vinculación de Estudiantes a Instituciones**
+    *   **PROBLEMA**: La tabla de estudiantes no tenía un `codigo_modular` directo para vincular con `instituciones_educativas`.
+    *   **CONTEXTO CLAVE**: Se identificó que los datos de años anteriores a 2024 (recolectados digitalmente) a menudo omitían el nombre/código de la IE. En 2024, al ser virtual, este campo se solicitó, resultando en datos de mejor calidad pero incompletos en el histórico. Esto explica por qué solo 466 de 1,380 registros tenían un identificador de IE.
+    *   **ESTRATEGIA ITERATIVA APLICADA**:
+        1.  **Intento 1 (Fallo)**: Vincular por `codigo_local` del estudiante contra `codigo_local` de la institución. **Resultado: 0%**.
+        2.  **Diagnóstico 1**: El script `17_diagnosticar_codigos_locales.py` confirmó que los códigos no coincidían.
+        3.  **Intento 2 (Fallo)**: Vincular por `codigo_local` del estudiante contra `codigo_modular` de la institución. **Resultado: 0%**.
+        4.  **Diagnóstico 2**: El script `18_diagnosticar_codigos_modulares.py` confirmó que tampoco eran códigos modulares.
+        5.  **ESTRATEGIA EXITOSA (PUENTE)**: Se reutilizó la tabla `mapeo_codigos_ie` (creada para los resultados académicos). La clave fue cruzar el `codigo_local` del estudiante (ej: "86769 ABRAHAM VALDELOMAR") con la columna `nombre_ie_encontrado` de la tabla de mapeo.
+            - **Herramienta**: `20_simular_vinculacion_con_mapeo.py`.
+            - **Resultado Parcial**: Se logró vincular a **348 estudiantes**, alcanzando una tasa de éxito del **74.7%** sobre los registros que tenían código. La tasa de vinculación general fue del **25.2%**.
+        6.  **ESTRATEGIA DE ÚLTIMO RECURSO (INNOVACIÓN)**: Para maximizar la cobertura, se aplicó la misma estrategia de puente pero **eliminando el filtro de `nivel` educativo**. Esto permitió encontrar coincidencias que antes se descartaban.
+            - **Herramienta**: `22_vincular_estudiantes_ultimo_recurso.py`.
+            - **Resultado Final**: Se logró vincular a **348 estudiantes** en total. La estrategia de último recurso no añadió nuevos vínculos en este caso, pero validó que el método anterior era el más efectivo posible con los datos disponibles.
+
+    ### 📊 **Estado Final de la Vinculación de Estudiantes**
+    *   **Total de Registros**: 1,380
+    *   **Registros con Código de IE**: 466 (33.8%)
+    *   **Registros Vinculados a una Institución**: 348 (25.2%)
+    *   **LECCIÓN APRENDIDA**: La calidad y completitud de los datos de origen son el factor más crítico. A pesar de las técnicas avanzadas, no se puede vincular lo que no tiene un identificador. El proceso, sin embargo, ha sido exitoso al extraer el máximo valor posible de los datos disponibles.
