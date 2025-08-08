@@ -1,0 +1,28 @@
+GEMINI_API_KEYS_SECURE
+=======================
+
+PRIMARY API KEY: AIzaSyDi8ggbQO_dbDoWUj2rGbkHLjyPfGZ16nU
+- Descripción: API Key principal con quota completa
+- Estado: Activa
+- Límite: 50 requests/día  
+- Uso: Sistema de matching principal
+
+BACKUP API KEY: AIzaSyDqSlwH1rDtRGatRquZX6WVK0cM28Y38z0
+- Descripción: API Key backup para failover automático
+- Estado: Activa
+- Límite: 50 requests/día
+- Uso: Failover cuando primary excede quota
+
+INSTRUCCIONES DE SEGURIDAD:
+- NO subir este archivo a repositorios públicos
+- NO compartir estas claves por medios inseguros
+- Rotar claves periódicamente
+- Monitorear uso de quota
+
+IMPLEMENTACIÓN:
+- gemini_optimizer.py: Sistema dual con failover
+- config_gemini.py: Gestión centralizada
+- Sistema de matching listo para producción
+
+FECHA: 2025-08-08
+PROYECTO: REASIS Fe y Alegría

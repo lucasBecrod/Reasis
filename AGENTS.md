@@ -579,6 +579,32 @@ El objetivo principal de este proyecto es crear una estructura de datos para la 
             - **Herramienta**: `22_vincular_estudiantes_ultimo_recurso.py`.
             - **Resultado Final**: Se logró vincular a **348 estudiantes** en total. La estrategia de último recurso no añadió nuevos vínculos en este caso, pero validó que el método anterior era el más efectivo posible con los datos disponibles.
 
+
+*   **2025-08-09 (HITO: VINCULACIÓN DE DATOS DE CONECTIVIDAD)**:
+    *   **🎯 ESTRATEGIA HÍBRIDA DE MATCHING IMPLEMENTADA**: Se abordó el problema de la vinculación de datos de conectividad desde el archivo `4. Conectividad y equipamiento.xlsx`.
+    *   **PROBLEMA**: El enfoque de solo-API era costoso y se detuvo por una API key expirada.
+    *   **SOLUCIÓN**: Se implementó un `procesador_hibrido.py` que combina `fuzzywuzzy` (local) y Gemini (IA).
+        -   Primero intenta un match local con alta confianza (>90%).
+        -   Si no es concluyente, pasa a la IA como último recurso.
+    *   **RESULTADOS ESPECTACULARES**:
+        -   **92.4% de eficiencia**: 85 de 92 registros resueltos localmente, sin coste de API.
+        -   1 registro resuelto por IA antes de que la API key fallara.
+        -   6 registros no resueltos (1 descartado por baja confianza, 5 por error de API).
+    *   **LECCIÓN APRENDIDA**: La estrategia híbrida es superior: más rápida, económica y robusta ante fallos de API.
+    *   **INTEGRACIÓN DE DATOS DE CONECTIVIDAD**:
+        -   Se creó `integrador_conectividad.py` para consolidar los resultados.
+        -   Se creó la nueva tabla `conectividad_equipamiento` con 108 registros de datos de conectividad y equipamiento, correctamente vinculados a su `codigo_modular`.
+        -   Los datos están listos para el análisis.
+    *   **HERRAMIENTAS DESARROLLADAS**:
+        -   `procesador_hibrido.py`: Script de matching que combina `fuzzywuzzy` y Gemini.
+        -   `integrador_conectividad.py`: Script para poblar la tabla final de conectividad.
+    *   **NUEVAS TABLAS CREADAS**:
+        -   `conectividad_equipamiento`: 108 registros con datos de conectividad y equipamiento.
+        -   `conectividad_progreso`: Tabla de control para el proceso de matching.
+    *   **ESTADO ACTUAL**:
+        -   Datos de conectividad integrados y listos para el análisis.
+
+
     ### 📊 **Estado Final de la Vinculación de Estudiantes**
     *   **Total de Registros**: 1,380
     *   **Registros con Código de IE**: 466 (33.8%)

@@ -1,0 +1,28 @@
+
+--- Análisis de Vinculación RER ---
+Total de registros en conectividad_equipamiento: 121
+Registros en conectividad_equipamiento sin match en instituciones_educativas: 13
+Registros con match en instituciones_educativas: 108
+
+Registros donde ce.modalidad es 'RER': 108
+  - Consistentes (ie.es_rural es 'Sí'): 99
+  - Inconsistentes (ie.es_rural no es 'Sí'): 9
+
+Registros donde ce_nombre_rer (dígitos) coincide con ie.codigo_red o ie.codigo_rer (dígitos): 0
+Registros donde ce_nombre_rer (dígitos) NO coincide con ie.codigo_red o ie.codigo_rer (dígitos): 99
+
+Ejemplos de inconsistencias (ce.modalidad='RER' pero ie.es_rural != 'Sí'):
+   codigo_modular ce_modalidad es_rural_str
+9         1625904          RER           No
+24        1448588          RER           No
+59         916023          RER           No
+90        1397348          RER           No
+93        1200906          RER           No
+
+Ejemplos de inconsistencias (ce_nombre_rer NO coincide con ie.codigo_red/rer):
+  codigo_modular ce_nombre_rer codigo_red  codigo_rer ce_nombre_rer_digits codigo_red_digits codigo_rer_digits
+0        1568799         525-B  RER FA 72        72.0                  525                72               720
+1        1568799         525-B  RER FA 72        72.0                  525                72               720
+2        1527233       6010231       None         NaN              6010231                                    
+3        1568799         525-B  RER FA 72        72.0                  525                72               720
+4        1568799         525-B  RER FA 72        72.0                  525                72               720
