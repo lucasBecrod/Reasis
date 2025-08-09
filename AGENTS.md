@@ -851,3 +851,71 @@ El objetivo principal de este proyecto es crear una estructura de datos para la 
         - Generación de reportes de completitud
         - Base consolidada para clustering K-Means
 
+## 📁 **REORGANIZACIÓN PROYECTO POR DOMINIOS FUNCIONALES (2025-08-09 00:19)**
+
+### **✅ ESTRUCTURA ANTERIOR REORGANIZADA:**
+**PROBLEMA**: Directorio principal saturado con 80+ archivos Python dispersos, dificultando mantenimiento y nuevas implementaciones para clustering robusto.
+
+### **🗂️ NUEVA ARQUITECTURA POR DOMINIOS:**
+Se crearon **8 carpetas funcionales** organizando todos los scripts Python por dominio específico:
+
+#### **📁 funciones/integracion/** - Archivos de Integración de Datos
+- `integrador_*.py` (12 archivos): Scripts para integrar datos de diferentes fuentes
+- **Función**: Vinculación de datos EIB MINEDU, conectividad, estabilidad docente, etc.
+- **Estado**: Funciones pueden requerir ajustes de imports
+
+#### **📁 funciones/exploracion/** - Archivos de Exploración y Análisis
+- `explorador_*.py`, `analizador_*.py` (16 archivos): Scripts de exploración de datos
+- **Función**: Análisis preliminar de archivos Excel, estructura de datos, etc.
+- **Estado**: Funciones de análisis pueden requerir ajustes de rutas
+
+#### **📁 funciones/normalizacion/** - Archivos de Normalización
+- `normalizador_*.py`, `corrector_*.py`, `completador_*.py` (8 archivos): Scripts de limpieza
+- **Función**: Limpieza y normalización de datos, corrección de inconsistencias
+- **Estado**: Funciones pueden requerir ajustes de imports y rutas
+
+#### **📁 funciones/clustering/** - Archivos de Clustering y Metodología
+- `clustering_*.py`, `constructor_indices_metodologicos.py` (3 archivos): Core metodológico
+- **Función**: Implementación K-Means, construcción de índices metodológicos
+- **Estado**: Scripts principales del clustering, críticos para fase 2
+
+#### **📁 funciones/analisis/** - Archivos de Análisis General
+- `analisis_*.py`, `evaluacion_*.py`, `procesador_*.py`, `temp_*.py` (27 archivos): Análisis diversos
+- **Función**: Evaluaciones metodológicas, procesamiento batch, scripts temporales
+- **Estado**: Mayor cantidad de archivos, algunos temporales pueden eliminarse
+
+#### **📁 funciones/validacion/** - Archivos de Validación y Vinculación
+- `verificar_*.py`, `validar_*.py`, `vinculador_*.py` (14 archivos): Validación de calidad
+- **Función**: Verificación de consistencia, validación cruzada, vinculación inteligente
+- **Estado**: Funciones de QA críticas, pueden requerir ajustes
+
+#### **📁 funciones/reportes/** - Archivos de Reportería
+- `reporte_*.py`, `resumen_*.py` (4 archivos): Generación de reportes
+- **Función**: Reportes finales, resúmenes ejecutivos, documentación automática
+- **Estado**: Scripts de salida, menor prioridad para ajustes
+
+#### **📁 funciones/gemini_ai/** - Archivos de IA Gemini
+- `gemini_*.py`, `config_gemini.py` (3 archivos): Integración IA
+- **Función**: Optimización con IA, análisis automático, matching inteligente
+- **Estado**: Herramientas avanzadas, requieren API key activa
+
+### **🗃️ ARCHIVOS MANTENIDOS EN DIRECTORIO PRINCIPAL:**
+- **Base de datos**: `reasis_database.db` (principal + backup)
+- **Documentación**: `*.md` (CLAUDE.md, AGENTS.md, etc.)
+- **Archivos de configuración**: `requirements.txt`, `pubspec.yaml`, etc.
+- **Estructura Flutter**: `/lib`, `/android`, `/ios`, etc.
+- **Datos**: `/data`, `/assets`, `/scripts`, `/src`, etc.
+
+### **⚠️ CONSIDERACIONES TÉCNICAS:**
+1. **Imports**: Scripts pueden necesitar ajuste de rutas relativas
+2. **Dependencias**: Algunos archivos pueden depender de otros en diferentes carpetas
+3. **Rutas absolutas**: Scripts que acceden a `reasis_database.db` pueden necesitar ajuste
+4. **Funcionalidad**: No se garantiza que todos los scripts funcionen inmediatamente
+
+### **🎯 BENEFICIOS DE LA REORGANIZACIÓN:**
+- **Directorio principal limpio**: Solo BD principal y configuración
+- **Organización por dominio**: Fácil ubicación de funciones específicas
+- **Escalabilidad**: Nueva estructura permite desarrollo de clustering robusto
+- **Mantenimiento**: Estructura modular facilita actualizaciones
+- **Preparación Fase 2**: Base organizacional sólida para clustering avanzado
+
