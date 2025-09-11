@@ -1,0 +1,12 @@
+{
+  "fecha_calculo": "2025-08-10T01:26:49.131834",
+  "total_instituciones": 184,
+  "instituciones_con_x2_tr": 184,
+  "distribucion_x2_tr": {
+    "Urbano_TR1": 21,
+    "Rural_TR2": 163
+  },
+  "porcentaje_cobertura": 100.0,
+  "metodo_aplicado": "Conversion directa es_rural -> X2_TR",
+  "fuente_datos": "instituciones_educativas.es_rural"
+}

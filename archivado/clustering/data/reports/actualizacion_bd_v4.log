@@ -1,0 +1,25 @@
+2025-08-12 10:53:38,575 - INFO - === INICIANDO ACTUALIZACIÓN BD v4 CON DATOS OFICIALES ===
+2025-08-12 10:53:38,575 - INFO - Leyendo archivo Excel oficial...
+2025-08-12 10:53:38,877 - INFO - RER leídas: 6 registros
+2025-08-12 10:53:38,979 - INFO - IIEE leídas: 163 registros
+2025-08-12 10:53:38,980 - INFO - Actualizando tabla RER...
+2025-08-12 10:53:39,002 - INFO - Tabla RER actualizada con 6 RER oficiales
+2025-08-12 10:53:39,002 - INFO - Sincronizando tabla instituciones_educativas...
+2025-08-12 10:53:39,003 - INFO - IIEE en BD actual: 184
+2025-08-12 10:53:39,003 - INFO - IIEE oficiales: 163
+2025-08-12 10:53:39,004 - INFO - Solo en BD (a eliminar): 23
+2025-08-12 10:53:39,004 - INFO - Solo en oficial (a agregar): 2
+2025-08-12 10:53:39,004 - INFO - Comunes (mantener): 161
+2025-08-12 10:53:39,007 - INFO - Eliminadas 23 IIEE no oficiales
+2025-08-12 10:53:39,010 - INFO - Agregadas 2 IIEE oficiales nuevas
+2025-08-12 10:53:39,092 - INFO - Sincronización completada. Total IIEE en BD: 163
+2025-08-12 10:53:39,092 - INFO - Limpiando tabla indices_metodologicos...
+2025-08-12 10:53:39,093 - INFO - Eliminados 23 registros de indices_metodologicos
+2025-08-12 10:53:39,093 - INFO - Índices metodológicos finales: 161
+2025-08-12 10:53:39,099 - INFO - === REPORTE DE ACTUALIZACIÓN BD v4 ===
+2025-08-12 10:53:39,100 - INFO - Total IIEE oficiales: 163
+2025-08-12 10:53:39,100 - INFO - Total RER oficiales: 1
+2025-08-12 10:53:39,100 - INFO - Total índices metodológicos: 161
+2025-08-12 10:53:39,100 - INFO - Distribución por RER:
+2025-08-12 10:53:39,104 - INFO - Reporte guardado en: data\reports\reporte_actualizacion_v4.txt
+2025-08-12 10:53:39,104 - INFO - === ACTUALIZACIÓN BD v4 COMPLETADA EXITOSAMENTE ===

@@ -1,0 +1,25 @@
+{
+  "timestamp": "20250809_233137",
+  "faltantes_iniciales": 18,
+  "imputados_validos": 18,
+  "metodos": {
+    "ML": 18
+  },
+  "features_usadas": [
+    "nombre_red_fya_matched",
+    "numero_fya",
+    "area_censo",
+    "modalidad_especifica",
+    "region",
+    "provincia",
+    "distrito",
+    "Y1_ILA",
+    "Y2_TD",
+    "X11_RED",
+    "total_alumnos",
+    "total_docentes",
+    "latitud",
+    "longitud",
+    "altitud"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "fecha_creacion": "2025-08-09 11:39:31",
+    "total_instituciones_restantes": 4,
+    "total_registros_sin_codigo": 67,
+    "porcentaje_pendiente": 0.45,
+    "estado_proyecto": "FASE FINAL - Solo quedan 4 instituciones sin identificar",
+    "cobertura_actual": "99.55% de registros vinculados",
+    "metodologias_aplicadas": [
+      "Búsqueda automática por nombre exacto",
+      "Búsqueda por código local",
+      "Búsqueda fuzzy (similitud)",
+      "Patrón dual: separación código + nombre"
+    ]
+  },
+  "instituciones_restantes": [
+    {
+      "id_secuencial": 1,
+      "codigo_local": "Captuy",
+      "nombre_ie_original": "88225 CAPTUY",
+      "id2_completo": "88225 CAPTUY6 Primaria",
+      "registros_academicos_afectados": 30,
+      "regiones": [
+        "54. Ancash"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado": "REQUIERE_INVESTIGACION_MANUAL",
+      "notas": "No encontrado con métodos automáticos - posible error en datos originales"
+    },
+    {
+      "id_secuencial": 2,
+      "codigo_local": "Captuy",
+      "nombre_ie_original": "88225 CAPTUY",
+      "id2_completo": "88225 CAPTUY1 Primaria",
+      "registros_academicos_afectados": 15,
+      "regiones": [
+        "54. Ancash"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado": "REQUIERE_INVESTIGACION_MANUAL",
+      "notas": "No encontrado con métodos automáticos - posible error en datos originales"
+    },
+    {
+      "id_secuencial": 3,
+      "codigo_local": "Captuy",
+      "nombre_ie_original": "88225 CAPTUY",
+      "id2_completo": "88225 CAPTUY2 Primaria",
+      "registros_academicos_afectados": 13,
+      "regiones": [
+        "54. Ancash"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado": "REQUIERE_INVESTIGACION_MANUAL",
+      "notas": "No encontrado con métodos automáticos - posible error en datos originales"
+    },
+    {
+      "id_secuencial": 4,
+      "codigo_local": "Captuy",
+      "nombre_ie_original": "88225 CAPTUY",
+      "id2_completo": "88225 CAPTUY4 Primaria",
+      "registros_academicos_afectados": 9,
+      "regiones": [
+        "54. Ancash"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado": "REQUIERE_INVESTIGACION_MANUAL",
+      "notas": "No encontrado con métodos automáticos - posible error en datos originales"
+    }
+  ]
+}

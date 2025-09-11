@@ -1,0 +1,629 @@
+{
+  "metadata": {
+    "fecha_extraccion": "2025-08-09 10:58:37",
+    "total_instituciones_sin_codigo_modular": 28,
+    "total_registros_academicos_afectados": 434,
+    "descripcion": "Instituciones educativas con registros académicos pero sin código modular identificado",
+    "objetivo": "Investigar y asignar códigos modulares correctos para completar vinculación"
+  },
+  "instituciones_sin_codigo_modular": [
+    {
+      "id_secuencial": 1,
+      "codigo_local": "Ccoya Sec. Los Rittis del Alto Andino",
+      "nombre_ie_original": "1457365 LOS RIT'S DEL ALTO ANDINO",
+      "id2_completo": "1457365 LOS RIT'S DEL ALTO ANDINO5 Secundaria",
+      "total_registros_academicos": 101,
+      "regiones": [
+        "44. Cusco"
+      ],
+      "niveles_educativos": [
+        "Secundaria"
+      ],
+      "grados": [
+        "5 Secundaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado_investigacion": "NO_ENCONTRADO",
+      "codigo_modular_propuesto": null,
+      "notas_investigacion": ""
+    },
+    {
+      "id_secuencial": 2,
+      "codigo_local": "Captuy",
+      "nombre_ie_original": "88225 CAPTUY",
+      "id2_completo": "88225 CAPTUY6 Primaria",
+      "total_registros_academicos": 30,
+      "regiones": [
+        "54. Ancash"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "6 Primaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado_investigacion": "NO_ENCONTRADO",
+      "codigo_modular_propuesto": null,
+      "notas_investigacion": ""
+    },
+    {
+      "id_secuencial": 3,
+      "codigo_local": "José Carlos Mariategui",
+      "nombre_ie_original": "JOSE CARLOS MARIATEGUI",
+      "id2_completo": "JOSE CARLOS MARIATEGUI4 Secundaria",
+      "total_registros_academicos": 29,
+      "regiones": [
+        "79. Huancavelica"
+      ],
+      "niveles_educativos": [
+        "Secundaria"
+      ],
+      "grados": [
+        "4 Secundaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "0481093",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    },
+    {
+      "id_secuencial": 4,
+      "codigo_local": "Santiago Antunez de Mayolo",
+      "nombre_ie_original": "SANTIAGO ANTUNEZ DE MAYOLO",
+      "id2_completo": "SANTIAGO ANTUNEZ DE MAYOLO4 Primaria",
+      "total_registros_academicos": 28,
+      "regiones": [
+        "79. Huancavelica"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "4 Primaria"
+      ],
+      "años": [
+        "2023"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "3025715",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    },
+    {
+      "id_secuencial": 5,
+      "codigo_local": "JOSE CARLOS MARIATEGUI",
+      "nombre_ie_original": "JOSE CARLOS MARIATEGUI",
+      "id2_completo": "JOSE CARLOS MARIATEGUI2 Secundaria",
+      "total_registros_academicos": 25,
+      "regiones": [
+        "79. Huancavelica"
+      ],
+      "niveles_educativos": [
+        "Secundaria"
+      ],
+      "grados": [
+        "2 Secundaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "0481093",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    },
+    {
+      "id_secuencial": 6,
+      "codigo_local": "Santiago Antunez de Mayolo",
+      "nombre_ie_original": "SANTIAGO ANTUNEZ DE MAYOLO",
+      "id2_completo": "SANTIAGO ANTUNEZ DE MAYOLO6 Primaria",
+      "total_registros_academicos": 24,
+      "regiones": [
+        "79. Huancavelica"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "6 Primaria"
+      ],
+      "años": [
+        "2023"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "3025715",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    },
+    {
+      "id_secuencial": 7,
+      "codigo_local": "Ccoya Sec. Los Rittis del Alto Andino",
+      "nombre_ie_original": "1457365 LOS RIT'S DEL ALTO ANDINO",
+      "id2_completo": "1457365 LOS RIT'S DEL ALTO ANDINO2 Secundaria",
+      "total_registros_academicos": 21,
+      "regiones": [
+        "44. Cusco"
+      ],
+      "niveles_educativos": [
+        "Secundaria"
+      ],
+      "grados": [
+        "2 Secundaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado_investigacion": "NO_ENCONTRADO",
+      "codigo_modular_propuesto": null,
+      "notas_investigacion": ""
+    },
+    {
+      "id_secuencial": 8,
+      "codigo_local": "Santiago Antunez de Mayolo",
+      "nombre_ie_original": "SANTIAGO ANTUNEZ DE MAYOLO",
+      "id2_completo": "SANTIAGO ANTUNEZ DE MAYOLO2 Primaria",
+      "total_registros_academicos": 20,
+      "regiones": [
+        "79. Huancavelica"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "2 Primaria"
+      ],
+      "años": [
+        "2023"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "3025715",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    },
+    {
+      "id_secuencial": 9,
+      "codigo_local": "Captuy",
+      "nombre_ie_original": "88225 CAPTUY",
+      "id2_completo": "88225 CAPTUY1 Primaria",
+      "total_registros_academicos": 15,
+      "regiones": [
+        "54. Ancash"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "1 Primaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado_investigacion": "NO_ENCONTRADO",
+      "codigo_modular_propuesto": null,
+      "notas_investigacion": ""
+    },
+    {
+      "id_secuencial": 10,
+      "codigo_local": "José Carlos Mariátegui",
+      "nombre_ie_original": "JOSE CARLOS MARIATEGUI",
+      "id2_completo": "JOSE CARLOS MARIATEGUI4 Secundaria",
+      "total_registros_academicos": 15,
+      "regiones": [
+        "79. Huancavelica"
+      ],
+      "niveles_educativos": [
+        "Secundaria"
+      ],
+      "grados": [
+        "4 Secundaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "0481093",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    },
+    {
+      "id_secuencial": 11,
+      "codigo_local": "64346 Miraflores",
+      "nombre_ie_original": "64346",
+      "id2_completo": "643466 Primaria",
+      "total_registros_academicos": 14,
+      "regiones": [
+        "72. Ucayali"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "6 Primaria"
+      ],
+      "años": [
+        "2024",
+        "2023"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "1781897",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    },
+    {
+      "id_secuencial": 12,
+      "codigo_local": "Captuy",
+      "nombre_ie_original": "88225 CAPTUY",
+      "id2_completo": "88225 CAPTUY2 Primaria",
+      "total_registros_academicos": 13,
+      "regiones": [
+        "54. Ancash"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "2 Primaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado_investigacion": "NO_ENCONTRADO",
+      "codigo_modular_propuesto": null,
+      "notas_investigacion": ""
+    },
+    {
+      "id_secuencial": 13,
+      "codigo_local": "Yanacancha",
+      "nombre_ie_original": "50696 YANACANCHA",
+      "id2_completo": "50696 YANACANCHA4 Primaria",
+      "total_registros_academicos": 12,
+      "regiones": [
+        "44. Cusco"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "4 Primaria"
+      ],
+      "años": [
+        "2023"
+      ],
+      "estado_investigacion": "NO_ENCONTRADO",
+      "codigo_modular_propuesto": null,
+      "notas_investigacion": ""
+    },
+    {
+      "id_secuencial": 14,
+      "codigo_local": "Captuy",
+      "nombre_ie_original": "88225 CAPTUY",
+      "id2_completo": "88225 CAPTUY4 Primaria",
+      "total_registros_academicos": 9,
+      "regiones": [
+        "54. Ancash"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "4 Primaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado_investigacion": "NO_ENCONTRADO",
+      "codigo_modular_propuesto": null,
+      "notas_investigacion": ""
+    },
+    {
+      "id_secuencial": 15,
+      "codigo_local": "50696 YANACANCHA",
+      "nombre_ie_original": "50696 YANACANCHA",
+      "id2_completo": "50696 YANACANCHA6 Primaria",
+      "total_registros_academicos": 8,
+      "regiones": [
+        "44. Cusco"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "6 Primaria"
+      ],
+      "años": [
+        "2024"
+      ],
+      "estado_investigacion": "NO_ENCONTRADO",
+      "codigo_modular_propuesto": null,
+      "notas_investigacion": ""
+    },
+    {
+      "id_secuencial": 16,
+      "codigo_local": "64346 Miraflores",
+      "nombre_ie_original": "64346",
+      "id2_completo": "643462 Primaria",
+      "total_registros_academicos": 8,
+      "regiones": [
+        "72. Ucayali"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "2 Primaria"
+      ],
+      "años": [
+        "2024",
+        "2023"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "1781897",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    },
+    {
+      "id_secuencial": 17,
+      "codigo_local": "Sayri Tupac",
+      "nombre_ie_original": "SAYRI TUPAC",
+      "id2_completo": "SAYRI TUPAC2 Primaria",
+      "total_registros_academicos": 8,
+      "regiones": [
+        "79. Huancavelica"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "2 Primaria"
+      ],
+      "años": [
+        "2023"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "0428714",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    },
+    {
+      "id_secuencial": 18,
+      "codigo_local": "SAGRADO CORAZON DE JESÚS",
+      "nombre_ie_original": "15374",
+      "id2_completo": "153742 Primaria",
+      "total_registros_academicos": 7,
+      "regiones": [
+        "48. Piura"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "2 Primaria"
+      ],
+      "años": [
+        "2024"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "1768829",
+      "notas_investigacion": "Match tipo: FUZZY_89"
+    },
+    {
+      "id_secuencial": 19,
+      "codigo_local": "64155 Bagazan",
+      "nombre_ie_original": "64155",
+      "id2_completo": "641552 Primaria",
+      "total_registros_academicos": 6,
+      "regiones": [
+        "72. Ucayali"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "2 Primaria"
+      ],
+      "años": [
+        "2023"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "0304642",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    },
+    {
+      "id_secuencial": 20,
+      "codigo_local": "Sayri Tupac",
+      "nombre_ie_original": "SAYRI TUPAC",
+      "id2_completo": "SAYRI TUPAC6 Primaria",
+      "total_registros_academicos": 6,
+      "regiones": [
+        "79. Huancavelica"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "6 Primaria"
+      ],
+      "años": [
+        "2023"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "0428714",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    },
+    {
+      "id_secuencial": 21,
+      "codigo_local": "Yanacancha",
+      "nombre_ie_original": "50696 YANACANCHA",
+      "id2_completo": "50696 YANACANCHA2 Primaria",
+      "total_registros_academicos": 6,
+      "regiones": [
+        "44. Cusco"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "2 Primaria"
+      ],
+      "años": [
+        "2023"
+      ],
+      "estado_investigacion": "NO_ENCONTRADO",
+      "codigo_modular_propuesto": null,
+      "notas_investigacion": ""
+    },
+    {
+      "id_secuencial": 22,
+      "codigo_local": "Yanacancha",
+      "nombre_ie_original": "50696 YANACANCHA",
+      "id2_completo": "50696 YANACANCHA6 Primaria",
+      "total_registros_academicos": 6,
+      "regiones": [
+        "44. Cusco"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "6 Primaria"
+      ],
+      "años": [
+        "2023"
+      ],
+      "estado_investigacion": "NO_ENCONTRADO",
+      "codigo_modular_propuesto": null,
+      "notas_investigacion": ""
+    },
+    {
+      "id_secuencial": 23,
+      "codigo_local": "MIRAFLORES 64346",
+      "nombre_ie_original": "64346",
+      "id2_completo": "643462 Primaria",
+      "total_registros_academicos": 5,
+      "regiones": [
+        "72. Ucayali"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "2 Primaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "1781897",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    },
+    {
+      "id_secuencial": 24,
+      "codigo_local": "50696 YANACANCHA",
+      "nombre_ie_original": "50696 YANACANCHA",
+      "id2_completo": "50696 YANACANCHA2 Primaria",
+      "total_registros_academicos": 4,
+      "regiones": [
+        "44. Cusco"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "2 Primaria"
+      ],
+      "años": [
+        "2024"
+      ],
+      "estado_investigacion": "NO_ENCONTRADO",
+      "codigo_modular_propuesto": null,
+      "notas_investigacion": ""
+    },
+    {
+      "id_secuencial": 25,
+      "codigo_local": "50696 YANACANCHA",
+      "nombre_ie_original": "50696 YANACANCHA",
+      "id2_completo": "50696 YANACANCHA4 Primaria",
+      "total_registros_academicos": 4,
+      "regiones": [
+        "44. Cusco"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "4 Primaria"
+      ],
+      "años": [
+        "2024"
+      ],
+      "estado_investigacion": "NO_ENCONTRADO",
+      "codigo_modular_propuesto": null,
+      "notas_investigacion": ""
+    },
+    {
+      "id_secuencial": 26,
+      "codigo_local": "64346 Miraflores",
+      "nombre_ie_original": "64346",
+      "id2_completo": "643464 Primaria",
+      "total_registros_academicos": 4,
+      "regiones": [
+        "72. Ucayali"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "4 Primaria"
+      ],
+      "años": [
+        "2024"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "1781897",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    },
+    {
+      "id_secuencial": 27,
+      "codigo_local": "MIRAFLORES 64346",
+      "nombre_ie_original": "64346",
+      "id2_completo": "643464 Primaria",
+      "total_registros_academicos": 3,
+      "regiones": [
+        "72. Ucayali"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "4 Primaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "1781897",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    },
+    {
+      "id_secuencial": 28,
+      "codigo_local": "MIRAFLORES 64346",
+      "nombre_ie_original": "64346",
+      "id2_completo": "643466 Primaria",
+      "total_registros_academicos": 3,
+      "regiones": [
+        "72. Ucayali"
+      ],
+      "niveles_educativos": [
+        "Primaria"
+      ],
+      "grados": [
+        "6 Primaria"
+      ],
+      "años": [
+        "2022"
+      ],
+      "estado_investigacion": "ENCONTRADO",
+      "codigo_modular_propuesto": "1781897",
+      "notas_investigacion": "Match tipo: NOMBRE_EXACTO"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+ESTADISTICAS INSTITUCIONES EDUCATIVAS FE Y ALEGRIA
+==================================================
+
+Total instituciones: 163
+Regiones cubiertas: 6
+
+DISTRIBUCION POR REGION:
+Selva: 44 IIEE (27.0%)
+Piura: 35 IIEE (21.5%)
+Cusco: 25 IIEE (15.3%)
+Ucayali: 21 IIEE (12.9%)
+Ayacucho: 20 IIEE (12.3%)
+Áncash: 18 IIEE (11.0%)
+
+DISTRIBUCION POR RED:
+Red 44: 25 IIEE (15.3%)
+Red 47: 44 IIEE (27.0%)
+Red 48: 35 IIEE (21.5%)
+Red 54: 18 IIEE (11.0%)
+Red 72: 21 IIEE (12.9%)
+Red 79: 20 IIEE (12.3%)

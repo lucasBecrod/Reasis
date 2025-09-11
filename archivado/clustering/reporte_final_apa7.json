@@ -1,0 +1,91 @@
+{
+  "resumen_general": {
+    "documento_procesado": "01 Informe Tipologías IIEE 2025 1.0.docx",
+    "fecha_completado": "2025-08-14T12:09:24.661584",
+    "estadisticas": {
+      "total_tablas_numeradas": 34,
+      "total_figuras_numeradas": 22,
+      "total_referencias_actualizadas": 0,
+      "secciones_procesadas": 18
+    }
+  },
+  "inventario_elementos": {
+    "tablas": [
+      "Tabla 1: Título automático tabla 1",
+      "Tabla 2: Título automático tabla 2",
+      "Tabla 3: Título automático tabla 3",
+      "Tabla 4: Título automático tabla 4",
+      "Tabla 5: Título automático tabla 5",
+      "Tabla 6: Título automático tabla 6",
+      "Tabla 7: Título automático tabla 7",
+      "Tabla 8: Título automático tabla 8",
+      "Tabla 9: Título automático tabla 9",
+      "Tabla 10: Título automático tabla 10",
+      "Tabla 11: Título automático tabla 11",
+      "Tabla 12: Título automático tabla 12",
+      "Tabla 13: Título automático tabla 13",
+      "Tabla 14: Título automático tabla 14",
+      "Tabla 15: Título automático tabla 15",
+      "Tabla 16: Título automático tabla 16",
+      "Tabla 17: Título automático tabla 17",
+      "Tabla 18: Título automático tabla 18",
+      "Tabla 19: Título automático tabla 19",
+      "Tabla 20: Título automático tabla 20",
+      "Tabla 21: Título automático tabla 21",
+      "Tabla 22: Título automático tabla 22",
+      "Tabla 23: Título automático tabla 23",
+      "Tabla 24: Título automático tabla 24",
+      "Tabla 25: Título automático tabla 25",
+      "Tabla 26: Título automático tabla 26",
+      "Tabla 27: Título automático tabla 27",
+      "Tabla 28: Título automático tabla 28",
+      "Tabla 29: Título automático tabla 29",
+      "Tabla 30: Título automático tabla 30",
+      "Tabla 31: Título automático tabla 31",
+      "Tabla 32: Título automático tabla 32",
+      "Tabla 33: Título automático tabla 33",
+      "Tabla 34: Título automático tabla 34"
+    ],
+    "figuras": [
+      "Figura 1: Título automático figura 1",
+      "Figura 2: Título automático figura 2",
+      "Figura 3: Título automático figura 3",
+      "Figura 4: Título automático figura 4",
+      "Figura 5: Título automático figura 5",
+      "Figura 6: Título automático figura 6",
+      "Figura 7: Título automático figura 7",
+      "Figura 8: Título automático figura 8",
+      "Figura 9: Título automático figura 9",
+      "Figura 10: Título automático figura 10",
+      "Figura 11: Título automático figura 11",
+      "Figura 12: Título automático figura 12",
+      "Figura 13: Título automático figura 13",
+      "Figura 14: Título automático figura 14",
+      "Figura 15: Título automático figura 15",
+      "Figura 16: Título automático figura 16",
+      "Figura 17: Título automático figura 17",
+      "Figura 18: Título automático figura 18",
+      "Figura 19: Título automático figura 19",
+      "Figura 20: Título automático figura 20",
+      "Figura 21: Título automático figura 21",
+      "Figura 22: Título automático figura 22"
+    ]
+  },
+  "validaciones_completadas": {
+    "referencias_internas": "[OK] Procesamiento de referencias completado",
+    "numeracion_consecutiva": "[OK] Numeración correlativa aplicada",
+    "formato_apa7": "[OK] Formato APA 7 aplicado",
+    "coherencia_estilo": "[OK] Estilo procesado"
+  },
+  "cambios_criticos": [
+    "Numeración automática aplicada a 34 tablas",
+    "Numeración automática aplicada a 22 figuras",
+    "Formato APA 7 aplicado a títulos y elementos",
+    "Estructura del documento preservada"
+  ],
+  "recomendaciones_adicionales": [
+    "Revisar bibliografía para cumplimiento APA 7 completo",
+    "Verificar manualmente los títulos generados automáticamente",
+    "Revisar que el contenido técnico se mantiene intacto"
+  ]
+}

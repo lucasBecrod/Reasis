@@ -1,0 +1,68 @@
+{
+  "seccion": "METODOLOGÍA",
+  "fecha_procesamiento": "2025-08-14T12:46:14.938002",
+  "total_cambios": 8,
+  "cambios_por_estilo": {
+    "TITULO_PRINCIPAL": 1,
+    "SUBTITULO_NIVEL_2": 6,
+    "SUBTITULO_NIVEL_3": 1
+  },
+  "detalles_cambios": [
+    {
+      "numero_parrafo": 6,
+      "texto_original": "III.\tMETODOLOGÍA\t6",
+      "estilo_aplicado": "TITULO_PRINCIPAL",
+      "sugerencia_automatica": "TITULO_PRINCIPAL",
+      "decision_final": "TITULO_PRINCIPAL"
+    },
+    {
+      "numero_parrafo": 7,
+      "texto_original": "3.1.\tEnfoque y Diseño del Estudio\t6",
+      "estilo_aplicado": "SUBTITULO_NIVEL_2",
+      "sugerencia_automatica": "SUBTITULO_NIVEL_2",
+      "decision_final": "SUBTITULO_NIVEL_2"
+    },
+    {
+      "numero_parrafo": 8,
+      "texto_original": "3.2.\tUnidad de Análisis y Población de Estudio\t6",
+      "estilo_aplicado": "SUBTITULO_NIVEL_3",
+      "sugerencia_automatica": "SUBTITULO_NIVEL_2",
+      "decision_final": "SUBTITULO_NIVEL_3"
+    },
+    {
+      "numero_parrafo": 9,
+      "texto_original": "3.3.\tFuentes de Datos\t6",
+      "estilo_aplicado": "SUBTITULO_NIVEL_2",
+      "sugerencia_automatica": "SUBTITULO_NIVEL_2",
+      "decision_final": "SUBTITULO_NIVEL_2"
+    },
+    {
+      "numero_parrafo": 10,
+      "texto_original": "3.4.\tProceso Metodológico\t7",
+      "estilo_aplicado": "SUBTITULO_NIVEL_2",
+      "sugerencia_automatica": "DESCRIPCION_CORTA",
+      "decision_final": "SUBTITULO_NIVEL_2"
+    },
+    {
+      "numero_parrafo": 11,
+      "texto_original": "3.5.\tTécnicas de Análisis Estadístico\t9",
+      "estilo_aplicado": "SUBTITULO_NIVEL_2",
+      "sugerencia_automatica": "SUBTITULO_NIVEL_2",
+      "decision_final": "SUBTITULO_NIVEL_2"
+    },
+    {
+      "numero_parrafo": 12,
+      "texto_original": "3.6.\tHerramientas Tecnológicas\t9",
+      "estilo_aplicado": "SUBTITULO_NIVEL_2",
+      "sugerencia_automatica": "DESCRIPCION_CORTA",
+      "decision_final": "SUBTITULO_NIVEL_2"
+    },
+    {
+      "numero_parrafo": 13,
+      "texto_original": "3.7.\tLimitaciones del Estudio\t9",
+      "estilo_aplicado": "SUBTITULO_NIVEL_2",
+      "sugerencia_automatica": "DESCRIPCION_CORTA",
+      "decision_final": "SUBTITULO_NIVEL_2"
+    }
+  ]
+}

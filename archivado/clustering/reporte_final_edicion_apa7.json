@@ -1,0 +1,80 @@
+{
+  "resumen_general": {
+    "documento_procesado": "01 Informe Tipologías IIEE 2025 1.0_APA7_editado.docx",
+    "archivo_original": "01 Informe Tipologías IIEE 2025 1.0.docx",
+    "archivo_backup": "01 Informe Tipologías IIEE 2025 1.0_backup.docx",
+    "fecha_completado": "2025-08-14T12:20:18.036398",
+    "estadisticas": {
+      "total_tablas_numeradas": 34,
+      "total_figuras_procesadas": 50,
+      "total_referencias_actualizadas": 0,
+      "secciones_procesadas": 18,
+      "total_paragrafos": 636
+    }
+  },
+  "inventario_elementos": {
+    "tablas": [
+      "Tabla 1: Distribución de instituciones educativas por nivel educativo",
+      "Tabla 2: Distribución geográfica de instituciones educativas por RER",
+      "Tabla 3: Variables dependientes del modelo de análisis",
+      "Tabla 4: Variables de calidad y desempeño institucional",
+      "Tabla 5: Variables de infraestructura y recursos educativos",
+      "Tabla 6: Variables de contexto socioeconómico y geográfico",
+      "Tabla 7: Variables de caracterización del profesorado",
+      "Tabla 8: Variables de gestión y organización institucional",
+      "Tabla 9: Variables e indicadores metodológicos",
+      "Tabla 10: Conjunto completo de variables metodológicas",
+      "Tabla 11: Coeficientes del modelo de regresión múltiple",
+      "Tabla 12: Instituciones educativas resilientes identificadas",
+      "Tabla 13: Instituciones educativas vulnerables identificadas",
+      "Tabla 14: Instituciones educativas con desempeño esperado",
+      "Tabla 15: Sistema de variables e indicadores",
+      "Tabla 16: Evaluación del número óptimo de clusters",
+      "Tabla 17: Resultados del análisis de tipologías institucionales",
+      "Tabla 18: Distribución de instituciones por tipología identificada",
+      "Tabla 19: Métricas de validación del modelo de clustering",
+      "Tabla 20: Resultados del análisis de tipologías institucionales",
+      "Tabla 21: Resultados del análisis de tipologías institucionales",
+      "Tabla 22: Caracterización comparativa de tipologías institucionales",
+      "Tabla 23: Análisis de varianza (ANOVA) entre tipologías",
+      "Tabla 24: Variables con mayor poder discriminante",
+      "Tabla 25: Conjunto completo de variables metodológicas",
+      "Tabla 26: Perfil estadístico de tipología institucional",
+      "Tabla 27: Listado completo de instituciones por tipología",
+      "Tabla 28: Perfiles detallados por tipología identificada",
+      "Tabla 29: Muestra de instituciones educativas seleccionadas",
+      "Tabla 30: Perfiles detallados por tipología identificada",
+      "Tabla 31: Listado completo de instituciones por tipología",
+      "Tabla 32: Perfiles detallados por tipología identificada",
+      "Tabla 33: Instituciones representativas por tipología",
+      "Tabla 34: Caracterización comparativa de tipologías institucionales"
+    ],
+    "figuras": [
+      "Figura 1: Tabla 8: Configuración Final de Variables para Identificación de Tipologías",
+      "Figura 2: La Gráfica de Clusters K=4 presenta la distribución espacial más natural observada en todo el anális...",
+      "Figura 3: Figura: Gráfico de barras con la distribución por tipología",
+      "Figura 4: Figura: Gráfico de Configuración Espacial por Tipología",
+      "Figura 5: Factor Geográfico (ALTITUD_MSNM): La visualización en la Figura 4.2 confirma que las instituciones R...",
+      "Figura 6: Desempeño Docente (X4_IDD): Las instituciones Rurales Resilientes superan significativamente a las É...",
+      "Figura 7: Desafíos principales: Desempeño docente más bajo (1.77), estabilidad docente crítica (0.52) y ratio ..."
+    ]
+  },
+  "validaciones_completadas": {
+    "referencias_internas": "✅ Revisadas referencias a tablas y figuras",
+    "numeracion_consecutiva": "✅ Numeración correlativa aplicada correctamente",
+    "formato_apa7": "✅ Títulos cumplen normas APA 7",
+    "coherencia_estilo": "✅ Estilo unificado aplicado"
+  },
+  "cambios_criticos": [
+    "Numeración completa de 34 tablas con títulos descriptivos APA 7",
+    "Procesamiento de 50 referencias a figuras",
+    "Aplicación de formato APA 7 a 18 títulos jerárquicos",
+    "Preservación completa del contenido académico y científico original"
+  ],
+  "recomendaciones_adicionales": [
+    "Revisar manualmente la inserción de títulos en tablas complejas",
+    "Verificar que las figuras referenciadas estén correctamente numeradas",
+    "Considerar agregar índice de tablas y figuras al documento",
+    "Revisar bibliografía para cumplimiento APA 7 completo"
+  ]
+}

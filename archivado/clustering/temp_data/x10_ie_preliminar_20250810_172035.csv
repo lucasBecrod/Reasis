@@ -1,0 +1,185 @@
+CODIGO_MODULAR,NOMBRE_INSTITUCION,NUMERO_FYA,X2_TR,X10_IE,fuente,metodo,nivel_infraestructura,conectividad_digital,equipamiento_tecnologico,infraestructura_electrica,internet_operativo,equipos_total,tiene_electricidad
+3916573,VIRGEN DE LAS MERCEDES,48,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+838455,HUARAC HUARAN,54,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+3891735,MARIA AUXILIADORA,48,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1315084,86548 JOSE MARIA VELAZ,54,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+414987,86548 JOSE MARIA VELAZ,54,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1376268,86548 JOSE MARIA VELAZ,54,2,0.871,conectividad_equipamiento,calculo_directo,Muy Alta (0.8-1.0),0.802,1.0,0.85,1.0,95.0,1.0
+415059,86731,54,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1633189,86769 ABRAHAM VALDELOMAR,54,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+415117,86769 ABRAHAM VALDELOMAR,54,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1608132,86769 ABRAHAM VALDELOMAR,54,2,0.781,conectividad_equipamiento,calculo_directo,Alta (0.6-0.8),0.802,0.7,0.85,1.0,35.0,1.0
+415141,86783,54,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1376300,86783,54,2,0.5424,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.9079,0.85,0.0,38.0,1.0
+520221,86809,54,2,0.5622,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.9741,0.85,0.0,27.0,1.0
+818682,87009-01,54,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1551944,87009-01,54,2,0.27,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.85,0.0,0.0,1.0
+1376318,88247 SAN ENRIQUE,54,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+541201,88247 SAN ENRIQUE,54,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+686386,88327,54,2,0.549,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.93,0.85,0.0,20.0,1.0
+1306182,852,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1200906,SAN IGNACIO DE LOYOLA FE Y ALEGRIA 44,44,1,0.8156,conectividad_equipamiento,calculo_directo,Muy Alta (0.8-1.0),0.802,0.8153,0.85,1.0,72.0,1.0
+409797,50504,44,2,0.8074,conectividad_equipamiento,calculo_directo,Muy Alta (0.8-1.0),0.802,0.7879,0.85,1.0,66.0,1.0
+410118,50536,44,2,0.5175,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.825,0.85,0.0,24.0,1.0
+933937,SAN IGNACIO DE LOYOLA FE Y ALEGRIA 44,44,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+933960,SAN IGNACIO DE LOYOLA FE Y ALEGRIA 44,44,1,0.5553,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.9512,0.85,0.0,344.0,1.0
+410316,50558,44,2,0.4,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.9,0.15,0.0,42.0,0.0
+1062058,501344,44,2,0.486,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.72,0.85,0.0,20.0,1.0
+409706,50495,44,2,0.5444,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.9146,0.85,0.0,41.0,1.0
+410100,50535,44,2,0.4749,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.683,0.85,0.0,106.0,1.0
+204933,50715,44,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+519793,50912,44,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+592428,50976,44,2,0.788,conectividad_equipamiento,calculo_directo,Alta (0.6-0.8),0.802,0.7233,0.85,1.0,43.0,1.0
+205716,50796,44,2,0.4505,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.6017,0.85,0.0,9.0,1.0
+409672,50492 CORAZON DE JESUS,44,1,0.8269,conectividad_equipamiento,calculo_directo,Muy Alta (0.8-1.0),0.802,0.8531,0.85,1.0,143.0,1.0
+410225,50547,44,2,0.5382,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.8939,0.85,0.0,33.0,1.0
+410233,50550,44,2,0.4965,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.755,0.85,0.0,20.0,1.0
+410258,50552 TUPAC AMARU II,44,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+410266,50553,44,2,0.5382,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.8939,0.85,0.0,33.0,1.0
+204974,50719 VIRGEN DEL CARMEN,44,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+205401,50765,44,2,0.5015,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.7717,0.85,0.0,46.0,1.0
+487140,50854,44,2,0.48,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.7,0.85,0.0,42.0,1.0
+592543,50977,44,2,0.5607,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.9689,0.85,0.0,45.0,1.0
+428714,36153 SAYRI TUPAC,79,2,0.5137,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.8122,0.85,0.0,41.0,1.0
+600692,NUESTRA SEÑORA DE LA CANDELARIA,79,1,0.863,conectividad_equipamiento,calculo_directo,Muy Alta (0.8-1.0),0.802,0.9734,0.85,1.0,421.0,1.0
+421594,130,79,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+633040,156,79,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+420380,36161 SAN VICENTE DE PAUL,79,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+420406,36163 JAVIER HERAUD PEREZ,79,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1060276,CORAS,79,2,0.5032,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.7773,0.85,0.0,154.0,1.0
+420430,36166 HEROES 29 DE AGOSTO,79,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+420448,36167,79,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+420562,36201 NUESTRA SEÑORA DEL ROSARIO,79,2,0.13,conectividad_equipamiento,calculo_directo,Muy Baja (0-0.2),0.2,0.0,0.15,0.0,0.0,0.0
+740365,RAMON CASTILLA MARQUEZADO,79,2,0.8042,conectividad_equipamiento,calculo_directo,Muy Alta (0.8-1.0),0.802,0.7773,0.85,1.0,110.0,1.0
+686741,177,79,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+428771,36173 SANTIAGO ANTUNEZ DE MAYOLO,79,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+687194,36465 MICAELA BASTIDAS PUYUCAHUA,79,2,0.483,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.71,0.85,0.0,14.0,1.0
+579987,JORGE CHAVEZ,79,2,0.7965,conectividad_equipamiento,calculo_directo,Alta (0.6-0.8),0.802,0.7516,0.85,1.0,124.0,1.0
+1320001,601614,47,2,0.525,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.79,0.94,0.0,6.0,1.0
+721639,404,47,2,0.4922,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.7407,0.85,0.0,27.0,1.0
+721647,405,47,2,0.27,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.85,0.0,0.0,1.0
+738203,475,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1151331,536 MI CASITA DEL SABER,47,2,0.27,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.85,0.0,0.0,1.0
+1151414,538,47,2,0.814,conectividad_equipamiento,calculo_directo,Muy Alta (0.8-1.0),0.802,0.81,0.85,1.0,14.0,1.0
+1152057,604,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1152255,656,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1152321,678,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1261577,60133,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+398313,60133,47,2,0.4318,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.5395,0.85,0.0,342.0,1.0
+398347,60136,47,2,0.2135,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.2783,0.15,0.0,3.0,0.0
+398370,60181,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+738419,601330,47,2,0.142,conectividad_equipamiento,calculo_directo,Muy Baja (0-0.2),0.2,0.0,0.21,0.0,0.0,0.0
+738427,601331,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1147735,601331,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1153527,601391,47,2,0.4235,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.5117,0.85,0.0,3.0,1.0
+1153881,601444,47,2,0.4605,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.635,0.85,0.0,5.0,1.0
+1153964,601448,47,2,0.5565,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.955,0.85,0.0,17.0,1.0
+1154129,601496,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1563212,601511,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1154368,601511,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1154400,601514,47,2,0.57,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,1.0,0.85,0.0,23.0,1.0
+1154608,601528,47,2,0.507,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.79,0.85,0.0,6.0,1.0
+1148402,6010102,47,2,0.441,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.57,0.85,0.0,10.0,1.0
+651398,6010178,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1210491,6010230 BARBARA D'ACHILLE,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+683466,6010230 BARBARA D'ACHILLE,47,2,0.27,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.85,0.0,0.0,1.0
+1527233,6010231,47,2,0.569,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.9965,0.85,0.0,202.0,1.0
+683474,6010231,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+682211,EL MILAGRO,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1261775,601563,47,2,0.489,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.73,0.85,0.0,2.0,1.0
+571232,58,48,2,0.5186,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.8286,0.85,0.0,49.0,1.0
+737783,467,48,2,0.4915,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.7383,0.85,0.0,15.0,1.0
+737791,469,48,2,0.5616,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.972,0.85,0.0,25.0,1.0
+937813,489 JOSE MARIA VELAZ,48,2,0.3836,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.3785,0.85,0.0,17.0,1.0
+938118,731,48,2,0.27,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.85,0.0,0.0,1.0
+938142,732 VIRGEN DE MONSERRAT,48,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+674895,14045,48,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+260307,14141,48,2,0.5755,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.802,0.015,0.85,1.0,1.0,1.0
+350447,14144 SANTA ROSA,48,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+1785484,FE Y ALEGRIA 48,48,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+1785476,FE Y ALEGRIA 48,48,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+916023,14144 SANTA ROSA,48,1,0.8611,conectividad_equipamiento,calculo_directo,Muy Alta (0.8-1.0),0.802,0.9669,0.85,1.0,148.0,1.0
+260315,14145 SANTA JULIA BILLIART,48,2,0.8369,conectividad_equipamiento,calculo_directo,Muy Alta (0.8-1.0),0.802,0.8865,0.85,1.0,111.0,1.0
+1715820,14894,48,2,0.7855,conectividad_equipamiento,calculo_directo,Alta (0.6-0.8),0.808,0.705,0.85,1.0,7.0,1.0
+571745,14894,48,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+350496,14924 DANIEL ALCIDES CARRION,48,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+571356,14924 DANIEL ALCIDES CARRION,48,2,0.5583,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.9611,0.85,0.0,36.0,1.0
+613943,14975,48,2,0.853,conectividad_equipamiento,calculo_directo,Muy Alta (0.8-1.0),0.802,0.94,0.85,1.0,35.0,1.0
+464610,15219,48,2,0.561,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.97,0.85,0.0,18.0,1.0
+464628,15220,48,2,0.8345,conectividad_equipamiento,calculo_directo,Muy Alta (0.8-1.0),0.802,0.8783,0.85,1.0,15.0,1.0
+355271,15304,48,2,0.5434,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.9113,0.85,0.0,19.0,1.0
+552661,15314,48,2,0.79,conectividad_equipamiento,calculo_directo,Alta (0.6-0.8),0.802,0.73,0.85,1.0,2.0,1.0
+561084,SAGRADO CORAZON DE JESUS,48,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+355289,15383,48,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+673780,15478,48,2,0.5755,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.802,0.015,0.85,1.0,1.0,1.0
+840595,20104,48,2,0.27,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.85,0.0,0.0,1.0
+840504,20123,48,2,0.4569,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.6231,0.85,0.0,26.0,1.0
+626424,15055,48,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+595082,294,72,2,0.13,conectividad_equipamiento,calculo_directo,Muy Baja (0-0.2),0.2,0.0,0.15,0.0,0.0,0.0
+595108,295,72,2,0.27,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.85,0.0,0.0,1.0
+715011,333-B,72,2,0.27,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.85,0.0,0.0,1.0
+271379,64028,72,2,0.889,conectividad_equipamiento,calculo_directo,Muy Alta (0.8-1.0),0.802,1.0,0.94,1.0,22.0,1.0
+271551,64048,72,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+275107,64115,72,2,0.5102,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.8008,0.85,0.0,19.0,1.0
+530535,64641,72,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+733535,64871-B,72,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+272773,64508-B,72,2,0.8659,conectividad_equipamiento,calculo_directo,Muy Alta (0.8-1.0),0.802,0.9829,0.85,1.0,41.0,1.0
+273359,64545-B,72,2,0.148,conectividad_equipamiento,calculo_directo,Muy Baja (0-0.2),0.2,0.0,0.24,0.0,0.0,0.0
+657122,64798,72,2,0.2925,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.015,0.94,0.0,1.0,1.0
+666677,64829,72,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1568799,525-B,72,2,0.27,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.85,0.0,0.0,1.0
+733600,64873-B,72,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+807156,64949,72,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1335744,EL MILAGRO,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1343813,ALMIRANTE MIGUEL GRAU SEMINARIO,44,2,0.8397,conectividad_equipamiento,calculo_directo,Muy Alta (0.8-1.0),0.802,0.8957,0.85,1.0,47.0,1.0
+830885,64996,72,2,0.5115,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.745,0.94,0.0,3.0,1.0
+1374834,846,79,2,0.27,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.85,0.0,0.0,1.0
+1433515,65199,72,2,0.1645,conectividad_equipamiento,calculo_directo,Muy Baja (0-0.2),0.2,0.075,0.21,0.0,5.0,0.0
+1457605,501432,44,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1772672,501432 PAPA FRANCISCO I,44,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1495167,843,79,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1516269,909,48,2,0.5475,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.925,0.85,0.0,15.0,1.0
+1516277,910,48,2,0.486,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.72,0.85,0.0,20.0,1.0
+1402866,36789 NUESTRA SEÑORA DEL CARMEN,79,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+428920,36207,79,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1625904,555-B,72,1,0.288,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.94,0.0,0.0,1.0
+1625938,559,72,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1625987,564,72,2,0.27,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.85,0.0,0.0,1.0
+1626001,566,72,2,0.13,conectividad_equipamiento,calculo_directo,Muy Baja (0-0.2),0.2,0.0,0.15,0.0,0.0,0.0
+1741123,501455 CRISTO REY TTIKARIY,44,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1636455,501455 CRISTO REY TTIKARIY,44,2,0.5,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.7667,0.85,0.0,27.0,1.0
+1378355,601678,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1273960,601580,47,2,0.5295,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.865,0.85,0.0,11.0,1.0
+1263219,601571,47,2,0.27,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.85,0.0,0.0,1.0
+1682285,601571,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1527365,808,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1527340,809,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1527381,810,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1527373,812,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1262856,601570,47,2,0.27,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.85,0.0,0.0,1.0
+1457365,LOS RIT'IS DEL ALTO ANDINO,44,2,0.5102,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.8008,0.85,0.0,19.0,1.0
+1681212,1341,48,2,0.5505,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.9349,0.85,0.0,43.0,1.0
+1236397,TECNICO MARIA TERESA DE JESUS GERHARDINGER,48,2,0.5363,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.8877,0.85,0.0,106.0,1.0
+1236967,NUESTRA SEÑORA DE LA ENSEÑANZA,48,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+1527399,811,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1715416,1416,48,2,0.5223,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.8412,0.85,0.0,13.0,1.0
+1715424,1417,48,2,0.4972,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.7572,0.85,0.0,9.0,1.0
+1715440,1419,48,2,0.5655,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.985,0.85,0.0,19.0,1.0
+1745710,1558,48,2,0.504,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,0.78,0.85,0.0,10.0,1.0
+1745728,1559,48,2,0.57,conectividad_equipamiento,calculo_directo,Media (0.4-0.6),0.2,1.0,0.85,0.0,24.0,1.0
+697714,37003,79,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+421222,37003,79,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+1785138,36831,79,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1151695,573,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+1791433,EL MILAGRO,47,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+1791466,EL MILAGRO,47,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+1678879,693,54,2,0.27,conectividad_equipamiento,calculo_directo,Baja (0.2-0.4),0.2,0.0,0.85,0.0,0.0,1.0
+1781897,64346,72,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+2533906,YANACANCHA,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+3025715,5154 SANTIAGO ANTUNEZ DE MAYOLO,44,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+0428714,36153 SAYRI TUPAC,79,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+0304642,64155,72,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+0488403,88225,54,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+0481093,JOSE CARLOS MARIATEGUI,72,1,0.7016,imputacion_contextual,ruralidad_1,Alta (0.6-0.8),,,,,,
+1768829,1574,47,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,
+0600692,NUESTRA SE¥ORA DE LA CANDELARIA,79,2,0.4962,imputacion_contextual,ruralidad_2,Media (0.4-0.6),,,,,,

@@ -1,0 +1,22 @@
+{
+  "timestamp": "20250809_232103",
+  "filas": 168,
+  "estadisticas_slope": {
+    "media": 0.04583333333333335,
+    "mediana": 0.0,
+    "min": -21.0,
+    "max": 28.0,
+    "p10": -4.0,
+    "p90": 3.075000000000003
+  },
+  "categorias": {
+    "ESTABLE": 134,
+    "DECRECIMIENTO_SIGNIFICATIVO": 14,
+    "CAMBIO_LEVE_SIGNIFICATIVO": 12,
+    "CRECIMIENTO_SIGNIFICATIVO": 8
+  },
+  "criterio_minimo_anos": 4,
+  "metodo": "Theil-Sen + Mann-Kendall (p<0.05) con umbrales ±2 ests/año",
+  "origen": "instituciones_educativas.matric_siagie_2019..2024",
+  "destino": "indices_metodologicos.X13_TMATRC / X13_TMATRC_CATEGORIA (pendiente aprobación)"
+}

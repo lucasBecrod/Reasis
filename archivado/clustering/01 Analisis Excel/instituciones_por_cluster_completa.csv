@@ -1,0 +1,164 @@
+Nro_Orden;Cluster;Tipologia_Aprobada;CODIGO_MODULAR;NOMBRE_INSTITUCION;Y1_ILA;Distancia_Centroide;Representatividad
+1;1;Tradicionales Estables;271551;64048; 1.5256 ; 0.0036 ;Alta
+2;1;Tradicionales Estables;674895;14045; 1.5167 ; 0.0126 ;Alta
+3;1;Tradicionales Estables;1154400;601514; 1.5467 ; 0.0174 ;Alta
+4;1;Tradicionales Estables;595108;295; 1.5533 ; 0.0240 ;Media
+5;1;Tradicionales Estables;657122;64798; 1.5533 ; 0.0240 ;Media
+6;1;Tradicionales Estables;1568799;525-B; 1.5533 ; 0.0240 ;Media
+7;1;Tradicionales Estables;1625938;559; 1.5533 ; 0.0240 ;Media
+8;1;Tradicionales Estables;1625987;564; 1.5533 ; 0.0240 ;Media
+9;1;Tradicionales Estables;1626001;566; 1.5533 ; 0.0240 ;Media
+10;1;Tradicionales Estables;420448;36167; 1.5003 ; 0.0290 ;Media
+11;1;Tradicionales Estables;420562;36201 NUESTRA SEÃ‘ORA DEL ROSARIO; 1.5003 ; 0.0290 ;Media
+12;1;Tradicionales Estables;686741;177; 1.5003 ; 0.0290 ;Media
+13;1;Tradicionales Estables;687194;36465 MICAELA BASTIDAS PUYUCAHUA; 1.5003 ; 0.0290 ;Media
+14;1;Tradicionales Estables;1374834;846; 1.5003 ; 0.0290 ;Media
+15;1;Tradicionales Estables;1495167;843; 1.5003 ; 0.0290 ;Media
+16;1;Tradicionales Estables;1785138;36831; 1.5003 ; 0.0290 ;Media
+17;1;Tradicionales Estables;275107;64115; 1.5762 ; 0.0469 ;Media
+18;1;Tradicionales Estables;355271;15304; 1.6016 ; 0.0723 ;Media
+19;1;Tradicionales Estables;1153964;601448; 1.4342 ; 0.0951 ;Media
+20;1;Tradicionales Estables;1306182;852; 1.4180 ; 0.1113 ;Media
+21;1;Tradicionales Estables;721639;404; 1.4180 ; 0.1113 ;Media
+22;1;Tradicionales Estables;738203;475; 1.4180 ; 0.1113 ;Media
+23;1;Tradicionales Estables;1152057;604; 1.4180 ; 0.1113 ;Media
+24;1;Tradicionales Estables;1152255;656; 1.4180 ; 0.1113 ;Media
+25;1;Tradicionales Estables;1152321;678; 1.4180 ; 0.1113 ;Media
+26;1;Tradicionales Estables;398313;60133; 1.4180 ; 0.1113 ;Media
+27;1;Tradicionales Estables;738419;601330; 1.4180 ; 0.1113 ;Media
+28;1;Tradicionales Estables;1147735;601331; 1.4180 ; 0.1113 ;Media
+29;1;Tradicionales Estables;1154129;601496; 1.4180 ; 0.1113 ;Media
+30;1;Tradicionales Estables;1154368;601511; 1.4180 ; 0.1113 ;Media
+31;1;Tradicionales Estables;1154608;601528; 1.4180 ; 0.1113 ;Media
+32;1;Tradicionales Estables;683466;6010230 BARBARA D'ACHILLE; 1.4180 ; 0.1113 ;Media
+33;1;Tradicionales Estables;1682285;601571; 1.4180 ; 0.1113 ;Media
+34;1;Tradicionales Estables;1527365;808; 1.4180 ; 0.1113 ;Media
+35;1;Tradicionales Estables;1527340;809; 1.4180 ; 0.1113 ;Media
+36;1;Tradicionales Estables;1527381;810; 1.4180 ; 0.1113 ;Media
+37;1;Tradicionales Estables;1527373;812; 1.4180 ; 0.1113 ;Media
+38;1;Tradicionales Estables;1527399;811; 1.4180 ; 0.1113 ;Media
+39;1;Tradicionales Estables;1151695;573; 1.4180 ; 0.1113 ;Baja
+40;1;Tradicionales Estables;1153881;601444; 1.4000 ; 0.1293 ;Baja
+41;1;Tradicionales Estables;260307;14141; 1.3958 ; 0.1334 ;Baja
+42;1;Tradicionales Estables;271379;64028; 1.6633 ; 0.1340 ;Baja
+43;1;Tradicionales Estables;737783;467; 1.6679 ; 0.1386 ;Baja
+44;1;Tradicionales Estables;937813;489 JOSE MARIA VELAZ; 1.6679 ; 0.1386 ;Baja
+45;1;Tradicionales Estables;571745;14894; 1.6679 ; 0.1386 ;Baja
+46;1;Tradicionales Estables;626424;15055; 1.6679 ; 0.1386 ;Baja
+47;1;Tradicionales Estables;1516269;909; 1.6679 ; 0.1386 ;Baja
+48;1;Tradicionales Estables;1715416;1416; 1.6679 ; 0.1386 ;Baja
+49;1;Tradicionales Estables;1715424;1417; 1.6679 ; 0.1386 ;Baja
+50;1;Tradicionales Estables;1745710;1558; 1.6679 ; 0.1386 ;Baja
+51;1;Tradicionales Estables;1402866;36789 NUESTRA SEÃ‘ORA DEL CARMEN; 1.3810 ; 0.1483 ;Baja
+52;1;Tradicionales Estables;530535;64641; 1.3750 ; 0.1543 ;Baja
+53;1;Tradicionales Estables;355289;15383; 1.6905 ; 0.1612 ;Baja
+54;1;Tradicionales Estables;1148402;6010102; 1.7000 ; 0.1707 ;Baja
+55;1;Tradicionales Estables;1563212;601511; 1.3333 ; 0.1959 ;Baja
+56;1;Tradicionales Estables;1261775;601563; 1.3333 ; 0.1959 ;Baja
+57;1;Tradicionales Estables;1715820;14894; 1.3333 ; 0.1959 ;Baja
+58;1;Tradicionales Estables;807156;64949; 1.3333 ; 0.1959 ;Baja
+59;1;Tradicionales Estables;1262856;601570; 1.3333 ; 0.1959 ;Baja
+60;1;Tradicionales Estables;738427;601331; 1.2962 ; 0.2331 ;Baja
+61;1;Tradicionales Estables;840504;20123; 1.7778 ; 0.2485 ;Baja
+62;1;Tradicionales Estables;1210491;6010230 BARBARA D'ACHILLE; 1.2542 ; 0.2751 ;Baja
+63;1;Tradicionales Estables;1263219;601571; 1.2500 ; 0.2793 ;Baja
+64;1;Tradicionales Estables;673780;15478; 1.8148 ; 0.2855 ;Baja
+65;1;Tradicionales Estables;464610;15219; 1.8250 ; 0.2957 ;Baja
+66;1;Tradicionales Estables;1153527;601391; 1.8333 ; 0.3041 ;Baja
+67;1;Tradicionales Estables;1433515;65199; 1.8373 ; 0.3080 ;Baja
+68;1;Tradicionales Estables;666677;64829; 1.8704 ; 0.3411 ;Baja
+69;1;Tradicionales Estables;1320001;601614; 1.8889 ; 0.3596 ;Baja
+70;1;Tradicionales Estables;273359;64545-B; 1.1667 ; 0.3626 ;Baja
+71;1;Tradicionales Estables;1378355;601678; 1.1667 ; 0.3626 ;Baja
+72;1;Tradicionales Estables;1273960;601580; 1.1667 ; 0.3626 ;Baja
+73;1;Tradicionales Estables;830885;64996; 1.9750 ; 0.4457 ;Baja
+74;1;Tradicionales Estables;398347;60136; 1.0667 ; 0.4626 ;Baja
+75;1;Tradicionales Estables;651398;6010178; 2.0000 ; 0.4707 ;Baja
+76;1;Tradicionales Estables;464628;15220; 2.2333 ; 0.7041 ;Baja
+77;1;Tradicionales Estables;398370;60181; 2.3333 ; 0.8041 ;Baja
+1;2;Élite Institucional;350447;14144 SANTA ROSA; 1.5604 ; 0.0269 ;Alta
+2;2;Élite Institucional;1625904;555-B; 1.5533 ; 0.0340 ;Alta
+3;2;Élite Institucional;409672;50492 CORAZON DE JESUS; 1.6612 ; 0.0739 ;Alta
+4;2;Élite Institucional;938142;732 VIRGEN DE MONSERRAT; 1.6679 ; 0.0806 ;Baja
+5;2;Élite Institucional;916023;14144 SANTA ROSA; 1.6679 ; 0.0806 ;Baja
+6;2;Élite Institucional;600692;NUESTRA SEÃ‘ORA DE LA CANDELARIA; 1.5003 ; 0.0870 ;Baja
+7;2;Élite Institucional;733535;64871-B; 1.5000 ; 0.0873 ;Baja
+1;3;Rurales Resilientes;1457365;LOS RIT'IS DEL ALTO ANDINO; 1.4015 ; 0.0027 ;Alta
+2;3;Rurales Resilientes;205401;50765; 1.3930 ; 0.0058 ;Alta
+3;3;Rurales Resilientes;204974;50719 VIRGEN DEL CARMEN; 1.3866 ; 0.0122 ;Alta
+4;3;Rurales Resilientes;520221;86809; 1.4173 ; 0.0185 ;Media
+5;3;Rurales Resilientes;1060276;CORAS; 1.3791 ; 0.0197 ;Media
+6;3;Rurales Resilientes;1376318;88247 SAN ENRIQUE; 1.4194 ; 0.0206 ;Media
+7;3;Rurales Resilientes;410225;50547; 1.4246 ; 0.0258 ;Media
+8;3;Rurales Resilientes;420430;36166 HEROES 29 DE AGOSTO; 1.4406 ; 0.0418 ;Media
+9;3;Rurales Resilientes;579987;JORGE CHAVEZ; 1.3561 ; 0.0427 ;Media
+10;3;Rurales Resilientes;1062058;501344; 1.4524 ; 0.0536 ;Media
+11;3;Rurales Resilientes;409797;50504; 1.4559 ; 0.0571 ;Media
+12;3;Rurales Resilientes;414987;86548 JOSE MARIA VELAZ; 1.3411 ; 0.0577 ;Media
+13;3;Rurales Resilientes;415059;86731; 1.3411 ; 0.0577 ;Media
+14;3;Rurales Resilientes;415117;86769 ABRAHAM VALDELOMAR; 1.3411 ; 0.0577 ;Media
+15;3;Rurales Resilientes;1608132;86769 ABRAHAM VALDELOMAR; 1.3411 ; 0.0577 ;Media
+16;3;Rurales Resilientes;415141;86783; 1.3411 ; 0.0577 ;Media
+17;3;Rurales Resilientes;1376300;86783; 1.3411 ; 0.0577 ;Media
+18;3;Rurales Resilientes;541201;88247 SAN ENRIQUE; 1.3411 ; 0.0577 ;Media
+19;3;Rurales Resilientes;1678879;693; 1.3411 ; 0.0577 ;Media
+20;3;Rurales Resilientes;420380;36161 SAN VICENTE DE PAUL; 1.4575 ; 0.0588 ;Media
+21;3;Rurales Resilientes;1772672;501432 PAPA FRANCISCO I; 1.4765 ; 0.0777 ;Media
+22;3;Rurales Resilientes;3040177;87009-01 HUANCHUY; 1.3210 ; 0.0778 ;Media
+23;3;Rurales Resilientes;1678861;692 - CAJAY; 1.3210 ; 0.0778 ;Media
+24;3;Rurales Resilientes;420406;36163 JAVIER HERAUD PEREZ; 1.3182 ; 0.0806 ;Media
+25;3;Rurales Resilientes;410266;50553; 1.4836 ; 0.0848 ;Media
+26;3;Rurales Resilientes;428920;36207; 1.4911 ; 0.0923 ;Baja
+27;3;Rurales Resilientes;204933;50715; 1.5000 ; 0.1012 ;Baja
+28;3;Rurales Resilientes;410233;50550; 1.5000 ; 0.1012 ;Baja
+29;3;Rurales Resilientes;428714;36153 SAYRI TUPAC; 1.5003 ; 0.1015 ;Baja
+30;3;Rurales Resilientes;421594;130; 1.5003 ; 0.1015 ;Baja
+31;3;Rurales Resilientes;633040;156; 1.5003 ; 0.1015 ;Baja
+32;3;Rurales Resilientes;740365;RAMON CASTILLA MARQUEZADO; 1.5049 ; 0.1061 ;Baja
+33;3;Rurales Resilientes;1457605;501432; 1.2882 ; 0.1106 ;Baja
+34;3;Rurales Resilientes;1343813;ALMIRANTE MIGUEL GRAU SEMINARIO; 1.2844 ; 0.1144 ;Baja
+35;3;Rurales Resilientes;592543;50977; 1.5282 ; 0.1294 ;Baja
+36;3;Rurales Resilientes;410258;50552 TUPAC AMARU II; 1.2648 ; 0.1340 ;Baja
+37;3;Rurales Resilientes;592428;50976; 1.2550 ; 0.1438 ;Baja
+38;3;Rurales Resilientes;410118;50536; 1.2500 ; 0.1488 ;Baja
+39;3;Rurales Resilientes;519793;50912; 1.2432 ; 0.1556 ;Baja
+40;3;Rurales Resilientes;1741123;501455 CRISTO REY TTIKARIY; 1.2426 ; 0.1562 ;Baja
+41;3;Rurales Resilientes;487140;50854; 1.5667 ; 0.1679 ;Baja
+42;3;Rurales Resilientes;686386;88327; 1.2242 ; 0.1746 ;Baja
+43;3;Rurales Resilientes;410100;50535; 1.2214 ; 0.1774 ;Baja
+44;3;Rurales Resilientes;1315084;86548 JOSE MARIA VELAZ; 1.1856 ; 0.2132 ;Baja
+45;3;Rurales Resilientes;205716;50796; 1.1747 ; 0.2241 ;Baja
+46;3;Rurales Resilientes;428771;36173 SANTIAGO ANTUNEZ DE MAYOLO; 1.6577 ; 0.2589 ;Baja
+47;3;Rurales Resilientes;1633189;86769 ABRAHAM VALDELOMAR; 1.1333 ; 0.2655 ;Baja
+48;3;Rurales Resilientes;409706;50495; 1.7062 ; 0.3074 ;Baja
+49;3;Rurales Resilientes;1636455;501455 CRISTO REY TTIKARIY; 1.7418 ; 0.3430 ;Baja
+50;3;Rurales Resilientes;410316;50558; 1.8415 ; 0.4427 ;Baja
+1;4;Emergentes Complejas;1527233;6010231; 1.5023 ; 0.0026 ;Alta
+2;4;Emergentes Complejas;260315;14145 SANTA JULIA BILLIART; 1.4930 ; 0.0119 ;Alta
+3;4;Emergentes Complejas;595082;294; 1.5533 ; 0.0484 ;Alta
+4;4;Emergentes Complejas;715011;333-B; 1.5533 ; 0.0484 ;Media
+5;4;Emergentes Complejas;840595;20104; 1.4205 ; 0.0843 ;Media
+6;4;Emergentes Complejas;721647;405; 1.4180 ; 0.0869 ;Media
+7;4;Emergentes Complejas;1151331;536 MI CASITA DEL SABER; 1.4180 ; 0.0869 ;Media
+8;4;Emergentes Complejas;1151414;538; 1.4180 ; 0.0869 ;Media
+9;4;Emergentes Complejas;683474;6010231; 1.4180 ; 0.0869 ;Media
+10;4;Emergentes Complejas;561084;SAGRADO CORAZON DE JESUS; 1.6079 ; 0.1031 ;Media
+11;4;Emergentes Complejas;613943;14975; 1.6230 ; 0.1182 ;Media
+12;4;Emergentes Complejas;571232;58; 1.6679 ; 0.1630 ;Media
+13;4;Emergentes Complejas;737791;469; 1.6679 ; 0.1630 ;Media
+14;4;Emergentes Complejas;938118;731; 1.6679 ; 0.1630 ;Media
+15;4;Emergentes Complejas;571356;14924 DANIEL ALCIDES CARRION; 1.6679 ; 0.1630 ;Baja
+16;4;Emergentes Complejas;552661;15314; 1.6679 ; 0.1630 ;Baja
+17;4;Emergentes Complejas;1516277;910; 1.6679 ; 0.1630 ;Baja
+18;4;Emergentes Complejas;1681212;1341; 1.6679 ; 0.1630 ;Baja
+19;4;Emergentes Complejas;1236397;TECNICO MARIA TERESA DE JESUS GERHARDINGER; 1.6679 ; 0.1630 ;Baja
+20;4;Emergentes Complejas;1715440;1419; 1.6679 ; 0.1630 ;Baja
+21;4;Emergentes Complejas;1745728;1559; 1.6679 ; 0.1630 ;Baja
+22;4;Emergentes Complejas;1376268;86548 JOSE MARIA VELAZ; 1.3411 ; 0.1638 ;Baja
+23;4;Emergentes Complejas;818682;87009-01; 1.3411 ; 0.1638 ;Baja
+24;4;Emergentes Complejas;1551944;87009-01; 1.3411 ; 0.1638 ;Baja
+25;4;Emergentes Complejas;1261577;60133; 1.3217 ; 0.1831 ;Baja
+26;4;Emergentes Complejas;682211;EL MILAGRO; 1.2494 ; 0.2555 ;Baja
+27;4;Emergentes Complejas;350496;14924 DANIEL ALCIDES CARRION; 1.7614 ; 0.2565 ;Baja
+28;4;Emergentes Complejas;272773;64508-B; 1.1364 ; 0.3685 ;Baja
+29;4;Emergentes Complejas;733600;64873-B; 1.0444 ; 0.4604 ;Baja

@@ -1,0 +1,22 @@
+{
+    "id": 761,
+    "estudiante_id": "1",
+    "region": "79. Huancavelica",
+    "nivel_educativo": "Secundaria",
+    "grado": "2 Secundaria",
+    "codigo_local": "Nuestra Sra Candelaria",
+    "codigo_modular": "0600692",
+    "nombre_ie_original": "NUESTRA SEÑORA DE LA CANDELARIA",
+    "id2_completo": "NUESTRA SEÑORA DE LA CANDELARIA2 Secundaria",
+    "ambito": "Rural",
+    "sexo": "Femenino",
+    "materia": "Matemática",
+    "nivel_logro_texto": "Inicio",
+    "nivel_logro_numerico": 1,
+    "año": 2024,
+    "analisis_cobertura": "2023 Y 2024",
+    "padd_participacion": "PADD 2023 Y 2024",
+    "metodo_vinculacion": "busqueda_restante_nombre_like_palabras",
+    "archivo_origen": "BD1- Matemática 2024.xlsx",
+    "codigo_red": "79"
+}

@@ -1,0 +1,140 @@
+{
+  "seccion": "4.1",
+  "fecha_procesamiento": "2025-08-14T12:52:34.691994",
+  "total_cambios": 18,
+  "cambios_por_estilo": {
+    "PARRAFO_NORMAL": 7,
+    "SUBTITULO_NIVEL_2": 3,
+    "SUBTITULO_NIVEL_3": 1,
+    "DESCRIPCION_CORTA": 5,
+    "TITULO_PRINCIPAL": 2
+  },
+  "detalles_cambios": [
+    {
+      "numero_parrafo": 52,
+      "texto_original": "Fe y Alegría es una organización sin fines de lucro impulsada por la Compañía de Jesús, en coordinac...",
+      "estilo_aplicado": "PARRAFO_NORMAL",
+      "sugerencia_automatica": "PARRAFO_NORMAL",
+      "decision_final": "PARRAFO_NORMAL"
+    },
+    {
+      "numero_parrafo": 53,
+      "texto_original": "Con una trayectoria consolidada en la gestión educativa en contextos de vulnerabilidad, Fe y Alegría...",
+      "estilo_aplicado": "PARRAFO_NORMAL",
+      "sugerencia_automatica": "PARRAFO_NORMAL",
+      "decision_final": "PARRAFO_NORMAL"
+    },
+    {
+      "numero_parrafo": 54,
+      "texto_original": "Justificación del Presente Estudio",
+      "estilo_aplicado": "SUBTITULO_NIVEL_2",
+      "sugerencia_automatica": "DESCRIPCION_CORTA",
+      "decision_final": "SUBTITULO_NIVEL_2"
+    },
+    {
+      "numero_parrafo": 55,
+      "texto_original": "En el marco de su plan estratégico a 2030 y con el propósito de fortalecer la calidad educativa en t...",
+      "estilo_aplicado": "PARRAFO_NORMAL",
+      "sugerencia_automatica": "PARRAFO_NORMAL",
+      "decision_final": "PARRAFO_NORMAL"
+    },
+    {
+      "numero_parrafo": 56,
+      "texto_original": "La toma de decisiones informadas sobre formación docente, acompañamiento pedagógico y asignación de ...",
+      "estilo_aplicado": "PARRAFO_NORMAL",
+      "sugerencia_automatica": "PARRAFO_NORMAL",
+      "decision_final": "PARRAFO_NORMAL"
+    },
+    {
+      "numero_parrafo": 57,
+      "texto_original": "Propósito y Alcance del Estudio",
+      "estilo_aplicado": "SUBTITULO_NIVEL_2",
+      "sugerencia_automatica": "DESCRIPCION_CORTA",
+      "decision_final": "SUBTITULO_NIVEL_2"
+    },
+    {
+      "numero_parrafo": 58,
+      "texto_original": "El presente estudio tiene como objetivo central clasificar las instituciones educativas de Fe y Aleg...",
+      "estilo_aplicado": "PARRAFO_NORMAL",
+      "sugerencia_automatica": "PARRAFO_NORMAL",
+      "decision_final": "PARRAFO_NORMAL"
+    },
+    {
+      "numero_parrafo": 59,
+      "texto_original": "Esta caracterización se fundamenta en el análisis multidimensional de tres componentes críticos:",
+      "estilo_aplicado": "SUBTITULO_NIVEL_3",
+      "sugerencia_automatica": "SUBTITULO_NIVEL_2",
+      "decision_final": "SUBTITULO_NIVEL_3"
+    },
+    {
+      "numero_parrafo": 60,
+      "texto_original": "Logros de aprendizaje estudiantil: Evaluación del desempeño académico en áreas fundamentales como ma...",
+      "estilo_aplicado": "DESCRIPCION_CORTA",
+      "sugerencia_automatica": "PARRAFO_NORMAL",
+      "decision_final": "DESCRIPCION_CORTA"
+    },
+    {
+      "numero_parrafo": 61,
+      "texto_original": "Desempeño docente: Análisis del desarrollo profesional del cuerpo docente, incluyendo sus calificaci...",
+      "estilo_aplicado": "DESCRIPCION_CORTA",
+      "sugerencia_automatica": "SUBTITULO_NIVEL_2",
+      "decision_final": "DESCRIPCION_CORTA"
+    },
+    {
+      "numero_parrafo": 62,
+      "texto_original": "Factores contextuales asociados: Identificación de variables del entorno institucional, socioeconómi...",
+      "estilo_aplicado": "DESCRIPCION_CORTA",
+      "sugerencia_automatica": "PARRAFO_NORMAL",
+      "decision_final": "DESCRIPCION_CORTA"
+    },
+    {
+      "numero_parrafo": 63,
+      "texto_original": "El estudio intenta incluir a la mayor cantidad de instituciones educativas, según la disponibilidad ...",
+      "estilo_aplicado": "PARRAFO_NORMAL",
+      "sugerencia_automatica": "LISTA_VIÑETAS",
+      "decision_final": "PARRAFO_NORMAL"
+    },
+    {
+      "numero_parrafo": 65,
+      "texto_original": "OBJETIVOS",
+      "estilo_aplicado": "TITULO_PRINCIPAL",
+      "sugerencia_automatica": "TITULO_PRINCIPAL",
+      "decision_final": "TITULO_PRINCIPAL"
+    },
+    {
+      "numero_parrafo": 66,
+      "texto_original": "Objetivo general",
+      "estilo_aplicado": "SUBTITULO_NIVEL_2",
+      "sugerencia_automatica": "DESCRIPCION_CORTA",
+      "decision_final": "SUBTITULO_NIVEL_2"
+    },
+    {
+      "numero_parrafo": 67,
+      "texto_original": "Clasificar las instituciones educativas de Fe y Alegría en grupos o perfiles homogéneos (tipologías)...",
+      "estilo_aplicado": "PARRAFO_NORMAL",
+      "sugerencia_automatica": "PARRAFO_NORMAL",
+      "decision_final": "PARRAFO_NORMAL"
+    },
+    {
+      "numero_parrafo": 68,
+      "texto_original": "Objetivos específicos",
+      "estilo_aplicado": "TITULO_PRINCIPAL",
+      "sugerencia_automatica": "TITULO_PRINCIPAL",
+      "decision_final": "TITULO_PRINCIPAL"
+    },
+    {
+      "numero_parrafo": 69,
+      "texto_original": "Desarrollar un sistema integral de indicadores clave de desempeño (KPIs) que permita medir de manera...",
+      "estilo_aplicado": "DESCRIPCION_CORTA",
+      "sugerencia_automatica": "PARRAFO_NORMAL",
+      "decision_final": "DESCRIPCION_CORTA"
+    },
+    {
+      "numero_parrafo": 71,
+      "texto_original": "Identificar y caracterizar los factores contextuales, pedagógicos y organizacionales que constituyen...",
+      "estilo_aplicado": "DESCRIPCION_CORTA",
+      "sugerencia_automatica": "PARRAFO_NORMAL",
+      "decision_final": "DESCRIPCION_CORTA"
+    }
+  ]
+}

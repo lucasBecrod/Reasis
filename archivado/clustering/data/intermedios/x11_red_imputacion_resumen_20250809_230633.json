@@ -1,0 +1,9 @@
+{
+  "timestamp": "20250809_230633",
+  "faltantes_iniciales": 1,
+  "imputados": 1,
+  "no_imputados": 0,
+  "mediana_global": 12.0,
+  "metrica_por_red_disponible": 10,
+  "metodo": "mediana_por_red -> mediana_global; cálculo directo si totales disponibles"
+}

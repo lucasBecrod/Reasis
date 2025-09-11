@@ -1,0 +1,239 @@
+codigo_target,X4_IDD,fuente,metodo,num_docentes
+ 204933,13.5,PADD,promedio_docentes_padd,1
+ 205401,14.666666666666666,PADD,promedio_docentes_padd,3
+ 205716,15.125,PADD,promedio_docentes_padd,2
+ 260307,14.75,PADD,promedio_docentes_padd,2
+ 271379,15.083333333333334,PADD,promedio_docentes_padd,3
+ 272567,12.75,PADD,promedio_docentes_padd,1
+ 272773,8.4375,PADD,promedio_docentes_padd,4
+ 275107,14.5,PADD,promedio_docentes_padd,1
+ 350447,14.9,PADD,promedio_docentes_padd,15
+ 350496,15.5,PADD,promedio_docentes_padd,6
+ 355271,14.333333333333334,PADD,promedio_docentes_padd,3
+ 355289,14.75,PADD,promedio_docentes_padd,1
+ 398313,11.966666666666667,PADD,promedio_docentes_padd,15
+ 409672,13.819444444444445,PADD,promedio_docentes_padd,18
+ 409706,15.125,PADD,promedio_docentes_padd,2
+ 410225,15.916666666666666,PADD,promedio_docentes_padd,3
+ 410233,16.25,PADD,promedio_docentes_padd,2
+ 410266,15.25,PADD,promedio_docentes_padd,1
+ 414987,10.45,PADD,promedio_docentes_padd,5
+ 420406,9.5,PADD,promedio_docentes_padd,3
+ 421594,12.5,PADD,promedio_docentes_padd,1
+ 428714,11.5,PADD,promedio_docentes_padd,2
+ 428771,12.5,PADD,promedio_docentes_padd,4
+ 428920,2.0,PADD,promedio_docentes_padd,1
+ 464610,11.5,PADD,promedio_docentes_padd,1
+ 464628,16.0,PADD,promedio_docentes_padd,1
+ 520221,14.25,PADD,promedio_docentes_padd,2
+ 530535,16.25,PADD,promedio_docentes_padd,1
+ 541201,12.75,PADD,promedio_docentes_padd,2
+ 561084,14.208333333333334,PADD,promedio_docentes_padd,6
+ 579987,12.75,PADD,promedio_docentes_padd,1
+ 592543,15.833333333333334,PADD,promedio_docentes_padd,3
+ 595082,5.5,PADD,promedio_docentes_padd,1
+ 600692,12.153846153846153,PADD,promedio_docentes_padd,13
+ 613943,14.0,PADD,promedio_docentes_padd,3
+ 666677,0.0,PADD,promedio_docentes_padd,1
+ 673780,15.25,PADD,promedio_docentes_padd,1
+ 674995,14.25,PADD,promedio_docentes_padd,1
+ 682211,12.375,PADD,promedio_docentes_padd,4
+ 683466,10.0,PADD,promedio_docentes_padd,3
+ 715011,13.5,PADD,promedio_docentes_padd,1
+ 733535,11.125,PADD,promedio_docentes_padd,4
+ 733600,13.5,PADD,promedio_docentes_padd,1
+ 830885,15.25,PADD,promedio_docentes_padd,1
+ 840504,14.25,PADD,promedio_docentes_padd,1
+ 840595,14.25,PADD,promedio_docentes_padd,4
+ RER 44,15.5625,PADD,promedio_docentes_padd,4
+ RER 47,13.208333333333334,PADD,promedio_docentes_padd,6
+ RER 48,15.0625,PADD,promedio_docentes_padd,4
+ RER 54,16.083333333333332,PADD,promedio_docentes_padd,3
+ RER 72,14.6,PADD,promedio_docentes_padd,5
+ RER 79,10.642857142857142,PADD,promedio_docentes_padd,7
+1060276,13.5,PADD,promedio_docentes_padd,1
+1147735,14.472222222222221,PADD,promedio_docentes_padd,9
+1151331,14.75,PADD,promedio_docentes_padd,2
+1152057,3.0,PADD,promedio_docentes_padd,1
+1152321,0.5,PADD,promedio_docentes_padd,1
+1153964,8.25,PADD,promedio_docentes_padd,3
+1154400,13.5,PADD,promedio_docentes_padd,4
+1210491,10.0,PADD,promedio_docentes_padd,2
+1261577,13.75,PADD,promedio_docentes_padd,2
+1374834,11.375,PADD,promedio_docentes_padd,2
+1376268,6.5,PADD,promedio_docentes_padd,2
+1376318,14.5,PADD,promedio_docentes_padd,1
+1402692,13.0,PADD,promedio_docentes_padd,1
+1457605,14.833333333333334,PADD,promedio_docentes_padd,3
+1527399,14.5,PADD,promedio_docentes_padd,1
+1568799,13.25,PADD,promedio_docentes_padd,1
+1625904,10.916666666666666,PADD,promedio_docentes_padd,3
+1625938,6.0,PADD,promedio_docentes_padd,1
+1625987,0.25,PADD,promedio_docentes_padd,1
+1626001,9.5,PADD,promedio_docentes_padd,1
+1636455,14.375,PADD,promedio_docentes_padd,2
+1678879,14.75,PADD,promedio_docentes_padd,1
+1741123,15.375,PADD,promedio_docentes_padd,2
+2603185,12.678571428571429,PADD,promedio_docentes_padd,7
+3916573,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+838455,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+3891735,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1315084,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+414987,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+415059,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1633189,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+415117,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1608132,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+415141,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1376300,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+520221,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+818682,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1551944,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+541201,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+686386,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1306182,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1200906,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+409797,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+410118,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+933937,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+933960,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+410316,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1062058,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+409706,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+410100,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+204933,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+519793,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+592428,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+205716,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+409672,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+410225,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+410233,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+410258,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+410266,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+204974,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+205401,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+487140,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+592543,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+428714,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+600692,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+421594,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+633040,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+420380,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+420406,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+420430,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+420448,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+420562,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+740365,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+686741,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+428771,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+687194,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+579987,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1320001,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+721639,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+721647,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+738203,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1151414,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1152255,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+398313,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+398347,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+398370,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+738419,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+738427,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1153527,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1153881,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1154129,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1563212,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1154368,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1154608,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1148402,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+651398,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+683466,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1527233,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+683474,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+682211,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1261775,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+571232,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+737783,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+737791,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+937813,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+938118,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+938142,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+674895,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+260307,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+350447,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1785484,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1785476,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+916023,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+260315,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1715820,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+571745,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+350496,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+571356,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+613943,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+464610,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+464628,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+355271,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+552661,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+561084,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+355289,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+673780,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+840595,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+840504,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+626424,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+595082,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+595108,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+715011,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+271379,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+271551,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+275107,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+530535,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+733535,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+272773,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+273359,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+657122,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+666677,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+733600,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+807156,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1335744,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1343813,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+830885,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1433515,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1772672,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1495167,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1516269,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1516277,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1402866,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+428920,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1378355,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1273960,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1263219,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1682285,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1527365,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1527340,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1527381,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1527373,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1262856,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1457365,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1681212,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1236397,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1236967,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1715416,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1715424,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1715440,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1745710,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1745728,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+697714,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+421222,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1785138,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1151695,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1791433,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1791466,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1781897,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+2533906,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+3025715,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+0428714,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+0304642,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+0488403,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+0481093,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+1768829,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0
+0600692,12.404005807788701,Imputacion_Contextual,promedio_ponderado_general,0

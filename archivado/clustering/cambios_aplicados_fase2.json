@@ -1,0 +1,203 @@
+{
+  "tablas_numeradas": [
+    {
+      "numero": 1,
+      "posicion": 0,
+      "titulo_apa7": "Tabla 1\nDistribución de instituciones educativas por nivel educativo"
+    },
+    {
+      "numero": 2,
+      "posicion": 1,
+      "titulo_apa7": "Tabla 2\nDistribución geográfica de instituciones educativas"
+    },
+    {
+      "numero": 3,
+      "posicion": 2,
+      "titulo_apa7": "Tabla 3\nVariables e indicadores del estudio"
+    },
+    {
+      "numero": 4,
+      "posicion": 3,
+      "titulo_apa7": "Tabla 4\nVariables e indicadores del estudio"
+    },
+    {
+      "numero": 5,
+      "posicion": 4,
+      "titulo_apa7": "Tabla 5\nVariables e indicadores del estudio"
+    },
+    {
+      "numero": 6,
+      "posicion": 5,
+      "titulo_apa7": "Tabla 6\nVariables e indicadores del estudio"
+    },
+    {
+      "numero": 7,
+      "posicion": 6,
+      "titulo_apa7": "Tabla 7\nVariables e indicadores del estudio"
+    },
+    {
+      "numero": 8,
+      "posicion": 7,
+      "titulo_apa7": "Tabla 8\nVariables e indicadores del estudio"
+    },
+    {
+      "numero": 9,
+      "posicion": 8,
+      "titulo_apa7": "Tabla 9\nVariables e indicadores del estudio"
+    },
+    {
+      "numero": 10,
+      "posicion": 9,
+      "titulo_apa7": "Tabla 10\nVariables e indicadores del estudio"
+    },
+    {
+      "numero": 11,
+      "posicion": 10,
+      "titulo_apa7": "Tabla 11\nVariables e indicadores del estudio"
+    },
+    {
+      "numero": 12,
+      "posicion": 11,
+      "titulo_apa7": "Tabla 12\nListado de instituciones educativas por tipología"
+    },
+    {
+      "numero": 13,
+      "posicion": 12,
+      "titulo_apa7": "Tabla 13\nListado de instituciones educativas por tipología"
+    },
+    {
+      "numero": 14,
+      "posicion": 13,
+      "titulo_apa7": "Tabla 14\nListado de instituciones educativas por tipología"
+    },
+    {
+      "numero": 15,
+      "posicion": 14,
+      "titulo_apa7": "Tabla 15\nVariables e indicadores del estudio"
+    },
+    {
+      "numero": 16,
+      "posicion": 15,
+      "titulo_apa7": "Tabla 16\nDatos del estudio"
+    },
+    {
+      "numero": 17,
+      "posicion": 16,
+      "titulo_apa7": "Tabla 17\nDatos del estudio"
+    },
+    {
+      "numero": 18,
+      "posicion": 17,
+      "titulo_apa7": "Tabla 18\nCaracterización de tipologías institucionales"
+    },
+    {
+      "numero": 19,
+      "posicion": 18,
+      "titulo_apa7": "Tabla 19\nDatos del estudio"
+    },
+    {
+      "numero": 20,
+      "posicion": 19,
+      "titulo_apa7": "Tabla 20\nDatos del estudio"
+    },
+    {
+      "numero": 21,
+      "posicion": 20,
+      "titulo_apa7": "Tabla 21\nDatos del estudio"
+    },
+    {
+      "numero": 22,
+      "posicion": 21,
+      "titulo_apa7": "Tabla 22\nVariables e indicadores del estudio"
+    },
+    {
+      "numero": 23,
+      "posicion": 22,
+      "titulo_apa7": "Tabla 23\nVariables e indicadores del estudio"
+    },
+    {
+      "numero": 24,
+      "posicion": 23,
+      "titulo_apa7": "Tabla 24\nVariables e indicadores del estudio"
+    },
+    {
+      "numero": 25,
+      "posicion": 24,
+      "titulo_apa7": "Tabla 25\nVariables e indicadores del estudio"
+    },
+    {
+      "numero": 26,
+      "posicion": 25,
+      "titulo_apa7": "Tabla 26\nComparación de indicadores por tipología"
+    },
+    {
+      "numero": 27,
+      "posicion": 26,
+      "titulo_apa7": "Tabla 27\nListado de instituciones educativas por tipología"
+    },
+    {
+      "numero": 28,
+      "posicion": 27,
+      "titulo_apa7": "Tabla 28\nComparación de indicadores por tipología"
+    },
+    {
+      "numero": 29,
+      "posicion": 28,
+      "titulo_apa7": "Tabla 29\nListado de instituciones educativas por tipología"
+    },
+    {
+      "numero": 30,
+      "posicion": 29,
+      "titulo_apa7": "Tabla 30\nComparación de indicadores por tipología"
+    },
+    {
+      "numero": 31,
+      "posicion": 30,
+      "titulo_apa7": "Tabla 31\nListado de instituciones educativas por tipología"
+    },
+    {
+      "numero": 32,
+      "posicion": 31,
+      "titulo_apa7": "Tabla 32\nComparación de indicadores por tipología"
+    },
+    {
+      "numero": 33,
+      "posicion": 32,
+      "titulo_apa7": "Tabla 33\nListado de instituciones educativas por tipología"
+    },
+    {
+      "numero": 34,
+      "posicion": 33,
+      "titulo_apa7": "Tabla 34\nDatos del estudio"
+    }
+  ],
+  "figuras_numeradas": [],
+  "referencias_actualizadas": [
+    {
+      "posicion": 208,
+      "original": "La distribución de instituciones educativas por nivel educativo revela la cobertura de Fe y Alegría ...",
+      "modificado": "La distribución de instituciones educativas por nivel educativo revela la cobertura de Fe y Alegría ..."
+    },
+    {
+      "posicion": 215,
+      "original": "Las 163 instituciones educativas se distribuyen a lo largo de seis regiones del país, organizadas en...",
+      "modificado": "Las 163 instituciones educativas se distribuyen a lo largo de seis regiones del país, organizadas en..."
+    },
+    {
+      "posicion": 457,
+      "original": "Figura: Gráfico de barras con la distribución por tipología...",
+      "modificado": "Figura 1:  Gráfico de barras con la distribución por tipología..."
+    },
+    {
+      "posicion": 461,
+      "original": "Figura: Gráfico de Configuración Espacial por Tipología...",
+      "modificado": "Figura 1:  Gráfico de Configuración Espacial por Tipología..."
+    },
+    {
+      "posicion": 508,
+      "original": "Figura - Boxplots de Variables Discriminantes...",
+      "modificado": "Figura 1:  Boxplots de Variables Discriminantes..."
+    }
+  ],
+  "correcciones_estilo": []
+}

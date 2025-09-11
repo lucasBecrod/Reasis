@@ -1,0 +1,33 @@
+{
+  "resumen_proyecto": {
+    "objetivo": "Identificar códigos modulares faltantes en tabla resultados_academicos",
+    "registros_totales": 15054,
+    "estado_inicial": "434 registros sin código modular (2.9%)",
+    "estado_final": "67 registros sin código modular (0.45%)",
+    "mejora_conseguida": "367 registros vinculados (+84.6%)"
+  },
+  "metodologias_exitosas": {
+    "busqueda_automatica_inicial": {
+      "descripcion": "Búsqueda por nombre exacto y código local",
+      "instituciones_encontradas": 16,
+      "registros_vinculados": 205
+    },
+    "patron_dual_codigo_nombre": {
+      "descripcion": "Separación de código y nombre del campo combinado",
+      "instituciones_encontradas": 2,
+      "registros_vinculados": 162,
+      "tecnica": "Regex para separar número inicial + nombre"
+    }
+  },
+  "cobertura_final": {
+    "registros_vinculados": 14987,
+    "registros_sin_vincular": 67,
+    "porcentaje_exito": 99.55
+  },
+  "instituciones_problematicas": 4,
+  "archivos_generados": [
+    "buscador_codigos_modulares.py",
+    "buscador_patron_dual.py",
+    "instituciones_restantes_final.json"
+  ]
+}

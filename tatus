@@ -1,0 +1,121 @@
+[33mcommit 13d175b538acaccf74dd3003d18649adfc56fded[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msolo-ultimo-commit[m[33m)[m
+Author: Lucas Becrod <42328080+lucasBecrod@users.noreply.github.com>
+Date:   Sun Aug 24 19:03:02 2025 -0500
+
+    Close
+
+archivado/android/.gitignore
+archivado/android/app/build.gradle
+archivado/android/app/proguard-rules.pro
+archivado/android/app/src/debug/AndroidManifest.xml
+archivado/android/app/src/main/AndroidManifest.xml
+archivado/android/app/src/main/kotlin/com/example/my_project/MainActivity.kt
+archivado/android/app/src/main/res/drawable/launch_background.xml
+archivado/android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+archivado/android/app/src/main/res/mipmap-mdpi/ic_launcher.png
+archivado/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+archivado/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+archivado/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+archivado/android/app/src/main/res/values-night-v31/styles.xml
+archivado/android/app/src/main/res/values-night/styles.xml
+archivado/android/app/src/main/res/values-v31/styles.xml
+archivado/android/app/src/main/res/values/strings.xml
+archivado/android/app/src/main/res/values/styles.xml
+archivado/android/app/src/profile/AndroidManifest.xml
+archivado/android/build.gradle
+archivado/android/gradle.properties
+archivado/android/gradle/wrapper/gradle-wrapper.properties
+archivado/android/settings.gradle
+archivado/assets/audios/favicon.png
+archivado/assets/fonts/favicon.png
+archivado/assets/images/favicon.png
+archivado/assets/jsons/favicon.png
+archivado/assets/rive_animations/favicon.png
+archivado/assets/videos/favicon.png
+archivado/clustering/01 Analisis Excel/01 Analisis Excel.Rproj
+archivado/clustering/01 Analisis Excel/01 Analisis de Clusters Optimos.png
+archivado/clustering/01 Analisis Excel/01 Caracterizacion muestra/01 Caracterizacion muestra.R
+archivado/clustering/01 Analisis Excel/01 Caracterizacion muestra/01 Distribucion por nivel.png
+archivado/clustering/01 Analisis Excel/01 Caracterizacion muestra/01 IIEE Por nievel.png
+"archivado/clustering/01 Analisis Excel/01 Caracterizacion muestra/03 Distribuco\303\263n por RER.png"
+"archivado/clustering/01 Analisis Excel/01 Caracterizacion muestra/Distribuci\303\263n por RER.png"
+archivado/clustering/01 Analisis Excel/01 Excel Base de datos v5.xlsx
+archivado/clustering/01 Analisis Excel/01 Script R v1.R
+archivado/clustering/01 Analisis Excel/02 Analisis de resiliencia/Altitud vs logro academico.png
+"archivado/clustering/01 Analisis Excel/02 Analisis de resiliencia/Coheficientes del modelo de regresi\303\263n.png"
+"archivado/clustering/01 Analisis Excel/02 Analisis de resiliencia/Desempe\303\261o docente.png"
+archivado/clustering/01 Analisis Excel/02 Analisis de resiliencia/Gestion institucional.png
+archivado/clustering/01 Analisis Excel/02 Analisis de resiliencia/Grafico  e o 5.png
+archivado/clustering/01 Analisis Excel/02 Analisis de resiliencia/Rplot00.png
+archivado/clustering/01 Analisis Excel/02 Analisis de resiliencia/Rplot000.png
+archivado/clustering/01 Analisis Excel/02 Analisis de resiliencia/Rplot01.png
+archivado/clustering/01 Analisis Excel/02 Analisis de resiliencia/Rplot02.png
+archivado/clustering/01 Analisis Excel/02 Analisis de resiliencia/Rplot03.png
+archivado/clustering/01 Analisis Excel/02 Analisis de resiliencia/Rplot04.png
+archivado/clustering/01 Analisis Excel/02 Analisis de resiliencia/Rplot05.png
+archivado/clustering/01 Analisis Excel/02 Analisis de resiliencia/Rplot06.png
+archivado/clustering/01 Analisis Excel/02 Numeros oprimos para clusters.png
+archivado/clustering/01 Analisis Excel/02 Scripto Riesgo y Resileincia.R
+archivado/clustering/01 Analisis Excel/03 Analisis K means/01 IIee por nivel.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/01 Numero de clusters.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/02 Numero optimo de clusters.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/03 K means v1.R
+archivado/clustering/01 Analisis Excel/03 Analisis K means/03 K2.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/03 Scripts de algoritmos utilizados en R.R
+archivado/clustering/01 Analisis Excel/03 Analisis K means/04 K3.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/05 K4.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/06 K5.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/07 K9.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/10 K4.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/10 R4.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/11 K4.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/12 Perdiles Institucionales.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/13 Perfils por tipoligia.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/Rplot.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/Rplot01.png
+archivado/clustering/01 Analisis Excel/03 Analisis K means/Rplot02.png
+archivado/clustering/01 Analisis Excel/05 Rplot01 K5.png
+"archivado/clustering/01 Analisis Excel/Distribuci\303\263n de variables finales.png"
+"archivado/clustering/01 Analisis Excel/Distribuci\303\263n del indice de logro academico.png"
+"archivado/clustering/01 Analisis Excel/Distribuci\303\263n por ruralidad.png"
+archivado/clustering/01 Analisis Excel/Indice de logro academico 1-4.png
+archivado/clustering/01 Analisis Excel/Matriz de correlaciones 10 Varariables seleccionadas.png
+archivado/clustering/01 Analisis Excel/Matriz de correlaciones 10 variables seleccioandas.png
+archivado/clustering/01 Analisis Excel/Matriz de correlaciones con todas las variables.png
+archivado/clustering/01 Analisis Excel/Matriz de correlaciones todas las varaibles.png
+archivado/clustering/01 Analisis Excel/Matriz de correlaciones totas las variables.png
+archivado/clustering/01 Analisis Excel/Poder explicativo de varaibles.png
+archivado/clustering/01 Analisis Excel/Rplot.png
+archivado/clustering/01 Analisis Excel/Rplot01 K igual a 3.png
+archivado/clustering/01 Analisis Excel/Rplot01 K5.png
+archivado/clustering/01 Analisis Excel/Rplot01 K9.png
+archivado/clustering/01 Analisis Excel/Rplot01.png
+archivado/clustering/01 Analisis Excel/Rplot02.png
+archivado/clustering/01 Analisis Excel/Rplot03.png
+archivado/clustering/01 Analisis Excel/Rplot04.png
+archivado/clustering/01 Analisis Excel/Rplot05.png
+archivado/clustering/01 Analisis Excel/Vivariabilidad del logro academico.png
+archivado/clustering/01 Analisis Excel/estadisticas_todas_variables.csv
+archivado/clustering/01 Analisis Excel/graficos_reasis/01_distribucion.png
+archivado/clustering/01 Analisis Excel/graficos_reasis/02_comparacion.png
+archivado/clustering/01 Analisis Excel/graficos_reasis/03_ranking.png
+archivado/clustering/01 Analisis Excel/graficos_reasis/04_coeficientes.png
+archivado/clustering/01 Analisis Excel/graficos_reasis/05_gestion_logro.png
+archivado/clustering/01 Analisis Excel/graficos_reasis/06_paradoja_docente.png
+archivado/clustering/01 Analisis Excel/graficos_reasis/panel_principal.png
+archivado/clustering/01 Analisis Excel/graficos_reasis/panel_secundario.png
+archivado/clustering/01 Analisis Excel/instituciones_por_cluster_completa.csv
+archivado/clustering/01 Analisis Excel/matriz_cualitativa_tipologias.csv
+archivado/clustering/01 Analisis Excel/matriz_z_scores_tipologias.csv
+archivado/clustering/01 Analisis Excel/reasis_database_v5_final.csv
+archivado/clustering/01 Analisis Excel/resumen_ejecutivo_clusters.csv
+archivado/clustering/01 Analisis Excel/resumen_ejecutivo_tipologias.csv
+archivado/clustering/01 Analisis Excel/sistema_variables_analisis.csv
+archivado/clustering/01 Analisis Excel/tabla_nivel_educativo_final.csv
+archivado/clustering/01 Analisis Excel/tabla_nivel_educativo_resumen.csv
+archivado/clustering/01 Analisis Excel/tabla_rer_resumen_informe.csv
+archivado/clustering/01 Analisis Excel/tipologias_institucionales_final_aprobadas.csv
+archivado/clustering/analysis_output.txt
+archivado/clustering/funciones/analisis/analisis_errores.py
+archivado/clustering/funciones/analisis/analisis_estado_eib.py
+archivado/clustering/funciones/analisis/analisis_varia

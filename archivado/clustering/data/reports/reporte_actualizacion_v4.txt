@@ -1,0 +1,6 @@
+=== REPORTE ACTUALIZACIÓN BD v4 ===
+Fecha: 2025-08-12 10:53:39
+Total IIEE oficiales: 163
+Total RER oficiales: 1
+Total índices metodológicos: 161
+Distribución por RER:

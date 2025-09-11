@@ -1,0 +1,428 @@
+{
+  "tablas_numeradas": [
+    {
+      "numero": 1,
+      "posicion": 0,
+      "titulo_apa7": "Tabla 1\nDistribución de instituciones educativas por nivel educativo"
+    },
+    {
+      "numero": 2,
+      "posicion": 1,
+      "titulo_apa7": "Tabla 2\nDistribución geográfica de instituciones educativas por RER"
+    },
+    {
+      "numero": 3,
+      "posicion": 2,
+      "titulo_apa7": "Tabla 3\nVariables dependientes del modelo de análisis"
+    },
+    {
+      "numero": 4,
+      "posicion": 3,
+      "titulo_apa7": "Tabla 4\nVariables de calidad y desempeño institucional"
+    },
+    {
+      "numero": 5,
+      "posicion": 4,
+      "titulo_apa7": "Tabla 5\nVariables de infraestructura y recursos educativos"
+    },
+    {
+      "numero": 6,
+      "posicion": 5,
+      "titulo_apa7": "Tabla 6\nVariables de contexto socioeconómico y geográfico"
+    },
+    {
+      "numero": 7,
+      "posicion": 6,
+      "titulo_apa7": "Tabla 7\nVariables de caracterización del profesorado"
+    },
+    {
+      "numero": 8,
+      "posicion": 7,
+      "titulo_apa7": "Tabla 8\nVariables de gestión y organización institucional"
+    },
+    {
+      "numero": 9,
+      "posicion": 8,
+      "titulo_apa7": "Tabla 9\nVariables e indicadores metodológicos"
+    },
+    {
+      "numero": 10,
+      "posicion": 9,
+      "titulo_apa7": "Tabla 10\nConjunto completo de variables metodológicas"
+    },
+    {
+      "numero": 11,
+      "posicion": 10,
+      "titulo_apa7": "Tabla 11\nCoeficientes del modelo de regresión múltiple"
+    },
+    {
+      "numero": 12,
+      "posicion": 11,
+      "titulo_apa7": "Tabla 12\nInstituciones educativas resilientes identificadas"
+    },
+    {
+      "numero": 13,
+      "posicion": 12,
+      "titulo_apa7": "Tabla 13\nInstituciones educativas vulnerables identificadas"
+    },
+    {
+      "numero": 14,
+      "posicion": 13,
+      "titulo_apa7": "Tabla 14\nInstituciones educativas con desempeño esperado"
+    },
+    {
+      "numero": 15,
+      "posicion": 14,
+      "titulo_apa7": "Tabla 15\nSistema de variables e indicadores"
+    },
+    {
+      "numero": 16,
+      "posicion": 15,
+      "titulo_apa7": "Tabla 16\nEvaluación del número óptimo de clusters"
+    },
+    {
+      "numero": 17,
+      "posicion": 16,
+      "titulo_apa7": "Tabla 17\nResultados del análisis de tipologías institucionales"
+    },
+    {
+      "numero": 18,
+      "posicion": 17,
+      "titulo_apa7": "Tabla 18\nDistribución de instituciones por tipología identificada"
+    },
+    {
+      "numero": 19,
+      "posicion": 18,
+      "titulo_apa7": "Tabla 19\nMétricas de validación del modelo de clustering"
+    },
+    {
+      "numero": 20,
+      "posicion": 19,
+      "titulo_apa7": "Tabla 20\nResultados del análisis de tipologías institucionales"
+    },
+    {
+      "numero": 21,
+      "posicion": 20,
+      "titulo_apa7": "Tabla 21\nResultados del análisis de tipologías institucionales"
+    },
+    {
+      "numero": 22,
+      "posicion": 21,
+      "titulo_apa7": "Tabla 22\nCaracterización comparativa de tipologías institucionales"
+    },
+    {
+      "numero": 23,
+      "posicion": 22,
+      "titulo_apa7": "Tabla 23\nAnálisis de varianza (ANOVA) entre tipologías"
+    },
+    {
+      "numero": 24,
+      "posicion": 23,
+      "titulo_apa7": "Tabla 24\nVariables con mayor poder discriminante"
+    },
+    {
+      "numero": 25,
+      "posicion": 24,
+      "titulo_apa7": "Tabla 25\nConjunto completo de variables metodológicas"
+    },
+    {
+      "numero": 26,
+      "posicion": 25,
+      "titulo_apa7": "Tabla 26\nPerfil estadístico de tipología institucional"
+    },
+    {
+      "numero": 27,
+      "posicion": 26,
+      "titulo_apa7": "Tabla 27\nListado completo de instituciones por tipología"
+    },
+    {
+      "numero": 28,
+      "posicion": 27,
+      "titulo_apa7": "Tabla 28\nPerfiles detallados por tipología identificada"
+    },
+    {
+      "numero": 29,
+      "posicion": 28,
+      "titulo_apa7": "Tabla 29\nMuestra de instituciones educativas seleccionadas"
+    },
+    {
+      "numero": 30,
+      "posicion": 29,
+      "titulo_apa7": "Tabla 30\nPerfiles detallados por tipología identificada"
+    },
+    {
+      "numero": 31,
+      "posicion": 30,
+      "titulo_apa7": "Tabla 31\nListado completo de instituciones por tipología"
+    },
+    {
+      "numero": 32,
+      "posicion": 31,
+      "titulo_apa7": "Tabla 32\nPerfiles detallados por tipología identificada"
+    },
+    {
+      "numero": 33,
+      "posicion": 32,
+      "titulo_apa7": "Tabla 33\nInstituciones representativas por tipología"
+    },
+    {
+      "numero": 34,
+      "posicion": 33,
+      "titulo_apa7": "Tabla 34\nCaracterización comparativa de tipologías institucionales"
+    }
+  ],
+  "figuras_numeradas": [],
+  "referencias_actualizadas": [
+    {
+      "posicion": 208,
+      "original": "La distribución de instituciones educativas por nivel educativo revela la cobertura de Fe y Alegría ...",
+      "modificado": "La distribución de instituciones educativas por nivel educativo revela la cobertura de Fe y Alegría ..."
+    },
+    {
+      "posicion": 211,
+      "original": "Gráfico 01 – Distribución de Instituciones Educativas por Nivel Educativo...",
+      "modificado": "Figura 1: Gráfico– Distribución de Instituciones Educativas por Nivel Educativo..."
+    },
+    {
+      "posicion": 215,
+      "original": "Las 163 instituciones educativas se distribuyen a lo largo de seis regiones del país, organizadas en...",
+      "modificado": "Las 163 instituciones educativas se distribuyen a lo largo de seis regiones del país, organizadas en..."
+    },
+    {
+      "posicion": 221,
+      "original": "Cobertura territorial: Las instituciones abarcan regiones estratégicas que incluyen la Amazonía (Lor...",
+      "modificado": "Cobertura territorial: Las instituciones abarcan regiones estratégicas que incluyen la Amazonía (Lor..."
+    },
+    {
+      "posicion": 268,
+      "original": "Tabla 1.7: Indicadores Geográficos y de Localización...",
+      "modificado": "Tabla 1.7: Indicadores GeoFigura 1: Gráficos y de Localización..."
+    },
+    {
+      "posicion": 310,
+      "original": "Tabla 8: Configuración Final de Variables para Identificación de Tipologías...",
+      "modificado": "Tabla 8: ConFigura 1:ción Final de Variables para Identificación de Tipologías..."
+    },
+    {
+      "posicion": 312,
+      "original": "La tabla presenta la configuración final optimizada de diez variables seleccionadas para el análisis...",
+      "modificado": "La tabla presenta la conFigura 1:ción final optimizada de diez variables seleccionadas para el análi..."
+    },
+    {
+      "posicion": 313,
+      "original": "La configuración dimensional balanceada asegura representación apropiada de todos los aspectos críti...",
+      "modificado": "La conFigura 1:ción dimensional balanceada asegura representación apropiada de todos los aspectos cr..."
+    },
+    {
+      "posicion": 324,
+      "original": "Los datos, almacenados en la tabla indices_metodologicos de la base de datos SQL, facilitan el clust...",
+      "modificado": "Los datos, almacenados en la tabla indices_metodologicos de la base de datos SQL, facilitan el clust..."
+    },
+    {
+      "posicion": 339,
+      "original": "ALTITUD_MSNM: Altitud sobre el nivel del mar (factor geográfico)...",
+      "modificado": "ALTITUD_MSNM: Altitud sobre el nivel del mar (factor geoFigura 1: Gráfico)..."
+    },
+    {
+      "posicion": 357,
+      "original": "Gráfico de coeficientes del modelo...",
+      "modificado": "Figura 1: Gráficode coeficientes del modelo..."
+    },
+    {
+      "posicion": 359,
+      "original": "El Gráfico ilustra la estructura jerárquica de los coeficientes del modelo, revelando patrones predi...",
+      "modificado": "El Figura 1: Gráficoilustra la estructura jerárquica de los coeficientes del modelo, revelando patro..."
+    },
+    {
+      "posicion": 361,
+      "original": "El Factor Gestión (X17_GESTION) es Clave: La calidad de la gestión institucional emerge como el pred...",
+      "modificado": "El Factor Gestión (X17_GESTION) es Clave: La calidad de la gestión institucional emerge como el pred..."
+    },
+    {
+      "posicion": 363,
+      "original": "La Paradoja del Desempeño Docente (X4_IDD): Contrario a la intuición, un puntaje más alto en la métr...",
+      "modificado": "La Paradoja del Desempeño Docente (X4_IDD): Contrario a la intuición, un puntaje más alto en la métr..."
+    },
+    {
+      "posicion": 367,
+      "original": "El gráfico de dispersión revela una relación inverse sistemática entre la altitud geográfica y el lo...",
+      "modificado": "El Figura 1: Gráficode dispersión revela una relación inverse sistemática entre la altitud geográfic..."
+    },
+    {
+      "posicion": 374,
+      "original": "El siguiente Gráfico presenta la distribución categórica de las 163 instituciones analizadas:...",
+      "modificado": "El siguiente Figura 1: Gráficopresenta la distribución categórica de las 163 instituciones analizada..."
+    },
+    {
+      "posicion": 395,
+      "original": "El análisis comparativo revela los factores que más diferencian a los dos grupos extremos. El Gráfic...",
+      "modificado": "El análisis comparativo revela los factores que más diferencian a los dos grupos extremos. El Figura..."
+    },
+    {
+      "posicion": 414,
+      "original": "Las variables seleccionadas abarcan cinco dimensiones fundamentales de la gestión educativa. En la d...",
+      "modificado": "Las variables seleccionadas abarcan cinco dimensiones fundamentales de la gestión educativa. En la d..."
+    },
+    {
+      "posicion": 415,
+      "original": "La eliminación de variables redundantes fue un proceso crítico para evitar el problema estadístico c...",
+      "modificado": "La eliminación de variables redundantes fue un proceso crítico para evitar el problema estadístico c..."
+    },
+    {
+      "posicion": 420,
+      "original": "El método del codo o gráfico del codo (en inglés, elbow method) es una técnica visual utilizada para...",
+      "modificado": "El método del codo o Figura 1: Gráficodel codo (en inglés, elbow method) es una técnica visual utili..."
+    },
+    {
+      "posicion": 422,
+      "original": "El Gráfico del Método del Codo ilustra claramente cómo el WCSS disminuye progresivamente al aumentar...",
+      "modificado": "El Figura 1: Gráficodel Método del Codo ilustra claramente cómo el WCSS disminuye progresivamente al..."
+    },
+    {
+      "posicion": 429,
+      "original": "La Gráfica de Distribución K=2 revela una separación básica en dos grupos de 106 (con ruralidad 1 a ...",
+      "modificado": "La Gráfica de Distribución K=2 revela una separación básica en dos grupos de 106 (con ruralidad 1 a ..."
+    },
+    {
+      "posicion": 431,
+      "original": "La Visualización de Clusters K=3 marca un momento crucial en el análisis al revelar la aparición de ...",
+      "modificado": "La Visualización de Clusters K=3 marca un momento crucial en el análisis al revelar la aparición de ..."
+    },
+    {
+      "posicion": 433,
+      "original": "La Gráfica de Clusters K=4 presenta la distribución espacial más natural observada en todo el anális...",
+      "modificado": "La Gráfica de Clusters K=4 presenta la distribución espacial más natural observada en todo el anális..."
+    },
+    {
+      "posicion": 434,
+      "original": "El Gráfico de Silhouette para K=4 alcanza el valor de 0.202, representando el mejor equilibrio entre...",
+      "modificado": "El Figura 1: Gráficode Silhouette para K=4 alcanza el valor de 0.202, representando el mejor equilib..."
+    },
+    {
+      "posicion": 436,
+      "original": "La Visualización K=5 muestra una división que fragmenta los grupos naturales identificados en K=4 si...",
+      "modificado": "La Visualización K=5 muestra una división que fragmenta los grupos naturales identificados en K=4 si..."
+    },
+    {
+      "posicion": 438,
+      "original": "El Gráfico de Clusters K=9 presenta una aparente paradoja estadística: el coeficiente de Silhouette ...",
+      "modificado": "El Figura 1: Gráficode Clusters K=9 presenta una aparente paradoja estadística: el coeficiente de Si..."
+    },
+    {
+      "posicion": 441,
+      "original": "La selección de K=4 como solución óptima se fundamenta en múltiples criterios convergentes. El análi...",
+      "modificado": "La selección de K=4 como solución óptima se fundamenta en múltiples criterios convergentes. El análi..."
+    },
+    {
+      "posicion": 443,
+      "original": "El Gráfico Comparativo de Métricas confirma que K=4 representa el punto de equilibrio óptimo entre r...",
+      "modificado": "El Figura 1: GráficoComparativo de Métricas confirma que K=4 representa el punto de equilibrio óptim..."
+    },
+    {
+      "posicion": 445,
+      "original": "La solución K=4 produce cuatro arquetipos institucionales con identidades pedagógicas claramente def...",
+      "modificado": "La solución K=4 produce cuatro arquetipos institucionales con identidades pedagógicas claramente def..."
+    },
+    {
+      "posicion": 450,
+      "original": "El análisis de tipologías institucionales se implementó mediante el algoritmo K-Means con especifica...",
+      "modificado": "El análisis de tipologías institucionales se implementó mediante el algoritmo K-Means con especifica..."
+    },
+    {
+      "posicion": 455,
+      "original": "El algoritmo K-Means identificó cuatro tipologías institucionales claramente diferenciadas, con una ...",
+      "modificado": "El algoritmo K-Means identificó cuatro tipologías institucionales claramente diferenciadas, con una ..."
+    },
+    {
+      "posicion": 457,
+      "original": "Figura: Gráfico de barras con la distribución por tipología...",
+      "modificado": "Figura 1: Gráfico de barras con la distribución por tipología..."
+    },
+    {
+      "posicion": 461,
+      "original": "Figura: Gráfico de Configuración Espacial por Tipología...",
+      "modificado": "Figura 1: Gráfico de configuración espacial Espacial por Tipología..."
+    },
+    {
+      "posicion": 463,
+      "original": "La configuración espacial de tipologías institucionales presenta una representación visual simplific...",
+      "modificado": "La conFigura 1:ción espacial de tipologías institucionales presenta una representación visual simpli..."
+    },
+    {
+      "posicion": 464,
+      "original": "El gráfico utiliza una técnica estadística denominada Análisis de Componentes Principales que funcio...",
+      "modificado": "El Figura 1: Gráficoutiliza una técnica estadística denominada Análisis de Componentes Principales q..."
+    },
+    {
+      "posicion": 468,
+      "original": "La formación de cuatro grupos claramente separados en diferentes regiones del gráfico confirma que l...",
+      "modificado": "La formación de cuatro grupos claramente separados en diferentes regiones del Figura 1: Gráficoconfi..."
+    },
+    {
+      "posicion": 470,
+      "original": "La configuración espacial proporciona una herramienta de validación visual que demuestra la coherenc...",
+      "modificado": "La conFigura 1:ción espacial proporciona una herramienta de validación visual que demuestra la coher..."
+    },
+    {
+      "posicion": 482,
+      "original": "La validación cruzada manual confirmó la estabilidad de los resultados mediante cinco repeticiones a...",
+      "modificado": "La validación cruzada manual confirmó la estabilidad de los resultados mediante cinco repeticiones a..."
+    },
+    {
+      "posicion": 490,
+      "original": "La caracterización estadística revela perfiles institucionales claramente diferenciados en las diez ...",
+      "modificado": "La caracterización estadística revela perfiles institucionales claramente diferenciados en las diez ..."
+    },
+    {
+      "posicion": 494,
+      "original": "La Figura proporciona una visualización integral que permite identificar inmediatamente los patrones...",
+      "modificado": "La Figura 1:proporciona una visualización integral que permite identificar inmediatamente los patron..."
+    },
+    {
+      "posicion": 502,
+      "original": "La variable Tipo de Ruralidad (X2_TR) presenta discriminación perfecta (η² = 1.000), indicando que e...",
+      "modificado": "La variable Tipo de Ruralidad (X2_TR) presenta discriminación perfecta (η² = 1.000), indicando que e..."
+    },
+    {
+      "posicion": 505,
+      "original": "El análisis identificó un conjunto de variables con poder discriminante excepcional que definen las ...",
+      "modificado": "El análisis identificó un conjunto de variables con poder discriminante excepcional que definen las ..."
+    },
+    {
+      "posicion": 508,
+      "original": "Figura - Boxplots de Variables Discriminantes...",
+      "modificado": "Figura 1: Boxplots de Variables Discriminantes..."
+    },
+    {
+      "posicion": 510,
+      "original": "Descripción: Panel de cuatro gráficos de caja que muestran las distribuciones de Altitud, Ratio Estu...",
+      "modificado": "Descripción: Panel de cuatro Figura 1: Gráficos de caja que muestran las distribuciones de Altitud, ..."
+    },
+    {
+      "posicion": 511,
+      "original": "Las pruebas post-hoc Tukey identificaron las diferencias específicas más significativas entre pares ...",
+      "modificado": "Las pruebas post-hoc Tukey identificaron las diferencias específicas más significativas entre pares ..."
+    },
+    {
+      "posicion": 512,
+      "original": "Factor Geográfico (ALTITUD_MSNM): La visualización en la Figura 4.2 confirma que las instituciones R...",
+      "modificado": "Factor GeoFigura 1: Gráfico(ALTITUD_MSNM): La visualización en la Figura 4.2 confirma que las instit..."
+    },
+    {
+      "posicion": 513,
+      "original": "Desempeño Docente (X4_IDD): Las instituciones Rurales Resilientes superan significativamente a las É...",
+      "modificado": "Desempeño Docente (X4_IDD): Las instituciones Rurales Resilientes superan significativamente a las É..."
+    },
+    {
+      "posicion": 521,
+      "original": "El análisis de clustering K-means identificó cuatro tipologías institucionales claramente diferencia...",
+      "modificado": "El análisis de clustering K-means identificó cuatro tipologías institucionales claramente diferencia..."
+    },
+    {
+      "posicion": 562,
+      "original": "Desafíos principales: Desempeño docente más bajo (1.77), estabilidad docente crítica (0.52) y ratio ...",
+      "modificado": "Desafíos principales: Desempeño docente más bajo (1.77), estabilidad docente crítica (0.52) y ratio ..."
+    }
+  ],
+  "correcciones_estilo": []
+}

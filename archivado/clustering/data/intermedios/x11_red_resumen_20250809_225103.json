@@ -1,0 +1,17 @@
+{
+  "timestamp": "20250809_225103",
+  "filas_validas": 183,
+  "estadisticas": {
+    "media": 14.040924438422282,
+    "mediana": 12.0,
+    "min": 2.0,
+    "max": 101.75,
+    "p10": 7.0,
+    "p25": 8.0,
+    "p75": 16.115384615384613,
+    "p90": 21.485714285714288
+  },
+  "reglas": "X11_RED = total_alumnos / total_docentes; solo >0 y no nulos",
+  "origen_tabla": "instituciones_educativas",
+  "destino_final": "indices_metodologicos.X11_RED (pendiente aprobación)"
+}

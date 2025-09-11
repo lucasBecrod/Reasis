@@ -1,0 +1,56 @@
+{
+  "timestamp": "20250809_233044",
+  "n_train": 166,
+  "features": {
+    "features": [
+      "nombre_red_fya_matched",
+      "numero_fya",
+      "area_censo",
+      "modalidad_especifica",
+      "region",
+      "provincia",
+      "distrito",
+      "Y1_ILA",
+      "Y2_TD",
+      "X11_RED",
+      "total_alumnos",
+      "total_docentes",
+      "latitud",
+      "longitud",
+      "altitud"
+    ],
+    "cats": [
+      "nombre_red_fya_matched",
+      "numero_fya",
+      "area_censo",
+      "modalidad_especifica",
+      "region",
+      "provincia",
+      "distrito"
+    ],
+    "nums": [
+      "Y1_ILA",
+      "Y2_TD",
+      "X11_RED",
+      "total_alumnos",
+      "total_docentes",
+      "latitud",
+      "longitud",
+      "altitud"
+    ],
+    "n_total": 184,
+    "n_target_disponible": 166
+  },
+  "model_selection": {
+    "knn_k7": {
+      "mae_cv_mean": 2.9720316611493085,
+      "mae_cv_std": 0.6924621178114532
+    },
+    "rf_200": {
+      "mae_cv_mean": 3.174303773024361,
+      "mae_cv_std": 0.35749627980574594
+    }
+  },
+  "best_model": "knn_k7",
+  "best_mae_cv": 2.9720316611493085
+}

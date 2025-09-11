@@ -1,0 +1,3063 @@
+{
+  "metadatos": {
+    "archivo_original": "01 Informe Tipologías IIEE 2025 1.0.docx",
+    "archivo_copia": "01 Informe Tipologías IIEE 2025 1.0_APA7_editado.docx",
+    "archivo_backup": "01 Informe Tipologías IIEE 2025 1.0_backup.docx",
+    "fecha_procesamiento": "2025-08-14T12:20:11.494441",
+    "total_paragrafos": 636,
+    "total_tablas": 34
+  },
+  "estructura": {
+    "titulos": [
+      {
+        "nivel": 3,
+        "texto": "Descripción de la Población de Estudio",
+        "posicion": 205,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Sistema de Indicadores",
+        "posicion": 239,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Estadísticas Descriptivas del Sistema de Variables",
+        "posicion": 275,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Análisis correlacional",
+        "posicion": 296,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Selección de variables para identificación de tipologías",
+        "posicion": 307,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Caracterización de Instituciones Resilientes y Vulnerables",
+        "posicion": 394,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Factores de riesgo y resiliencia identificados",
+        "posicion": 397,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Validación del modelo estadístico",
+        "posicion": 406,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Selección de variables para el análisis",
+        "posicion": 412,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Determinación del Número Óptimo de Tipologias",
+        "posicion": 416,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Justificación de la selección k=4 tipologias",
+        "posicion": 439,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Resultados del Análisis de Conglomerados",
+        "posicion": 448,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Caracterización Estadística de Clústeres",
+        "posicion": 488,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Tipología 1: Instituciones Tradicionales Estables",
+        "posicion": 541,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Tipología 2: Instituciones Élite Institucional",
+        "posicion": 554,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Tipología 3: Instituciones Rurales Resilientes",
+        "posicion": 565,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Tipología 4: Instituciones Emergentes Complejas",
+        "posicion": 576,
+        "estilo": "Heading 3"
+      },
+      {
+        "nivel": 3,
+        "texto": "Patrones Transversales",
+        "posicion": 593,
+        "estilo": "Heading 3"
+      }
+    ],
+    "secciones": [
+      {
+        "titulo": "Descripción de la Población de Estudio",
+        "nivel": 3,
+        "posicion_inicio": 205,
+        "contenido": [
+          {
+            "posicion": 206,
+            "texto": "El presente estudio analizó un total de 163 instituciones educativas pertenecientes a las Redes Educ..."
+          },
+          {
+            "posicion": 207,
+            "texto": "Distribución por nivel de estudio"
+          },
+          {
+            "posicion": 208,
+            "texto": "La distribución de instituciones educativas por nivel educativo revela la cobertura de Fe y Alegría ..."
+          },
+          {
+            "posicion": 209,
+            "texto": "Tabla 2: Distribución de instituciones educativas por nivel educativo"
+          },
+          {
+            "posicion": 211,
+            "texto": "Gráfico 01 – Distribución de Instituciones Educativas por Nivel Educativo"
+          },
+          {
+            "posicion": 213,
+            "texto": "Características de la población evaluada: El predominio del nivel primaria (56.4%) refleja que Fe y ..."
+          },
+          {
+            "posicion": 214,
+            "texto": "Distribución geográfica por regiones y RER"
+          },
+          {
+            "posicion": 215,
+            "texto": "Las 163 instituciones educativas se distribuyen a lo largo de seis regiones del país, organizadas en..."
+          },
+          {
+            "posicion": 216,
+            "texto": "Tabla 03: Instituciones educativas por RER"
+          },
+          {
+            "posicion": 218,
+            "texto": "La RER 47 - Iquitos concentra la mayor cantidad de instituciones (44 IIEE, 27.3%), seguida de la RER..."
+          },
+          {
+            "posicion": 219,
+            "texto": "Grafico 02 - Distribución Geográfica de Instituciones Educativas por Región"
+          },
+          {
+            "posicion": 221,
+            "texto": "Cobertura territorial: Las instituciones abarcan regiones estratégicas que incluyen la Amazonía (Lor..."
+          },
+          {
+            "posicion": 222,
+            "texto": "Características generales de cobertura temporal de datos"
+          },
+          {
+            "posicion": 223,
+            "texto": "El proyecto de investigación desarrolló una metodología de recolección de datos longitudinal que aba..."
+          },
+          {
+            "posicion": 224,
+            "texto": "Datos de evaluaciones académicas: Se obtuvieron registros de evaluaciones a estudiantes para los año..."
+          },
+          {
+            "posicion": 225,
+            "texto": "Datos de matrícula: Se recopiló información del Sistema de Información de Apoyo a la Gestión de la I..."
+          },
+          {
+            "posicion": 226,
+            "texto": "Datos contextuales y de caracterización: Se integraron variables institucionales, socioeconómicas y ..."
+          },
+          {
+            "posicion": 227,
+            "texto": "Patrones territoriales diferenciados por RER"
+          },
+          {
+            "posicion": 228,
+            "texto": "El análisis cruzado de nivel educativo por RER revela estrategias territoriales específicas que refl..."
+          },
+          {
+            "posicion": 229,
+            "texto": "RER con énfasis en Primaria:"
+          },
+          {
+            "posicion": 230,
+            "texto": "RER 44 - Cusco: 84% de instituciones en primaria (21/25 IIEE)"
+          },
+          {
+            "posicion": 231,
+            "texto": "RER 79 - Acobamba: 55% en primaria (11/20 IIEE)"
+          },
+          {
+            "posicion": 232,
+            "texto": "RER 72 - Pucallpa: 61.9% en primaria (13/21 IIEE)"
+          },
+          {
+            "posicion": 233,
+            "texto": "RER con balance Inicial-Primaria:"
+          },
+          {
+            "posicion": 234,
+            "texto": "RER 48 - Malingas: 45.7% inicial vs 48.6% primaria"
+          },
+          {
+            "posicion": 235,
+            "texto": "RER 47 - Iquitos: 38.7% inicial vs 50% primaria"
+          },
+          {
+            "posicion": 236,
+            "texto": "La distribución identificada revela que 88.9% de las instituciones se concentran en educación inicia..."
+          },
+          {
+            "posicion": 238,
+            "texto": "Indicadores Clave de Desempeño (KPIs)"
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Sistema de Indicadores",
+        "nivel": 3,
+        "posicion_inicio": 239,
+        "contenido": [
+          {
+            "posicion": 240,
+            "texto": "El sistema de indicadores desarrollado para la caracterización de las instituciones educativas de Fe..."
+          },
+          {
+            "posicion": 241,
+            "texto": "Desempeño académico estudiantil"
+          },
+          {
+            "posicion": 242,
+            "texto": "Capacidades docentes"
+          },
+          {
+            "posicion": 243,
+            "texto": "Factores contextuales determinantes"
+          },
+          {
+            "posicion": 244,
+            "texto": "Este enfoque permite una evaluación integral que trasciende las métricas tradicionales de rendimient..."
+          },
+          {
+            "posicion": 245,
+            "texto": "El marco teórico adoptado reconoce que el logro educativo resulta de la interacción compleja entre f..."
+          },
+          {
+            "posicion": 246,
+            "texto": "Esta perspectiva sistémica fundamenta la construcción de indicadores que capturan tanto los resultad..."
+          },
+          {
+            "posicion": 248,
+            "texto": "Arquitectura del Sistema de Variables"
+          },
+          {
+            "posicion": 249,
+            "texto": "Variables de Resultado Educativo (Y)"
+          },
+          {
+            "posicion": 250,
+            "texto": "El sistema establece tres indicadores principales para medir el desempeño académico institucional, c..."
+          },
+          {
+            "posicion": 251,
+            "texto": "Tabla 1.1: Variables de Resultado Educativo - Definiciones y Fórmulas"
+          },
+          {
+            "posicion": 253,
+            "texto": "Variables de Capacidades Institucionales (X - Grupo Docente)"
+          },
+          {
+            "posicion": 254,
+            "texto": "Tabla 1.2: Indicadores de Capacidades Docentes"
+          },
+          {
+            "posicion": 256,
+            "texto": "Variables Contextuales Determinantes (X - Grupo Contexto)"
+          },
+          {
+            "posicion": 257,
+            "texto": "Tabla 1.3: Indicadores Contextuales Clave"
+          },
+          {
+            "posicion": 259,
+            "texto": "Variables Organizacionales e Institucionales (X - Grupo Gestión)"
+          },
+          {
+            "posicion": 260,
+            "texto": "Tabla 1.4: Indicadores Organizacionales e Institucionales"
+          },
+          {
+            "posicion": 262,
+            "texto": "Variables Contextuales Institucionales Adicionales (X - Grupo Clasificación)"
+          },
+          {
+            "posicion": 263,
+            "texto": "Tabla 1.5: Variables de Clasificación y Estructura Institucional"
+          },
+          {
+            "posicion": 265,
+            "texto": "Variables de Estructura Administrativa y Territorial (X - Grupo Administrativo)"
+          },
+          {
+            "posicion": 267,
+            "texto": "Variables Geográficas (Grupo Territorial)"
+          },
+          {
+            "posicion": 268,
+            "texto": "Tabla 1.7: Indicadores Geográficos y de Localización"
+          },
+          {
+            "posicion": 270,
+            "texto": "Construcción de Indicadores"
+          },
+          {
+            "posicion": 271,
+            "texto": "Proceso de Estandarización Z-Score"
+          },
+          {
+            "posicion": 272,
+            "texto": "Para garantizar la comparabilidad entre variables con diferentes escalas de medición, se aplicó esta..."
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Estadísticas Descriptivas del Sistema de Variables",
+        "nivel": 3,
+        "posicion_inicio": 275,
+        "contenido": [
+          {
+            "posicion": 276,
+            "texto": "Tabla de estadísticas descriptivas"
+          },
+          {
+            "posicion": 278,
+            "texto": "La tabla presenta estadísticas descriptivas completas para 21 variables numéricas derivadas de datos..."
+          },
+          {
+            "posicion": 279,
+            "texto": "Las variables fueron calculadas bajo procesos supervisados con imputaciones para datos faltantes (po..."
+          },
+          {
+            "posicion": 281,
+            "texto": "Distribución Y1_ILA"
+          },
+          {
+            "posicion": 282,
+            "texto": "La distribución del Índice de Logro Académico muestra una concentración de instituciones en el rango..."
+          },
+          {
+            "posicion": 285,
+            "texto": "Esta distribución ligeramente asimétrica hacia la derecha indica que pocas instituciones alcanzan ni..."
+          },
+          {
+            "posicion": 287,
+            "texto": "Distribución Bivariada Vulnerabilidad vs. Logro Académico"
+          },
+          {
+            "posicion": 288,
+            "texto": "El análisis bivariado entre vulnerabilidad contextual y logro académico revela una relación débil pe..."
+          },
+          {
+            "posicion": 290,
+            "texto": "La dispersión de los puntos alrededor de la línea de tendencia indica que, aunque existe una asociac..."
+          },
+          {
+            "posicion": 291,
+            "texto": "Distribución por Tipo de Ruralidad"
+          },
+          {
+            "posicion": 292,
+            "texto": "La comparación entre instituciones urbanas y rurales muestra diferencias moderadas en el logro acadé..."
+          },
+          {
+            "posicion": 294,
+            "texto": "Las instituciones rurales exhiben mayor dispersión en el desempeño, evidenciando heterogeneidad en s..."
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Análisis correlacional",
+        "nivel": 3,
+        "posicion_inicio": 296,
+        "contenido": [
+          {
+            "posicion": 297,
+            "texto": "Validación de Coherencia Interna"
+          },
+          {
+            "posicion": 298,
+            "texto": "Los resultados revelan la presencia de correlaciones altas problemáticas que requieren atención meto..."
+          },
+          {
+            "posicion": 299,
+            "texto": "Las variables geográficas presentan multicolinealidad severa, particularmente entre ALTITUD_MSNM y L..."
+          },
+          {
+            "posicion": 300,
+            "texto": "Matriz de correlaciones"
+          },
+          {
+            "posicion": 302,
+            "texto": "Nota: Los valores se han completado con los resultados del análisis correlacional ejecutado en Pytho..."
+          },
+          {
+            "posicion": 303,
+            "texto": "El análisis de 153 correlaciones evaluadas muestra una correlación promedio de 0.194 en valor absolu..."
+          },
+          {
+            "posicion": 304,
+            "texto": "Sin embargo, la detección de estas correlaciones altas confirma la necesidad de aplicar criterios de..."
+          },
+          {
+            "posicion": 305,
+            "texto": "La estrategia de selección previa que priorizó ALTITUD_MSNM sobre LATITUD se valida con estos result..."
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Selección de variables para identificación de tipologías",
+        "nivel": 3,
+        "posicion_inicio": 307,
+        "contenido": [
+          {
+            "posicion": 308,
+            "texto": "La selección de variables constituye una etapa crítica en el análisis de clustering K-means, determi..."
+          },
+          {
+            "posicion": 309,
+            "texto": "La metodología de selección integró análisis cuantitativos de poder explicativo, evaluación de multi..."
+          },
+          {
+            "posicion": 310,
+            "texto": "Tabla 8: Configuración Final de Variables para Identificación de Tipologías"
+          },
+          {
+            "posicion": 312,
+            "texto": "La tabla presenta la configuración final optimizada de diez variables seleccionadas para el análisis..."
+          },
+          {
+            "posicion": 313,
+            "texto": "La configuración dimensional balanceada asegura representación apropiada de todos los aspectos críti..."
+          },
+          {
+            "posicion": 314,
+            "texto": "Por ejemplo, el análisis cuantitativo comparativo reveló superioridad estadística decisiva de ALTITU..."
+          },
+          {
+            "posicion": 317,
+            "texto": "Tabla Matriz de correlaciones entre variables seleccionadas"
+          },
+          {
+            "posicion": 319,
+            "texto": "Nota: Correlaciones moderadas (>0.4) resaltadas en negrita"
+          },
+          {
+            "posicion": 320,
+            "texto": "La matriz de correlación final confirma la eliminación exitosa de multicolinealidad problemática en ..."
+          },
+          {
+            "posicion": 322,
+            "texto": "El análisis revela patrones de asociación educativamente coherentes, como la relación moderada entre..."
+          },
+          {
+            "posicion": 324,
+            "texto": "Los datos, almacenados en la tabla indices_metodologicos de la base de datos SQL, facilitan el clust..."
+          },
+          {
+            "posicion": 325,
+            "texto": "El sistema de selección de variables implementado representa una contribución metodológica significa..."
+          },
+          {
+            "posicion": 327,
+            "texto": "Modelado de Riesgo y Resiliencia Institucional"
+          },
+          {
+            "posicion": 328,
+            "texto": "La resiliencia institucional se define como la capacidad de una institución educativa para alcanzar ..."
+          },
+          {
+            "posicion": 329,
+            "texto": "Modelo de Análisis"
+          },
+          {
+            "posicion": 330,
+            "texto": "El análisis se fundamenta en un modelo de regresión múltiple que identifica las variables con mayor ..."
+          },
+          {
+            "posicion": 332,
+            "texto": "Donde:"
+          },
+          {
+            "posicion": 333,
+            "texto": "Variable dependiente:"
+          },
+          {
+            "posicion": 334,
+            "texto": "Y1_ILA: Índice de Logro Académico (escala 1-4, basado en 15,054 estudiantes)"
+          },
+          {
+            "posicion": 335,
+            "texto": "Variables predictoras:"
+          },
+          {
+            "posicion": 336,
+            "texto": "X4_IDD: Índice de Desempeño Docente (escala 1-4, metodología PADD + Digital)"
+          },
+          {
+            "posicion": 337,
+            "texto": "X17_GESTION: Factor de Gestión Institucional"
+          },
+          {
+            "posicion": 338,
+            "texto": "X5_ED: Factor de Entorno Digital o similar"
+          },
+          {
+            "posicion": 339,
+            "texto": "ALTITUD_MSNM: Altitud sobre el nivel del mar (factor geográfico)"
+          },
+          {
+            "posicion": 340,
+            "texto": "Sistema de Clasificación"
+          },
+          {
+            "posicion": 341,
+            "texto": "Las instituciones se clasifican en tres categorías según su Perfil de Resiliencia (PR), PR es un ind..."
+          },
+          {
+            "posicion": 345,
+            "texto": "Instituciones Resilientes (PR > 1): Desempeño significativamente superior al esperado"
+          },
+          {
+            "posicion": 346,
+            "texto": "Instituciones con Desempeño Esperado (-1 ≤ PR ≤ 1): Resultados consistentes con las predicciones del..."
+          },
+          {
+            "posicion": 347,
+            "texto": "Instituciones Vulnerables (PR < -1): Desempeño inferior al esperado dado el contexto"
+          },
+          {
+            "posicion": 348,
+            "texto": "El estadístico modelo ha sido \"optimizado\" ya que se seleccionaron cuidadosamente las variables expl..."
+          },
+          {
+            "posicion": 349,
+            "texto": "4.3.2.1. Resultados del modelo de regresión múltiple"
+          },
+          {
+            "posicion": 350,
+            "texto": "Tamaño de la Muestra: 163 instituciones educativas (datos completos)"
+          },
+          {
+            "posicion": 351,
+            "texto": "Bondad de ajuste del modelo"
+          },
+          {
+            "posicion": 352,
+            "texto": "El modelo presenta un buen ajuste estadístico y una sólida capacidad explicativa."
+          },
+          {
+            "posicion": 353,
+            "texto": "R² = 0.250: El modelo explica el 25.0% de la varianza en el logro académico."
+          },
+          {
+            "posicion": 354,
+            "texto": "Significancia global: Todas las variables predictoras en el modelo son estadísticamente significativ..."
+          },
+          {
+            "posicion": 355,
+            "texto": "Tabla: Coeficientes de Regresión e Interpretación"
+          },
+          {
+            "posicion": 357,
+            "texto": "Gráfico de coeficientes del modelo"
+          },
+          {
+            "posicion": 359,
+            "texto": "El Gráfico ilustra la estructura jerárquica de los coeficientes del modelo, revelando patrones predi..."
+          },
+          {
+            "posicion": 360,
+            "texto": "Hallazgos Principales del Modelo"
+          },
+          {
+            "posicion": 361,
+            "texto": "El Factor Gestión (X17_GESTION) es Clave: La calidad de la gestión institucional emerge como el pred..."
+          },
+          {
+            "posicion": 363,
+            "texto": "La Paradoja del Desempeño Docente (X4_IDD): Contrario a la intuición, un puntaje más alto en la métr..."
+          },
+          {
+            "posicion": 365,
+            "texto": "La Altitud Persiste como Barrera: La altitud sigue siendo un factor adverso significativo. Las insti..."
+          },
+          {
+            "posicion": 367,
+            "texto": "El gráfico de dispersión revela una relación inverse sistemática entre la altitud geográfica y el lo..."
+          },
+          {
+            "posicion": 369,
+            "texto": "Esta brecha altitudinal documenta visualmente que las condiciones geográficas adversas de la altura ..."
+          },
+          {
+            "posicion": 371,
+            "texto": "Los pocos puntos verdes (resilientes) ubicados en altitudes superiores a 1,000 metros representan ca..."
+          },
+          {
+            "posicion": 373,
+            "texto": "4.3.2.2. Distribución por Perfil de Resiliencia"
+          },
+          {
+            "posicion": 374,
+            "texto": "El siguiente Gráfico presenta la distribución categórica de las 163 instituciones analizadas:"
+          },
+          {
+            "posicion": 377,
+            "texto": "Tabla 1: Instituciones Resilientes (PR > 1)"
+          },
+          {
+            "posicion": 378,
+            "texto": "A continuación, se muestran las IIEE con desempeño significativamente superior al esperado, ordenado..."
+          },
+          {
+            "posicion": 380,
+            "texto": "Las 18 instituciones resilientes (11.0% del sistema) demuestran capacidad excepcional para superar e..."
+          },
+          {
+            "posicion": 381,
+            "texto": "Tabla 2: Instituciones Vulnerables (PR < -1)"
+          },
+          {
+            "posicion": 382,
+            "texto": "A continuación, se muestran las IIEE con Desempeño Inferior al esperado dado el contexto, ordenado d..."
+          },
+          {
+            "posicion": 384,
+            "texto": "Las 22 instituciones vulnerables (13.5% del sistema) presentan desempeño sistemáticamente inferior a..."
+          },
+          {
+            "posicion": 386,
+            "texto": "Tabla 3: Instituciones con Desempeño Esperado (PR -1 ≤ PR ≤ 1)."
+          },
+          {
+            "posicion": 387,
+            "texto": "A continuación, se muestran las IIEE con Desempeño Esperado, según los resultaos del modelo estadíst..."
+          },
+          {
+            "posicion": 389,
+            "texto": "Las 123 instituciones de desempeño esperado (75.5% del sistema) constituyen el núcleo estable con PR..."
+          },
+          {
+            "posicion": 390,
+            "texto": "Hallazgos de la Distribución:"
+          },
+          {
+            "posicion": 391,
+            "texto": "La mayoría de las instituciones (75.5%) se comporta según lo predicho por el modelo."
+          },
+          {
+            "posicion": 392,
+            "texto": "El número de instituciones vulnerables (22) es ligeramente superior al de resilientes (18), indicand..."
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Caracterización de Instituciones Resilientes y Vulnerables",
+        "nivel": 3,
+        "posicion_inicio": 394,
+        "contenido": [
+          {
+            "posicion": 395,
+            "texto": "El análisis comparativo revela los factores que más diferencian a los dos grupos extremos. El Gráfic..."
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Factores de riesgo y resiliencia identificados",
+        "nivel": 3,
+        "posicion_inicio": 397,
+        "contenido": [
+          {
+            "posicion": 399,
+            "texto": "Factores Protectores (Resiliencia):"
+          },
+          {
+            "posicion": 400,
+            "texto": "Ubicación Geográfica Favorable: Estar a una menor altitud es el diferenciador más claro"
+          },
+          {
+            "posicion": 401,
+            "texto": "Capacidad de Sobresalir: A pesar de tener puntajes similares o incluso inferiores en las variables p..."
+          },
+          {
+            "posicion": 402,
+            "texto": "Factores de Riesgo (Vulnerabilidad):"
+          },
+          {
+            "posicion": 403,
+            "texto": "Desventaja Geográfica: La mayor altitud es un factor de riesgo consistente."
+          },
+          {
+            "posicion": 404,
+            "texto": "Ineficiencia Sistémica: A pesar de tener un desempeño docente (medido por X4_IDD) y de gestión (X17_..."
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Validación del modelo estadístico",
+        "nivel": 3,
+        "posicion_inicio": 406,
+        "contenido": [
+          {
+            "posicion": 407,
+            "texto": "Multicolinealidad: Sin problemas. Todos los Factores de Inflación de Varianza (VIF) son muy bajos (p..."
+          },
+          {
+            "posicion": 408,
+            "texto": "Homocedasticidad: CUMPLIDA (p = 0.2686). La varianza de los errores es constante, cumpliendo un supu..."
+          },
+          {
+            "posicion": 409,
+            "texto": "Normalidad de Residuos: NO CUMPLIDA (p = 0). Los residuos no siguen una distribución normal. Esto es..."
+          },
+          {
+            "posicion": 411,
+            "texto": "Identificación de Tipologías Institucionales"
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Selección de variables para el análisis",
+        "nivel": 3,
+        "posicion_inicio": 412,
+        "contenido": [
+          {
+            "posicion": 413,
+            "texto": "El análisis de clustering K-MEANS se fundamentó en diez variables cuidadosamente seleccionadas que r..."
+          },
+          {
+            "posicion": 414,
+            "texto": "Las variables seleccionadas abarcan cinco dimensiones fundamentales de la gestión educativa. En la d..."
+          },
+          {
+            "posicion": 415,
+            "texto": "La eliminación de variables redundantes fue un proceso crítico para evitar el problema estadístico c..."
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Determinación del Número Óptimo de Tipologias",
+        "nivel": 3,
+        "posicion_inicio": 416,
+        "contenido": [
+          {
+            "posicion": 417,
+            "texto": "Metodología de Evaluación"
+          },
+          {
+            "posicion": 418,
+            "texto": "Para determinar el número óptimo de grupos institucionales (tipologías o clusters), se evaluaron múl..."
+          },
+          {
+            "posicion": 419,
+            "texto": "Grafico del método del Codo o Silueta"
+          },
+          {
+            "posicion": 420,
+            "texto": "El método del codo o gráfico del codo (en inglés, elbow method) es una técnica visual utilizada para..."
+          },
+          {
+            "posicion": 422,
+            "texto": "El Gráfico del Método del Codo ilustra claramente cómo el WCSS disminuye progresivamente al aumentar..."
+          },
+          {
+            "posicion": 424,
+            "texto": "Según los datos evaluados podemos notar una mejora significativa cuando K = 2, luego a partir de 4 e..."
+          },
+          {
+            "posicion": 426,
+            "texto": "Análisis especifico por cada K Clústeres"
+          },
+          {
+            "posicion": 428,
+            "texto": "Solución K=2: División Fundamental"
+          },
+          {
+            "posicion": 429,
+            "texto": "La Gráfica de Distribución K=2 revela una separación básica en dos grupos de 106 (con ruralidad 1 a ..."
+          },
+          {
+            "posicion": 430,
+            "texto": "Solución K=3: Emergencia del Grupo Élite"
+          },
+          {
+            "posicion": 431,
+            "texto": "La Visualización de Clusters K=3 marca un momento crucial en el análisis al revelar la aparición de ..."
+          },
+          {
+            "posicion": 432,
+            "texto": "Solución K=4: Equilibrio Óptimo"
+          },
+          {
+            "posicion": 433,
+            "texto": "La Gráfica de Clusters K=4 presenta la distribución espacial más natural observada en todo el anális..."
+          },
+          {
+            "posicion": 434,
+            "texto": "El Gráfico de Silhouette para K=4 alcanza el valor de 0.202, representando el mejor equilibrio entre..."
+          },
+          {
+            "posicion": 435,
+            "texto": "Solución K=5: Fragmentación Sin Beneficio"
+          },
+          {
+            "posicion": 436,
+            "texto": "La Visualización K=5 muestra una división que fragmenta los grupos naturales identificados en K=4 si..."
+          },
+          {
+            "posicion": 437,
+            "texto": "Solución K=9: Sobre-fragmentación Estadística"
+          },
+          {
+            "posicion": 438,
+            "texto": "El Gráfico de Clusters K=9 presenta una aparente paradoja estadística: el coeficiente de Silhouette ..."
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Justificación de la selección k=4 tipologias",
+        "nivel": 3,
+        "posicion_inicio": 439,
+        "contenido": [
+          {
+            "posicion": 440,
+            "texto": "Criterio de Distribución Espacial"
+          },
+          {
+            "posicion": 441,
+            "texto": "La selección de K=4 como solución óptima se fundamenta en múltiples criterios convergentes. El análi..."
+          },
+          {
+            "posicion": 442,
+            "texto": "Balance Estadístico y Pedagógico"
+          },
+          {
+            "posicion": 443,
+            "texto": "El Gráfico Comparativo de Métricas confirma que K=4 representa el punto de equilibrio óptimo entre r..."
+          },
+          {
+            "posicion": 444,
+            "texto": "Tipologías Resultantes"
+          },
+          {
+            "posicion": 445,
+            "texto": "La solución K=4 produce cuatro arquetipos institucionales con identidades pedagógicas claramente def..."
+          },
+          {
+            "posicion": 446,
+            "texto": "La Distribución Final de Tipologías muestra que K=4 genera grupos de tamaño adecuado para el diseño ..."
+          },
+          {
+            "posicion": 447,
+            "texto": "El análisis comparativo de múltiples soluciones K-MEANS confirma que K=4 constituye la segmentación ..."
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Resultados del Análisis de Conglomerados",
+        "nivel": 3,
+        "posicion_inicio": 448,
+        "contenido": [
+          {
+            "posicion": 449,
+            "texto": "Descripción del algoritmo K-Means aplicado"
+          },
+          {
+            "posicion": 450,
+            "texto": "El análisis de tipologías institucionales se implementó mediante el algoritmo K-Means con especifica..."
+          },
+          {
+            "posicion": 451,
+            "texto": "Tabla 1.1: Especificaciones Técnicas del Algoritmo K-Means"
+          },
+          {
+            "posicion": 453,
+            "texto": "La implementación incluyó 25 inicializaciones aleatorias diferentes para cada ejecución, garantizand..."
+          },
+          {
+            "posicion": 454,
+            "texto": "Distribución de Instituciones por Tipología Identificada"
+          },
+          {
+            "posicion": 455,
+            "texto": "El algoritmo K-Means identificó cuatro tipologías institucionales claramente diferenciadas, con una ..."
+          },
+          {
+            "posicion": 457,
+            "texto": "Figura: Gráfico de barras con la distribución por tipología"
+          },
+          {
+            "posicion": 459,
+            "texto": "La distribución revela una estructura organizacional natural donde las Instituciones Tradicionales E..."
+          },
+          {
+            "posicion": 460,
+            "texto": "Las Instituciones Emergentes Complejas (17.8%) evidencian la capacidad de adaptación y crecimiento d..."
+          },
+          {
+            "posicion": 461,
+            "texto": "Figura: Gráfico de Configuración Espacial por Tipología"
+          },
+          {
+            "posicion": 463,
+            "texto": "La configuración espacial de tipologías institucionales presenta una representación visual simplific..."
+          },
+          {
+            "posicion": 464,
+            "texto": "El gráfico utiliza una técnica estadística denominada Análisis de Componentes Principales que funcio..."
+          },
+          {
+            "posicion": 465,
+            "texto": "La Dimensión 1, representada en el eje horizontal, identifica la principal línea divisoria entre las..."
+          },
+          {
+            "posicion": 466,
+            "texto": "Los porcentajes mostrados en cada eje indican qué proporción de las diferencias totales entre instit..."
+          },
+          {
+            "posicion": 467,
+            "texto": "Las instituciones ubicadas cerca unas de otras en este mapa bidimensional comparten perfiles institu..."
+          },
+          {
+            "posicion": 468,
+            "texto": "La formación de cuatro grupos claramente separados en diferentes regiones del gráfico confirma que l..."
+          },
+          {
+            "posicion": 469,
+            "texto": "Es fundamental reconocer que esta visualización bidimensional constituye una simplificación necesari..."
+          },
+          {
+            "posicion": 470,
+            "texto": "La configuración espacial proporciona una herramienta de validación visual que demuestra la coherenc..."
+          },
+          {
+            "posicion": 471,
+            "texto": "Esta representación facilita la comunicación de resultados complejos a diversos stakeholders, permit..."
+          },
+          {
+            "posicion": 473,
+            "texto": "Validación de la estabilidad de la solución de tipología"
+          },
+          {
+            "posicion": 474,
+            "texto": "La robustez metodológica del análisis se confirmó mediante múltiples pruebas de validación que evalu..."
+          },
+          {
+            "posicion": 476,
+            "texto": "Análisis de Estabilidad Temporal"
+          },
+          {
+            "posicion": 477,
+            "texto": "Las pruebas de estabilidad con diferentes semillas aleatorias demostraron la robustez excepcional de..."
+          },
+          {
+            "posicion": 479,
+            "texto": "El Adjusted Rand Index de 1.000 en todas las ejecuciones indica que la solución de cuatro tipologías..."
+          },
+          {
+            "posicion": 481,
+            "texto": "Validación Cruzada Complementaria"
+          },
+          {
+            "posicion": 482,
+            "texto": "La validación cruzada manual confirmó la estabilidad de los resultados mediante cinco repeticiones a..."
+          },
+          {
+            "posicion": 484,
+            "texto": "La convergencia idéntica en todas las métricas de validación confirma que la solución K=4 representa..."
+          },
+          {
+            "posicion": 485,
+            "texto": "En síntesis, el análisis de conglomerados produjo una segmentación institucional robusta y metodológ..."
+          },
+          {
+            "posicion": 486,
+            "texto": "La distribución equilibrada de instituciones entre tipologías (sin grupos excesivamente pequeños exc..."
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Caracterización Estadística de Clústeres",
+        "nivel": 3,
+        "posicion_inicio": 488,
+        "contenido": [
+          {
+            "posicion": 489,
+            "texto": "Estadísticas Descriptivas de Cada Variable por Clúster"
+          },
+          {
+            "posicion": 490,
+            "texto": "La caracterización estadística revela perfiles institucionales claramente diferenciados en las diez ..."
+          },
+          {
+            "posicion": 491,
+            "texto": "Nota: Valores expresados en puntuaciones Z estandarizadas donde 0 representa el promedio de la red F..."
+          },
+          {
+            "posicion": 494,
+            "texto": "La Figura proporciona una visualización integral que permite identificar inmediatamente los patrones..."
+          },
+          {
+            "posicion": 495,
+            "texto": "Las Instituciones Élite exhiben el rendimiento académico más elevado (Y1_ILA = 0.50) pero operan con..."
+          },
+          {
+            "posicion": 496,
+            "texto": "Las Instituciones Emergentes Complejas muestran la ratio estudiante-docente más elevada del sistema ..."
+          },
+          {
+            "posicion": 498,
+            "texto": "Análisis de varianza (ANOVA) entre grupos"
+          },
+          {
+            "posicion": 499,
+            "texto": "El análisis de varianza confirma que todas las variables utilizadas presentan diferencias estadístic..."
+          },
+          {
+            "posicion": 500,
+            "texto": "Tabla 4.2: Análisis de Varianza entre Tipologías"
+          },
+          {
+            "posicion": 501,
+            "texto": "Los resultados del ANOVA demuestran una diferenciación estadística excepcional entre las tipologías ..."
+          },
+          {
+            "posicion": 502,
+            "texto": "La variable Tipo de Ruralidad (X2_TR) presenta discriminación perfecta (η² = 1.000), indicando que e..."
+          },
+          {
+            "posicion": 504,
+            "texto": "Identificación de Variables Discriminantes Más Significativas"
+          },
+          {
+            "posicion": 505,
+            "texto": "El análisis identificó un conjunto de variables con poder discriminante excepcional que definen las ..."
+          },
+          {
+            "posicion": 506,
+            "texto": "Tabla: Variables Discriminantes Principales"
+          },
+          {
+            "posicion": 508,
+            "texto": "Figura - Boxplots de Variables Discriminantes"
+          },
+          {
+            "posicion": 510,
+            "texto": "Descripción: Panel de cuatro gráficos de caja que muestran las distribuciones de Altitud, Ratio Estu..."
+          },
+          {
+            "posicion": 511,
+            "texto": "Las pruebas post-hoc Tukey identificaron las diferencias específicas más significativas entre pares ..."
+          },
+          {
+            "posicion": 512,
+            "texto": "Factor Geográfico (ALTITUD_MSNM): La visualización en la Figura 4.2 confirma que las instituciones R..."
+          },
+          {
+            "posicion": 513,
+            "texto": "Desempeño Docente (X4_IDD): Las instituciones Rurales Resilientes superan significativamente a las É..."
+          },
+          {
+            "posicion": 514,
+            "texto": "Ratio Estudiante-Docente (X11_RED): Las instituciones Emergentes Complejas presentan las ratios más ..."
+          },
+          {
+            "posicion": 515,
+            "texto": "Síntesis de la Caracterización Estadística"
+          },
+          {
+            "posicion": 516,
+            "texto": "La caracterización estadística confirma la robustez metodológica de la segmentación institucional id..."
+          },
+          {
+            "posicion": 517,
+            "texto": "El análisis revela que las diferencias entre tipologías no son marginales sino sustanciales, con sei..."
+          },
+          {
+            "posicion": 518,
+            "texto": "La convergencia de múltiples indicadores estadísticos, incluyendo ANOVA, análisis post-hoc y medidas..."
+          },
+          {
+            "posicion": 520,
+            "texto": "Perfiles de Tipologías Institucionales"
+          },
+          {
+            "posicion": 521,
+            "texto": "El análisis de clustering K-means identificó cuatro tipologías institucionales claramente diferencia..."
+          },
+          {
+            "posicion": 522,
+            "texto": "Marco metodológico implementado"
+          },
+          {
+            "posicion": 523,
+            "texto": "El análisis tipológico de instituciones educativas Fe y Alegría se fundamenta en un sistema multidim..."
+          },
+          {
+            "posicion": 524,
+            "texto": "La selección de variables responde a criterios de representatividad institucional que abarcan desde ..."
+          },
+          {
+            "posicion": 525,
+            "texto": "Variables de Caracterización Institucional"
+          },
+          {
+            "posicion": 526,
+            "texto": "El sistema de análisis incorpora diez dimensiones fundamentales que distinguen los perfiles instituc..."
+          },
+          {
+            "posicion": 527,
+            "texto": "Índice de Logro Académico: Nivel promedio de logro estudiantil por institución, calculado como prome..."
+          },
+          {
+            "posicion": 528,
+            "texto": "Tendencia de Desempeño: Cambio anual en puntos de logro académico entre 2022 y 2024, indicando traye..."
+          },
+          {
+            "posicion": 529,
+            "texto": "Nivel de Vulnerabilidad Contextual: Grado de vulnerabilidad socioeconómica del territorio donde oper..."
+          },
+          {
+            "posicion": 530,
+            "texto": "Tipo de Ruralidad: Clasificación territorial que diferencia un contexto urbano y 3 contextos rurales..."
+          },
+          {
+            "posicion": 531,
+            "texto": "Índice de Desempeño Docente: Nivel de competencia pedagógica del equipo docente institucional, prome..."
+          },
+          {
+            "posicion": 532,
+            "texto": "Ratio Estudiante-Docente: Carga operativa docente medida por número de estudiantes atendidos por doc..."
+          },
+          {
+            "posicion": 533,
+            "texto": "Tipo de Organización Escolar: Modelo organizativo institucional según distribución de docentes y gra..."
+          },
+          {
+            "posicion": 534,
+            "texto": "Tendencia de Matrícula: Dinámica poblacional estudiantil medida mediante pendiente robusta de matríc..."
+          },
+          {
+            "posicion": 535,
+            "texto": "Nivel Educativo: Estructura institucional diferenciada según niveles atendidos, desde inicial hasta ..."
+          },
+          {
+            "posicion": 536,
+            "texto": "Altitud Geográfica: Elevación territorial sobre nivel del mar en metros, funcionando como factor amb..."
+          },
+          {
+            "posicion": 537,
+            "texto": "Para facilitar la interpretación de los resultados cuantitativos, se aplicó conversión cualitativa b..."
+          },
+          {
+            "posicion": 538,
+            "texto": "Tabla: Tipología de Instituciones Educativas Según Características"
+          },
+          {
+            "posicion": 539,
+            "texto": "Fuente: Estudio exploratorio de tipologías Fe y Alegria, Elaboración propia."
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Tipología 1: Instituciones Tradicionales Estables",
+        "nivel": 3,
+        "posicion_inicio": 541,
+        "contenido": [
+          {
+            "posicion": 542,
+            "texto": "Perfil general: Núcleo consolidado de la red Fe y Alegría con estructuras organizativas establecidas..."
+          },
+          {
+            "posicion": 543,
+            "texto": "Composición: 77 instituciones (47.2% de la muestra total), representando el grupo mayoritario y pila..."
+          },
+          {
+            "posicion": 544,
+            "texto": "Tabla 4.3: Indicadores Clave - Instituciones Tradicionales Estables"
+          },
+          {
+            "posicion": 546,
+            "texto": "Características organizacionales: Operan con 100% modalidad escolarizada, 79.2% gestión pública dire..."
+          },
+          {
+            "posicion": 547,
+            "texto": "Distribución geográfica: Concentración en Contextos urbanos con población distrital promedio de 112,..."
+          },
+          {
+            "posicion": 548,
+            "texto": "Fortalezas identificadas: Progreso relativo más elevado del sistema (2.47) y estabilidad docente sup..."
+          },
+          {
+            "posicion": 549,
+            "texto": "Desafíos principales: Tendencia de desempeño decreciente (1.78 de 4) y desempeño docente por debajo ..."
+          },
+          {
+            "posicion": 551,
+            "texto": "Tabla - Instituciones Tradicionales Estables"
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Tipología 2: Instituciones Élite Institucional",
+        "nivel": 3,
+        "posicion_inicio": 554,
+        "contenido": [
+          {
+            "posicion": 555,
+            "texto": "Perfil general: Centros de excelencia educativa con el más alto rendimiento académico pero enfrentan..."
+          },
+          {
+            "posicion": 556,
+            "texto": "Composición: 7 instituciones (4.3% de la muestra), grupo selecto de referentes institucionales."
+          },
+          {
+            "posicion": 557,
+            "texto": "Tabla - Indicadores Clave - Instituciones Élite Institucional"
+          },
+          {
+            "posicion": 559,
+            "texto": "Características organizacionales: 100% modalidad escolarizada con gestión equilibrada (57.1% pública..."
+          },
+          {
+            "posicion": 560,
+            "texto": "Distribución geográfica: Contextos urbanos con 106,336 habitantes promedio. Diversidad intercultural..."
+          },
+          {
+            "posicion": 561,
+            "texto": "Fortalezas identificadas: Logro académico más alto del sistema y contexto socioeconómico favorable. ..."
+          },
+          {
+            "posicion": 562,
+            "texto": "Desafíos principales: Desempeño docente más bajo (1.77), estabilidad docente crítica (0.52) y ratio ..."
+          },
+          {
+            "posicion": 563,
+            "texto": "Tabla - Instituciones Élite Institucional"
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Tipología 3: Instituciones Rurales Resilientes",
+        "nivel": 3,
+        "posicion_inicio": 565,
+        "contenido": [
+          {
+            "posicion": 566,
+            "texto": "Perfil general: Instituciones especializadas en contextos rurales que han desarrollado capacidades e..."
+          },
+          {
+            "posicion": 567,
+            "texto": "Composición: 50 instituciones (30.7% de la muestra), segundo grupo más numeroso."
+          },
+          {
+            "posicion": 568,
+            "texto": "Tabla 4.9: Indicadores Clave - Instituciones Rurales Resilientes"
+          },
+          {
+            "posicion": 570,
+            "texto": "Características organizacionales: 96% modalidad escolarizada, 4% no escolarizada para poblaciones di..."
+          },
+          {
+            "posicion": 571,
+            "texto": "Distribución geográfica: Concentración rural con población distrital promedio de 9,985 habitantes, l..."
+          },
+          {
+            "posicion": 572,
+            "texto": "Fortalezas identificadas: Desempeño docente más elevado del sistema (3.47) y tendencia de mejoramien..."
+          },
+          {
+            "posicion": 573,
+            "texto": "Desafíos principales: Vulnerabilidad contextual elevada y logro académico por debajo del promedio, e..."
+          },
+          {
+            "posicion": 574,
+            "texto": "Tabla – Instituciones Rurales Resilientes"
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Tipología 4: Instituciones Emergentes Complejas",
+        "nivel": 3,
+        "posicion_inicio": 576,
+        "contenido": [
+          {
+            "posicion": 577,
+            "texto": "Perfil general: Centros educativos en proceso de consolidación organizativa que presentan caracterís..."
+          },
+          {
+            "posicion": 578,
+            "texto": "Composición: 29 instituciones (17.8% de la muestra), grupo minoritario con dinámicas de crecimiento ..."
+          },
+          {
+            "posicion": 579,
+            "texto": "Tabla – Indicadores Clave – Instituciones Emergentes Complejas"
+          },
+          {
+            "posicion": 581,
+            "texto": "Características organizacionales: 100% modalidad escolarizada con gestión equilibrada (55.2% pública..."
+          },
+          {
+            "posicion": 582,
+            "texto": "Distribución geográfica: Contextos urbanos metropolitanos con población distrital promedio de 115,61..."
+          },
+          {
+            "posicion": 583,
+            "texto": "Fortalezas identificadas: Progreso relativo elevado (2.45), estabilidad docente superior al promedio..."
+          },
+          {
+            "posicion": 584,
+            "texto": "Desafíos principales: Ratio estudiante-docente más elevada del sistema (19.8) y tendencia de desempe..."
+          },
+          {
+            "posicion": 585,
+            "texto": "Tabla – Instituciones emergentes complejas"
+          },
+          {
+            "posicion": 587,
+            "texto": "Síntesis de Perfiles Tipológicos"
+          },
+          {
+            "posicion": 589,
+            "texto": "La diversidad de perfiles confirma que las cuatro tipologías representan arquetipos institucionales ..."
+          },
+          {
+            "posicion": 590,
+            "texto": "Las Instituciones Élite Institucional evidencian un modelo de excelencia académica con vulnerabilida..."
+          },
+          {
+            "posicion": 592,
+            "texto": "Análisis Comparativo entre Tipologías"
+          }
+        ],
+        "elementos_especiales": []
+      },
+      {
+        "titulo": "Patrones Transversales",
+        "nivel": 3,
+        "posicion_inicio": 593,
+        "contenido": [
+          {
+            "posicion": 594,
+            "texto": "Factores comunes que trascienden las tipologías"
+          },
+          {
+            "posicion": 595,
+            "texto": "Gradientes de desempeño entre grupos"
+          },
+          {
+            "posicion": 596,
+            "texto": "Identificación de brechas más significativas"
+          },
+          {
+            "posicion": 598,
+            "texto": "IMPLICACIONES PARA LA GESTIÓN PEDAGÓGICA"
+          },
+          {
+            "posicion": 599,
+            "texto": "Estrategias de Intervención Diferenciadas por Tipología"
+          },
+          {
+            "posicion": 600,
+            "texto": "Propuestas específicas de formación docente por perfil institucional"
+          },
+          {
+            "posicion": 601,
+            "texto": "Criterios de priorización de recursos y acompañamiento"
+          },
+          {
+            "posicion": 602,
+            "texto": "Mecanismos de seguimiento y evaluación diferenciados"
+          },
+          {
+            "posicion": 603,
+            "texto": "Modelo de Gestión Basado en Evidencia"
+          },
+          {
+            "posicion": 604,
+            "texto": "Sistema de monitoreo continuo basado en los KPIs desarrollados"
+          },
+          {
+            "posicion": 605,
+            "texto": "Protocolos de actualización de la caracterización institucional"
+          },
+          {
+            "posicion": 606,
+            "texto": "Herramientas de toma de decisiones para coordinadores de RER"
+          },
+          {
+            "posicion": 607,
+            "texto": "Propuesta de instrumentos de gestión"
+          },
+          {
+            "posicion": 609,
+            "texto": "Limitaciones del Estudio"
+          },
+          {
+            "posicion": 610,
+            "texto": "Restricciones metodológicas"
+          },
+          {
+            "posicion": 611,
+            "texto": "Limitaciones de los datos utilizados"
+          },
+          {
+            "posicion": 612,
+            "texto": "Aspectos no abordados que requieren futura investigación"
+          },
+          {
+            "posicion": 615,
+            "texto": "CONCLUSIONES Y RECOMENDACIONES"
+          },
+          {
+            "posicion": 616,
+            "texto": "Conclusiones"
+          },
+          {
+            "posicion": 617,
+            "texto": "Síntesis de hallazgos más relevantes"
+          },
+          {
+            "posicion": 618,
+            "texto": "Respuesta a los objetivos planteados"
+          },
+          {
+            "posicion": 619,
+            "texto": "Aportes del estudio al conocimiento institucional"
+          },
+          {
+            "posicion": 620,
+            "texto": "Recomendaciones"
+          },
+          {
+            "posicion": 621,
+            "texto": "Para la gestión de la red educativa"
+          },
+          {
+            "posicion": 622,
+            "texto": "Para futuras investigaciones"
+          },
+          {
+            "posicion": 623,
+            "texto": "Para el desarrollo de políticas internas"
+          },
+          {
+            "posicion": 626,
+            "texto": "REFERENCIAS BIBLIOGRÁFICAS Y BASES DE DATOS"
+          },
+          {
+            "posicion": 627,
+            "texto": "Literatura consultada sobre caracterización institucional"
+          },
+          {
+            "posicion": 628,
+            "texto": "Marco conceptual de resiliencia educativa"
+          },
+          {
+            "posicion": 629,
+            "texto": "Metodologías de análisis de clustering en educación"
+          },
+          {
+            "posicion": 631,
+            "texto": "ANEXOS"
+          },
+          {
+            "posicion": 632,
+            "texto": "Anexo A: Base de datos SQL y XLS"
+          },
+          {
+            "posicion": 633,
+            "texto": "Anexo B: Scripts de algoritmos utilizados en R"
+          },
+          {
+            "posicion": 634,
+            "texto": "Anexo C: Cronología del estudio exploratorio"
+          },
+          {
+            "posicion": 635,
+            "texto": "Anexo D: Cálculos matemáticos en Python para la construcción de índices."
+          }
+        ],
+        "elementos_especiales": []
+      }
+    ],
+    "tablas": [
+      {
+        "posicion_tabla": 0,
+        "filas": 6,
+        "columnas": 3,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Nivel Educativo",
+            "Cantidad IIEE",
+            "Porcentaje"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 1,
+        "filas": 8,
+        "columnas": 6,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Código RER",
+            "Región",
+            "Lugar",
+            "Ámbito",
+            "Cantidad IIEE",
+            "Porcentaje"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 2,
+        "filas": 4,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Variable",
+            "Denominación",
+            "Fórmula Matemática",
+            "Escala",
+            "Interpretación"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 3,
+        "filas": 4,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Variable",
+            "Denominación",
+            "Fórmula Matemática",
+            "Escala",
+            "Interpretación"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 4,
+        "filas": 4,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Variable",
+            "Denominación",
+            "Fórmula Matemática",
+            "Escala",
+            "Fuente"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 5,
+        "filas": 5,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Variable",
+            "Denominación",
+            "Fórmula Matemática",
+            "Escala",
+            "Interpretación"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 6,
+        "filas": 6,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Variable",
+            "Denominación",
+            "Fórmula Matemática",
+            "Escala",
+            "Interpretación"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 7,
+        "filas": 6,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Variable",
+            "Denominación",
+            "Fórmula Matemática",
+            "Escala",
+            "Interpretación"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 8,
+        "filas": 4,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Variable",
+            "Denominación",
+            "Fórmula Matemática",
+            "Escala",
+            "Interpretación"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 9,
+        "filas": 11,
+        "columnas": 4,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Variable",
+            "Dimensión",
+            "Justificación de Selección",
+            "Metodología Robusta"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 10,
+        "filas": 5,
+        "columnas": 4,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Variable",
+            "Coeficiente (β)",
+            "p-valor",
+            "Interpretación del Efecto sobre el Logro Académico..."
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 11,
+        "filas": 19,
+        "columnas": 4,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "N°",
+            "Código Modular",
+            "Nombre de la Institución",
+            "Perfil de resiliencia (PR Calculado)"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 12,
+        "filas": 23,
+        "columnas": 4,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "N°",
+            "Código Modular",
+            "Nombre de la Institución",
+            "Perfil de resiliencia (PR Calculado)"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 13,
+        "filas": 124,
+        "columnas": 4,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "N°",
+            "Código Modular",
+            "Nombre de la Institución",
+            "Perfil de resiliencia (PR Calculado)"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 14,
+        "filas": 7,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Variable",
+            "Resilientes (N=18)",
+            "Vulnerables (N=22)",
+            "Diferencia (Resil. - Vuln.)",
+            "Interpretación"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 15,
+        "filas": 6,
+        "columnas": 2,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "K Clústeres",
+            "Representación visual"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 16,
+        "filas": 9,
+        "columnas": 3,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Parámetro",
+            "Valor",
+            "Justificación Metodológica"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 17,
+        "filas": 6,
+        "columnas": 6,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "N°",
+            "Tipología",
+            "Instituciones",
+            "Porcentaje",
+            "Densidad",
+            "Caracterización Inicial"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 18,
+        "filas": 5,
+        "columnas": 4,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Métrica",
+            "Valor",
+            "Interpretación",
+            "Benchmark Metodológico"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 19,
+        "filas": 7,
+        "columnas": 3,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Semilla",
+            "Adjusted Rand Index",
+            "Interpretación"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 20,
+        "filas": 6,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Repetición",
+            "Semilla",
+            "Rand Ajustado",
+            "Silhouette",
+            "WCSS"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 21,
+        "filas": 5,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Variable",
+            "Tradicionales Estables",
+            "Élite Institucional",
+            "Rurales Resilientes",
+            "Emergentes Complejas"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 22,
+        "filas": 11,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Variable",
+            "F-value",
+            "p-value",
+            "Eta²",
+            "Interpretación del Efecto"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 23,
+        "filas": 6,
+        "columnas": 4,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Ranking",
+            "Variable",
+            "Eta²",
+            "Capacidad Discriminante"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 24,
+        "filas": 14,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Indicador / Variable",
+            "TIPOLOGÍAS IDENTIFICADAS",
+            "TIPOLOGÍAS IDENTIFICADAS",
+            "TIPOLOGÍAS IDENTIFICADAS",
+            "TIPOLOGÍAS IDENTIFICADAS"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 25,
+        "filas": 8,
+        "columnas": 4,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Indicador",
+            "Valor Promedio",
+            "Rango",
+            "Posición Relativa"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 26,
+        "filas": 78,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "N°",
+            "Código Modular",
+            "Nombre Institución",
+            "Y1_ILA",
+            "Representatividad"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 27,
+        "filas": 7,
+        "columnas": 3,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Indicador",
+            "Valor Promedio",
+            "Posición Relativa"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 28,
+        "filas": 8,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "N°",
+            "Código Modular",
+            "Nombre Institución",
+            "Y1_ILA",
+            "Representatividad"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 29,
+        "filas": 7,
+        "columnas": 3,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Indicador",
+            "Valor Promedio",
+            "Posición Relativa"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 30,
+        "filas": 51,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "N°",
+            "Código Modular",
+            "Nombre Institución",
+            "Y1_ILA",
+            "Representatividad"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 31,
+        "filas": 7,
+        "columnas": 3,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Indicador",
+            "Valor Promedio",
+            "Posición Relativa"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 32,
+        "filas": 30,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "N°",
+            "Código Modular",
+            "Nombre Institución",
+            "Y1_ILA",
+            "Representatividad"
+          ]
+        ]
+      },
+      {
+        "posicion_tabla": 33,
+        "filas": 9,
+        "columnas": 5,
+        "tiene_titulo": false,
+        "contenido_muestra": [
+          [
+            "Dimensión",
+            "Tradicionales Estables",
+            "Élite Institucional",
+            "Rurales Resilientes",
+            "Emergentes Complejas"
+          ]
+        ]
+      }
+    ],
+    "figuras": [
+      {
+        "posicion": 208,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La distribución de instituciones educativas por nivel educativo revela la cobertura de Fe y Alegría ..."
+      },
+      {
+        "posicion": 211,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "Gráfico 01 – Distribución de Instituciones Educativas por Nivel Educativo"
+      },
+      {
+        "posicion": 215,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "Las 163 instituciones educativas se distribuyen a lo largo de seis regiones del país, organizadas en..."
+      },
+      {
+        "posicion": 221,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "Cobertura territorial: Las instituciones abarcan regiones estratégicas que incluyen la Amazonía (Lor..."
+      },
+      {
+        "posicion": 268,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "Tabla 1.7: Indicadores Geográficos y de Localización"
+      },
+      {
+        "posicion": 310,
+        "tipo": "referencia_textual",
+        "tiene_titulo": true,
+        "descripcion": "Tabla 8: Configuración Final de Variables para Identificación de Tipologías"
+      },
+      {
+        "posicion": 312,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La tabla presenta la configuración final optimizada de diez variables seleccionadas para el análisis..."
+      },
+      {
+        "posicion": 313,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La configuración dimensional balanceada asegura representación apropiada de todos los aspectos críti..."
+      },
+      {
+        "posicion": 324,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "Los datos, almacenados en la tabla indices_metodologicos de la base de datos SQL, facilitan el clust..."
+      },
+      {
+        "posicion": 339,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "ALTITUD_MSNM: Altitud sobre el nivel del mar (factor geográfico)"
+      },
+      {
+        "posicion": 357,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "Gráfico de coeficientes del modelo"
+      },
+      {
+        "posicion": 359,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El Gráfico ilustra la estructura jerárquica de los coeficientes del modelo, revelando patrones predi..."
+      },
+      {
+        "posicion": 361,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El Factor Gestión (X17_GESTION) es Clave: La calidad de la gestión institucional emerge como el pred..."
+      },
+      {
+        "posicion": 363,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La Paradoja del Desempeño Docente (X4_IDD): Contrario a la intuición, un puntaje más alto en la métr..."
+      },
+      {
+        "posicion": 367,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El gráfico de dispersión revela una relación inverse sistemática entre la altitud geográfica y el lo..."
+      },
+      {
+        "posicion": 374,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El siguiente Gráfico presenta la distribución categórica de las 163 instituciones analizadas:"
+      },
+      {
+        "posicion": 395,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El análisis comparativo revela los factores que más diferencian a los dos grupos extremos. El Gráfic..."
+      },
+      {
+        "posicion": 414,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "Las variables seleccionadas abarcan cinco dimensiones fundamentales de la gestión educativa. En la d..."
+      },
+      {
+        "posicion": 415,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La eliminación de variables redundantes fue un proceso crítico para evitar el problema estadístico c..."
+      },
+      {
+        "posicion": 420,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El método del codo o gráfico del codo (en inglés, elbow method) es una técnica visual utilizada para..."
+      },
+      {
+        "posicion": 422,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El Gráfico del Método del Codo ilustra claramente cómo el WCSS disminuye progresivamente al aumentar..."
+      },
+      {
+        "posicion": 429,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La Gráfica de Distribución K=2 revela una separación básica en dos grupos de 106 (con ruralidad 1 a ..."
+      },
+      {
+        "posicion": 431,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La Visualización de Clusters K=3 marca un momento crucial en el análisis al revelar la aparición de ..."
+      },
+      {
+        "posicion": 433,
+        "tipo": "referencia_textual",
+        "tiene_titulo": true,
+        "descripcion": "La Gráfica de Clusters K=4 presenta la distribución espacial más natural observada en todo el anális..."
+      },
+      {
+        "posicion": 434,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El Gráfico de Silhouette para K=4 alcanza el valor de 0.202, representando el mejor equilibrio entre..."
+      },
+      {
+        "posicion": 436,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La Visualización K=5 muestra una división que fragmenta los grupos naturales identificados en K=4 si..."
+      },
+      {
+        "posicion": 438,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El Gráfico de Clusters K=9 presenta una aparente paradoja estadística: el coeficiente de Silhouette ..."
+      },
+      {
+        "posicion": 441,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La selección de K=4 como solución óptima se fundamenta en múltiples criterios convergentes. El análi..."
+      },
+      {
+        "posicion": 443,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El Gráfico Comparativo de Métricas confirma que K=4 representa el punto de equilibrio óptimo entre r..."
+      },
+      {
+        "posicion": 445,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La solución K=4 produce cuatro arquetipos institucionales con identidades pedagógicas claramente def..."
+      },
+      {
+        "posicion": 450,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El análisis de tipologías institucionales se implementó mediante el algoritmo K-Means con especifica..."
+      },
+      {
+        "posicion": 455,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El algoritmo K-Means identificó cuatro tipologías institucionales claramente diferenciadas, con una ..."
+      },
+      {
+        "posicion": 457,
+        "tipo": "referencia_textual",
+        "tiene_titulo": true,
+        "descripcion": "Figura: Gráfico de barras con la distribución por tipología"
+      },
+      {
+        "posicion": 461,
+        "tipo": "referencia_textual",
+        "tiene_titulo": true,
+        "descripcion": "Figura: Gráfico de Configuración Espacial por Tipología"
+      },
+      {
+        "posicion": 463,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La configuración espacial de tipologías institucionales presenta una representación visual simplific..."
+      },
+      {
+        "posicion": 464,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El gráfico utiliza una técnica estadística denominada Análisis de Componentes Principales que funcio..."
+      },
+      {
+        "posicion": 468,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La formación de cuatro grupos claramente separados en diferentes regiones del gráfico confirma que l..."
+      },
+      {
+        "posicion": 470,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La configuración espacial proporciona una herramienta de validación visual que demuestra la coherenc..."
+      },
+      {
+        "posicion": 482,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La validación cruzada manual confirmó la estabilidad de los resultados mediante cinco repeticiones a..."
+      },
+      {
+        "posicion": 490,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La caracterización estadística revela perfiles institucionales claramente diferenciados en las diez ..."
+      },
+      {
+        "posicion": 494,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La Figura proporciona una visualización integral que permite identificar inmediatamente los patrones..."
+      },
+      {
+        "posicion": 502,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "La variable Tipo de Ruralidad (X2_TR) presenta discriminación perfecta (η² = 1.000), indicando que e..."
+      },
+      {
+        "posicion": 505,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El análisis identificó un conjunto de variables con poder discriminante excepcional que definen las ..."
+      },
+      {
+        "posicion": 508,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "Figura - Boxplots de Variables Discriminantes"
+      },
+      {
+        "posicion": 510,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "Descripción: Panel de cuatro gráficos de caja que muestran las distribuciones de Altitud, Ratio Estu..."
+      },
+      {
+        "posicion": 511,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "Las pruebas post-hoc Tukey identificaron las diferencias específicas más significativas entre pares ..."
+      },
+      {
+        "posicion": 512,
+        "tipo": "referencia_textual",
+        "tiene_titulo": true,
+        "descripcion": "Factor Geográfico (ALTITUD_MSNM): La visualización en la Figura 4.2 confirma que las instituciones R..."
+      },
+      {
+        "posicion": 513,
+        "tipo": "referencia_textual",
+        "tiene_titulo": true,
+        "descripcion": "Desempeño Docente (X4_IDD): Las instituciones Rurales Resilientes superan significativamente a las É..."
+      },
+      {
+        "posicion": 521,
+        "tipo": "referencia_textual",
+        "tiene_titulo": false,
+        "descripcion": "El análisis de clustering K-means identificó cuatro tipologías institucionales claramente diferencia..."
+      },
+      {
+        "posicion": 562,
+        "tipo": "referencia_textual",
+        "tiene_titulo": true,
+        "descripcion": "Desafíos principales: Desempeño docente más bajo (1.77), estabilidad docente crítica (0.52) y ratio ..."
+      }
+    ],
+    "parrafos_contenido": [
+      {
+        "posicion": 1,
+        "texto": "ÍNDICE"
+      },
+      {
+        "posicion": 2,
+        "texto": "I.\tINTRODUCCIÓN\t3"
+      },
+      {
+        "posicion": 3,
+        "texto": "II.\tOBJETIVOS\t5"
+      },
+      {
+        "posicion": 4,
+        "texto": "2.1.\tObjetivo general\t5"
+      },
+      {
+        "posicion": 5,
+        "texto": "2.2.\tObjetivos específicos\t5"
+      },
+      {
+        "posicion": 6,
+        "texto": "III.\tMETODOLOGÍA\t6"
+      },
+      {
+        "posicion": 7,
+        "texto": "3.1.\tEnfoque y Diseño del Estudio\t6"
+      },
+      {
+        "posicion": 8,
+        "texto": "3.2.\tUnidad de Análisis y Población de Estudio\t6"
+      },
+      {
+        "posicion": 9,
+        "texto": "3.3.\tFuentes de Datos\t6"
+      },
+      {
+        "posicion": 10,
+        "texto": "3.4.\tProceso Metodológico\t7"
+      },
+      {
+        "posicion": 11,
+        "texto": "3.5.\tTécnicas de Análisis Estadístico\t9"
+      },
+      {
+        "posicion": 12,
+        "texto": "3.6.\tHerramientas Tecnológicas\t9"
+      },
+      {
+        "posicion": 13,
+        "texto": "3.7.\tLimitaciones del Estudio\t9"
+      },
+      {
+        "posicion": 14,
+        "texto": "3.8.\tValidación de Resultados\t10"
+      },
+      {
+        "posicion": 15,
+        "texto": "IV.\tRESULTADOS DEL ESTUDIO\t11"
+      },
+      {
+        "posicion": 16,
+        "texto": "4.1.\tCaracterización General de la Muestra\t11"
+      },
+      {
+        "posicion": 17,
+        "texto": "4.1.1.\tDescripción de la Población de Estudio\t11"
+      },
+      {
+        "posicion": 18,
+        "texto": "4.2.\tIndicadores Clave de Desempeño (KPIs)\t13"
+      },
+      {
+        "posicion": 19,
+        "texto": "4.2.1.\tSistema de Indicadores\t14"
+      },
+      {
+        "posicion": 20,
+        "texto": "4.2.2.\tEstadísticas Descriptivas del Sistema de Variables\t18"
+      },
+      {
+        "posicion": 21,
+        "texto": "4.2.3.\tAnálisis correlacional\t21"
+      },
+      {
+        "posicion": 22,
+        "texto": "4.2.4.\tSelección de variables para identificación de tipologías\t22"
+      },
+      {
+        "posicion": 23,
+        "texto": "4.3.\tModelado de Riesgo y Resiliencia Institucional\t27"
+      },
+      {
+        "posicion": 24,
+        "texto": "4.3.1.\tCaracterización de Instituciones Resilientes y Vulnerables\t36"
+      },
+      {
+        "posicion": 25,
+        "texto": "4.3.2.\tFactores de riesgo y resiliencia identificados\t37"
+      },
+      {
+        "posicion": 26,
+        "texto": "4.3.3.\tValidación del modelo estadístico\t38"
+      },
+      {
+        "posicion": 27,
+        "texto": "4.4.\tIdentificación de Tipologías Institucionales\t39"
+      },
+      {
+        "posicion": 28,
+        "texto": "4.4.1.\tSelección de variables para el análisis\t39"
+      },
+      {
+        "posicion": 29,
+        "texto": "4.4.2.\tDeterminación del Número Óptimo de Tipologias\t39"
+      },
+      {
+        "posicion": 30,
+        "texto": "4.4.3.\tJustificación de la selección k=4 tipologias\t43"
+      },
+      {
+        "posicion": 31,
+        "texto": "4.4.4.\tResultados del Análisis de Conglomerados\t44"
+      },
+      {
+        "posicion": 32,
+        "texto": "4.4.5.\tCaracterización Estadística de Clústeres\t50"
+      },
+      {
+        "posicion": 33,
+        "texto": "4.5.\tPerfiles de Tipologías Institucionales\t55"
+      },
+      {
+        "posicion": 34,
+        "texto": "4.5.1.\tTipología 1: Instituciones Tradicionales Estables\t57"
+      },
+      {
+        "posicion": 35,
+        "texto": "4.5.2.\tTipología 2: Instituciones Élite Institucional\t60"
+      },
+      {
+        "posicion": 36,
+        "texto": "4.5.3.\tTipología 3: Instituciones Rurales Resilientes\t61"
+      },
+      {
+        "posicion": 37,
+        "texto": "4.5.4.\tTipología 4: Instituciones Emergentes Complejas\t63"
+      },
+      {
+        "posicion": 38,
+        "texto": "4.6.\tAnálisis Comparativo entre Tipologías\t66"
+      },
+      {
+        "posicion": 39,
+        "texto": "4.6.1.\tPatrones Transversales\t66"
+      },
+      {
+        "posicion": 40,
+        "texto": "V.\tIMPLICACIONES PARA LA GESTIÓN PEDAGÓGICA\t67"
+      },
+      {
+        "posicion": 41,
+        "texto": "5.1.\tEstrategias de Intervención Diferenciadas por Tipología\t67"
+      },
+      {
+        "posicion": 42,
+        "texto": "5.2.\tModelo de Gestión Basado en Evidencia\t67"
+      },
+      {
+        "posicion": 43,
+        "texto": "5.3.\tPropuesta de instrumentos de gestión\t67"
+      },
+      {
+        "posicion": 44,
+        "texto": "5.4.\tLimitaciones del Estudio\t67"
+      },
+      {
+        "posicion": 45,
+        "texto": "VI.\tCONCLUSIONES Y RECOMENDACIONES\t68"
+      },
+      {
+        "posicion": 46,
+        "texto": "6.1.\tConclusiones\t68"
+      },
+      {
+        "posicion": 47,
+        "texto": "6.2.\tRecomendaciones\t68"
+      },
+      {
+        "posicion": 48,
+        "texto": "REFERENCIAS BIBLIOGRÁFICAS Y BASES DE DATOS\t69"
+      },
+      {
+        "posicion": 49,
+        "texto": "ANEXOS\t69"
+      },
+      {
+        "posicion": 51,
+        "texto": "INTRODUCCIÓN"
+      },
+      {
+        "posicion": 52,
+        "texto": "Fe y Alegría es una organización sin fines de lucro impulsada por la Compañía de Jesús, en coordinac..."
+      },
+      {
+        "posicion": 53,
+        "texto": "Con una trayectoria consolidada en la gestión educativa en contextos de vulnerabilidad, Fe y Alegría..."
+      },
+      {
+        "posicion": 54,
+        "texto": "Justificación del Presente Estudio"
+      },
+      {
+        "posicion": 55,
+        "texto": "En el marco de su plan estratégico a 2030 y con el propósito de fortalecer la calidad educativa en t..."
+      },
+      {
+        "posicion": 56,
+        "texto": "La toma de decisiones informadas sobre formación docente, acompañamiento pedagógico y asignación de ..."
+      },
+      {
+        "posicion": 57,
+        "texto": "Propósito y Alcance del Estudio"
+      },
+      {
+        "posicion": 58,
+        "texto": "El presente estudio tiene como objetivo central clasificar las instituciones educativas de Fe y Aleg..."
+      },
+      {
+        "posicion": 59,
+        "texto": "Esta caracterización se fundamenta en el análisis multidimensional de tres componentes críticos:"
+      },
+      {
+        "posicion": 60,
+        "texto": "Logros de aprendizaje estudiantil: Evaluación del desempeño académico en áreas fundamentales como ma..."
+      },
+      {
+        "posicion": 61,
+        "texto": "Desempeño docente: Análisis del desarrollo profesional del cuerpo docente, incluyendo sus calificaci..."
+      },
+      {
+        "posicion": 62,
+        "texto": "Factores contextuales asociados: Identificación de variables del entorno institucional, socioeconómi..."
+      },
+      {
+        "posicion": 63,
+        "texto": "El estudio intenta incluir a la mayor cantidad de instituciones educativas, según la disponibilidad ..."
+      },
+      {
+        "posicion": 65,
+        "texto": "OBJETIVOS"
+      },
+      {
+        "posicion": 66,
+        "texto": "Objetivo general"
+      },
+      {
+        "posicion": 67,
+        "texto": "Clasificar las instituciones educativas de Fe y Alegría en grupos o perfiles homogéneos (tipologías)..."
+      },
+      {
+        "posicion": 68,
+        "texto": "Objetivos específicos"
+      },
+      {
+        "posicion": 69,
+        "texto": "Desarrollar un sistema integral de indicadores clave de desempeño (KPIs) que permita medir de manera..."
+      },
+      {
+        "posicion": 71,
+        "texto": "Identificar y caracterizar los factores contextuales, pedagógicos y organizacionales que constituyen..."
+      },
+      {
+        "posicion": 73,
+        "texto": "Aplicar técnicas de análisis de conglomerados para agrupar las instituciones educativas en tipología..."
+      },
+      {
+        "posicion": 75,
+        "texto": "Desarrollar una caracterización exhaustiva de cada tipología identificada, incluyendo perfiles descr..."
+      },
+      {
+        "posicion": 77,
+        "texto": "Proponer estrategias de intervención pedagógica y de gestión específicas para cada tipología, consid..."
+      },
+      {
+        "posicion": 79,
+        "texto": "Proponer instrumentos de gestión que faciliten el monitoreo continuo del desempeño institucional, he..."
+      },
+      {
+        "posicion": 81,
+        "texto": "METODOLOGÍA"
+      },
+      {
+        "posicion": 82,
+        "texto": "Enfoque y Diseño del Estudio"
+      },
+      {
+        "posicion": 83,
+        "texto": "El presente estudio adopta un enfoque cuantitativo con diseño exploratorio transversal, fundamentado..."
+      },
+      {
+        "posicion": 84,
+        "texto": "El diseño metodológico integra técnicas de análisis estadístico descriptivo, modelado predictivo y a..."
+      },
+      {
+        "posicion": 85,
+        "texto": "Unidad de Análisis y Población de Estudio"
+      },
+      {
+        "posicion": 86,
+        "texto": "Unidad de Análisis: Instituciones Educativas de Fe y Alegría identificadas por su Código Modular úni..."
+      },
+      {
+        "posicion": 88,
+        "texto": "Población Objetivo: Totalidad de instituciones educativas administradas por Fe y Alegría del Perú qu..."
+      },
+      {
+        "posicion": 90,
+        "texto": "Criterios de Inclusión:"
+      },
+      {
+        "posicion": 91,
+        "texto": "Instituciones educativas con al menos dos años de datos de rendimiento académico estudiantil"
+      },
+      {
+        "posicion": 92,
+        "texto": "Disponibilidad de información sobre participación docente en programas de formación"
+      },
+      {
+        "posicion": 93,
+        "texto": "Datos completos o completables de variables contextuales básicas."
+      },
+      {
+        "posicion": 95,
+        "texto": "Criterios de Exclusión:"
+      },
+      {
+        "posicion": 96,
+        "texto": "Centros educativos con datos insuficientes que no permitan la construcción de indicadores mínimos."
+      },
+      {
+        "posicion": 98,
+        "texto": "Fuentes de Datos"
+      },
+      {
+        "posicion": 99,
+        "texto": "La investigación se basa en la integración de múltiples fuentes de información secundaria:"
+      },
+      {
+        "posicion": 100,
+        "texto": "Fuentes Internas de Fe y Alegría"
+      },
+      {
+        "posicion": 101,
+        "texto": "Bases de datos de rendimiento académico de estudiantes en matemática y comunicación (2022-2024)."
+      },
+      {
+        "posicion": 102,
+        "texto": "Registros de participación docente en el Programa de Actualización y Desarrollo Docente (PADD-R)."
+      },
+      {
+        "posicion": 103,
+        "texto": "Información institucional de las Redes Educativas Regionales (RER)."
+      },
+      {
+        "posicion": 104,
+        "texto": "Datos de caracterización socioeconómica del entorno institucional"
+      },
+      {
+        "posicion": 105,
+        "texto": "3.3.2. Fuentes Externas Oficiales"
+      },
+      {
+        "posicion": 106,
+        "texto": "ESCALE (Estadística de la Calidad Educativa - MINEDU): Información de infraestructura, matrícula y c..."
+      },
+      {
+        "posicion": 107,
+        "texto": "INEI (Instituto Nacional de Estadística e Informática): Datos de necesidades básicas insatisfechas y..."
+      },
+      {
+        "posicion": 108,
+        "texto": "Censo de Infraestructura Educativa: Información sobre servicios básicos, equipamiento y estado de la..."
+      },
+      {
+        "posicion": 110,
+        "texto": "Proceso Metodológico"
+      },
+      {
+        "posicion": 111,
+        "texto": "La metodología se desarrolla en cinco fases secuenciales e interconectadas:"
+      },
+      {
+        "posicion": 112,
+        "texto": "FASE 1: CONSOLIDACIÓN Y PREPARACIÓN DE DATOS"
+      },
+      {
+        "posicion": 113,
+        "texto": "Objetivo: Crear una base de datos única, limpia y estructurada que integre toda la información dispo..."
+      },
+      {
+        "posicion": 114,
+        "texto": "Actividades:"
+      },
+      {
+        "posicion": 115,
+        "texto": "Recopilación y unificación de datos de múltiples fuentes utilizando el Código Modular y/o Código de ..."
+      },
+      {
+        "posicion": 116,
+        "texto": "Limpieza y validación de datos mediante detección de inconsistencias, valores atípicos y duplicados."
+      },
+      {
+        "posicion": 117,
+        "texto": "Tratamiento de datos faltantes aplicando técnicas de imputación estadística:"
+      },
+      {
+        "posicion": 118,
+        "texto": "Imputación por media para variables continuas"
+      },
+      {
+        "posicion": 119,
+        "texto": "Imputación por moda para variables categóricas"
+      },
+      {
+        "posicion": 120,
+        "texto": "Documentación del porcentaje de imputación por variable"
+      },
+      {
+        "posicion": 121,
+        "texto": "Estandarización de todas las variables continuas mediante z-score para evitar sesgos por escala"
+      },
+      {
+        "posicion": 122,
+        "texto": "Codificación apropiada de variables categóricas para análisis posterior"
+      },
+      {
+        "posicion": 123,
+        "texto": "FASE 2: CONSTRUCCIÓN DE INDICADORES DE DESEMPEÑO (KPIs)"
+      },
+      {
+        "posicion": 124,
+        "texto": "Objetivo: Desarrollar métricas estandarizadas que faciliten la comparación objetiva entre institucio..."
+      },
+      {
+        "posicion": 125,
+        "texto": "Indicadores Desarrollados:"
+      },
+      {
+        "posicion": 126,
+        "texto": "Variables Dependientes (Resultados):"
+      },
+      {
+        "posicion": 127,
+        "texto": "Y1: Índice de Logro Académico (ILA)\n ILA = (Promedio_Notas_Matemática + Promedio_Notas_Comunicación)..."
+      },
+      {
+        "posicion": 128,
+        "texto": "Y2: Tendencia de Desempeño (TD)\n TD = (ILA_2024 - ILA_2022) / ILA_2022\n Valores >0.05 indican mejora..."
+      },
+      {
+        "posicion": 129,
+        "texto": "Y3: Perfil de Resiliencia (PR)\n PR = Residuo estandarizado del modelo: ILA ~ Factores_Contextuales\n ..."
+      },
+      {
+        "posicion": 130,
+        "texto": "Variables Independientes (Factores Explicativos):"
+      },
+      {
+        "posicion": 131,
+        "texto": "Contexto:"
+      },
+      {
+        "posicion": 132,
+        "texto": "X1: Nivel de Vulnerabilidad Contextual (NVC)\n NVC = (NBI_distrito × 0.4) + (Ruralidad × 0.3) + (1-Se..."
+      },
+      {
+        "posicion": 133,
+        "texto": "Docente:"
+      },
+      {
+        "posicion": 134,
+        "texto": "X4: Índice de Desempeño Docente (IDD)\n IDD = Promedio_calificaciones_PADD_por_IIEE\n Escala: 1-4, don..."
+      },
+      {
+        "posicion": 135,
+        "texto": "X5: Estabilidad Docente (ED)\n ED = (Docentes_nombrados/Total_docentes × 0.5) + (Promedio_años_servic..."
+      },
+      {
+        "posicion": 136,
+        "texto": "Recursos:"
+      },
+      {
+        "posicion": 137,
+        "texto": "X10: Infraestructura Educativa (IE)\n IE = (Servicios_básicos × 0.4) + (Estado_mobiliario × 0.3) + (T..."
+      },
+      {
+        "posicion": 138,
+        "texto": "X11: Ratio Estudiante-Docente (RED)\n RED = Total_estudiantes / Total_docentes\n Variable continua, va..."
+      },
+      {
+        "posicion": 139,
+        "texto": "FASE 3: ANÁLISIS DE FACTORES DE RIESGO Y RESILIENCIA"
+      },
+      {
+        "posicion": 140,
+        "texto": "Objetivo: Identificar factores contextuales que influyen en el desempeño y determinar instituciones ..."
+      },
+      {
+        "posicion": 141,
+        "texto": "Actividades:"
+      },
+      {
+        "posicion": 142,
+        "texto": "Análisis de correlación entre variables contextuales y de resultado"
+      },
+      {
+        "posicion": 143,
+        "texto": "Modelado de regresión múltiple:\n ILA ~ NVC + Tipo_Ruralidad + Modalidad_EIB + IDD + ED + IE + RED"
+      },
+      {
+        "posicion": 144,
+        "texto": "Cálculo del Perfil de Resiliencia mediante residuos estandarizados"
+      },
+      {
+        "posicion": 145,
+        "texto": "Clasificación de instituciones:"
+      },
+      {
+        "posicion": 146,
+        "texto": "Resilientes: PR > 1 (superan expectativas contextuales)"
+      },
+      {
+        "posicion": 147,
+        "texto": "Esperado: -1 ≤ PR ≤ 1 (desempeño acorde al contexto)"
+      },
+      {
+        "posicion": 148,
+        "texto": "Vulnerables: PR < -1 (por debajo de expectativas)"
+      },
+      {
+        "posicion": 149,
+        "texto": "FASE 4: MODELADO E IDENTIFICACIÓN DE TIPOLOGÍAS"
+      },
+      {
+        "posicion": 150,
+        "texto": "Objetivo: Segmentar las instituciones en grupos homogéneos utilizando análisis de conglomerados."
+      },
+      {
+        "posicion": 151,
+        "texto": "Proceso de Clustering:"
+      },
+      {
+        "posicion": 152,
+        "texto": "Selección de variables para clustering: ILA, TD, PR, NVC, IDD, ED, IE, RED"
+      },
+      {
+        "posicion": 153,
+        "texto": "Determinación del número óptimo de clústeres mediante:"
+      },
+      {
+        "posicion": 154,
+        "texto": "Método del codo (Elbow Method)"
+      },
+      {
+        "posicion": 155,
+        "texto": "Coeficiente de Silueta"
+      },
+      {
+        "posicion": 156,
+        "texto": "Exploración entre 3 y 6 clústeres"
+      },
+      {
+        "posicion": 157,
+        "texto": "Aplicación del algoritmo K-Means con validación cruzada"
+      },
+      {
+        "posicion": 158,
+        "texto": "Validación de estabilidad de los clústeres obtenidos"
+      },
+      {
+        "posicion": 159,
+        "texto": "FASE 5: CARACTERIZACIÓN Y VISUALIZACIÓN DE RESULTADOS"
+      },
+      {
+        "posicion": 160,
+        "texto": "Objetivo: Desarrollar perfiles detallados de cada tipología y herramientas de gestión."
+      },
+      {
+        "posicion": 161,
+        "texto": "Actividades:"
+      },
+      {
+        "posicion": 162,
+        "texto": "Caracterización descriptiva de cada clúster identificado"
+      },
+      {
+        "posicion": 163,
+        "texto": "Análisis de distribución geográfica por RER y región"
+      },
+      {
+        "posicion": 164,
+        "texto": "Identificación de instituciones modelo representativas de cada tipología"
+      },
+      {
+        "posicion": 165,
+        "texto": "Desarrollo de dashboard interactivo con visualizaciones dinámicas"
+      },
+      {
+        "posicion": 166,
+        "texto": "Formulación de estrategias de intervención diferenciadas por tipología"
+      },
+      {
+        "posicion": 168,
+        "texto": "Técnicas de Análisis Estadístico"
+      },
+      {
+        "posicion": 169,
+        "texto": "Análisis Descriptivo"
+      },
+      {
+        "posicion": 170,
+        "texto": "Estadísticas descriptivas univariadas y bivariadas"
+      },
+      {
+        "posicion": 171,
+        "texto": "Análisis de distribuciones y detección de valores atípicos"
+      },
+      {
+        "posicion": 172,
+        "texto": "Matrices de correlación entre variables clave"
+      },
+      {
+        "posicion": 174,
+        "texto": "Análisis Inferencial"
+      },
+      {
+        "posicion": 175,
+        "texto": "Regresión lineal múltiple para modelado de resiliencia"
+      },
+      {
+        "posicion": 176,
+        "texto": "Análisis de varianza (ANOVA) para comparación entre grupos"
+      },
+      {
+        "posicion": 177,
+        "texto": "Pruebas de significancia estadística (α = 0.05)"
+      },
+      {
+        "posicion": 179,
+        "texto": "Análisis Multivariado"
+      },
+      {
+        "posicion": 180,
+        "texto": "Análisis de componentes principales (PCA) para reducción dimensional"
+      },
+      {
+        "posicion": 181,
+        "texto": "Análisis de conglomerados K-Means"
+      },
+      {
+        "posicion": 182,
+        "texto": "Validación interna mediante coeficiente de silueta"
+      },
+      {
+        "posicion": 184,
+        "texto": "Herramientas Tecnológicas"
+      },
+      {
+        "posicion": 185,
+        "texto": "R Statistical Software: Para análisis estadístico y modelado"
+      },
+      {
+        "posicion": 186,
+        "texto": "Python: Para procesamiento de datos y algoritmos de machine learning"
+      },
+      {
+        "posicion": 187,
+        "texto": "Tableau/Power BI: Para desarrollo de visualizaciones interactivas"
+      },
+      {
+        "posicion": 188,
+        "texto": "Excel: Para consolidación inicial de datos y reportes"
+      },
+      {
+        "posicion": 190,
+        "texto": "Limitaciones del Estudio"
+      },
+      {
+        "posicion": 191,
+        "texto": "Naturaleza exploratoria: Los resultados constituyen un primer acercamiento que requiere validación p..."
+      },
+      {
+        "posicion": 192,
+        "texto": "Dependencia de datos secundarios: La calidad del análisis está condicionada por la disponibilidad y ..."
+      },
+      {
+        "posicion": 193,
+        "texto": "Periodo temporal limitado: El análisis se circunscribe a tres años, lo que puede no capturar tendenc..."
+      },
+      {
+        "posicion": 194,
+        "texto": "Generalización limitada: Los hallazgos son específicos para la red Fe y Alegría y pueden no ser extr..."
+      },
+      {
+        "posicion": 196,
+        "texto": "Validación de Resultados"
+      },
+      {
+        "posicion": 197,
+        "texto": "Triangulación con conocimiento experto de coordinadores de RER"
+      },
+      {
+        "posicion": 198,
+        "texto": "Validación cruzada mediante técnicas estadísticas."
+      },
+      {
+        "posicion": 199,
+        "texto": "Revisión de consistencia con estudios previos y literatura especializada."
+      },
+      {
+        "posicion": 201,
+        "texto": "Esta metodología proporciona un marco sistemático y robusto para la caracterización de las instituci..."
+      },
+      {
+        "posicion": 203,
+        "texto": "RESULTADOS DEL ESTUDIO"
+      },
+      {
+        "posicion": 204,
+        "texto": "Caracterización General de la Muestra"
+      }
+    ]
+  }
+}
